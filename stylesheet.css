@@ -63,6 +63,20 @@
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
 }
 
+/* 定义英文字体 */
+@font-face {
+    font-family: 'EnglishFont';
+    src: local('Times New Roman'), local('Verdana'), local('Helvetica'), local('sans-serif');
+    unicode-range: U+0020-007F; /* 英文 Unicode 范围 */
+}
+
+/* 定义中文字体 */
+@font-face {
+    font-family: 'ChineseFont';
+    src: local('SimSun'), local('SimHei'), local('Microsoft YaHei');
+    unicode-range: U+4E00-9FFF; /* 中文字符 Unicode 范围 */
+}
+
 a {
   color: #1772d0;
   text-decoration: none;
@@ -74,40 +88,57 @@ a:hover {
   text-decoration: none;
 }
 
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.content_ceil {
+    border-top: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+}
+
 body,
 td,
 th,
 tr,
 p,
 a {
-  font-family: 'Lato', Verdana, Helvetica, sans-serif;
-  font-size: 14px
+  font-family: 'Times New Roman', 'ChineseFont', Verdana, Helvetica, sans-serif;
+  font-size: 20px
+}
+
+td {
+    padding: 10px;
+    vertical-align: middle;
 }
 
 strong {
-  font-family: 'Lato', Verdana, Helvetica, sans-serif;
-  font-size: 14px;
+  font-family: 'Times New Roman', Verdana, Helvetica, sans-serif;
+  font-size: 20px;
 }
 
 heading {
-  font-family: 'Lato', Verdana, Helvetica, sans-serif;
-  font-size: 22px;
+  font-family: 'Georgia', Verdana, Helvetica, sans-serif;
+  font-size: 24px;
 }
 
 papertitle {
-  font-family: 'Lato', Verdana, Helvetica, sans-serif;
-  font-size: 14px;
+  font-family: 'Times New Roman', Verdana, Helvetica, sans-serif;
+  font-size: 20px;
   font-weight: 700
 }
 
 name {
-  font-family: 'Lato', Verdana, Helvetica, sans-serif;
+  font-family: 'Georgia', Verdana, 'ChineseFont', Helvetica, sans-serif;
   font-size: 32px;
 }
 
 .one {
   width: 160px;
-  height: 160px;
+  height: 100px;
   position: relative;
 }
 
