@@ -66,14 +66,14 @@
 /* 定义英文字体 */
 @font-face {
     font-family: 'EnglishFont';
-    src: local('Times New Roman'), local('Verdana'), local('Helvetica'), local('sans-serif');
+    src: local('Times New Roman'), local('Verdana'), local('Helvetica'), local('sans-serif'), url(https://fonts.gstatic.com/s/timesnewroman/v8/TimesNewRomanPSMT.woff2) format('woff2'),;
     unicode-range: U+0020-007F; /* 英文 Unicode 范围 */
 }
 
 /* 定义中文字体 */
 @font-face {
     font-family: 'ChineseFont';
-    src: local('SimSun'), local('SimHei'), local('Microsoft YaHei');
+    src: local('SimSun'), url(https://fonts.gstatic.com/s/simsun/v9/SimSun.woff2) format('woff2'), local('SimHei'), local('Microsoft YaHei');
     unicode-range: U+4E00-9FFF; /* 中文字符 Unicode 范围 */
 }
 
