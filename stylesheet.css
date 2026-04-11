@@ -160,3 +160,43 @@ name {
 span.highlight {
   background-color: #ffffd0;
 }
+
+/* ===== Section 分割线（核心） ===== */
+.section {
+  padding-top: 25px;
+  padding-bottom: 25px;
+  border-bottom: 1px solid #e5e5e5;
+}
+
+/* ===== 标题样式升级（替代 heading 标签） ===== */
+h2 {
+  font-family: 'Georgia', serif;
+  font-size: 24px;
+  margin-bottom: 10px;
+  border-bottom: 2px solid #1772d0;
+  padding-bottom: 5px;
+}
+
+/* ===== Publications 每篇之间的分割 ===== */
+.paper-sep {
+  border-top: 1px solid #eee;
+}
+
+/* ===== 更优雅的间距 ===== */
+ul {
+  padding-left: 20px;
+  margin-top: 10px;
+}
+
+/* ===== 论文标题强化（更像顶会） ===== */
+papertitle {
+  font-size: 20px;
+  font-weight: bold;
+  color: #000;
+}
+
+/* ===== 论文 hover（轻微高级感） ===== */
+.content_ceil:hover {
+  background-color: #fafafa;
+  transition: 0.2s;
+}
