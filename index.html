@@ -13,47 +13,41 @@
 </head>
 
 <body>
-  <table style="width:100%;max-width:1000px;margin:auto;border-spacing:0;">
+  <table class="main-table">
     <tbody>
 
       <!-- ===== Profile ===== -->
       <tr>
-        <td>
-          <table style="width:100%;margin:auto;">
+        <td class="section">
+          <table class="inner-table">
             <tr>
-              <td style="padding:2.5%;width:63%;vertical-align:middle">
+              <td class="left">
+                <h1 class="name">Fei Xu (许飞)</h1>
 
-                <h1 style="text-align:center;">Fei Xu (许飞)</h1>
-
-                <p align="justify">
+                <p>
                   <strong>Bio: </strong>
                   I am a second-year master's student in the
                   <a href="http://www.cs.sjtu.edu.cn">School of Computer Science</a>
                   at <a href="https://www.sjtu.edu.cn/">Shanghai JiaoTong University</a>.
-                  Starting from 2024, I am supervised by Prof.
-                  <a href="https://scholar.google.com/citations?user=yDEavdMAAAAJ&hl=zh-CN"><strong>Xiaokang Yang</strong></a>
-                  and Associate Professor
-                  <a href="https://daodaofr.github.io/"><strong>Yichao Yan</strong></a>.
-                  Prior to that, I received my bachelor's degree from
-                  <a href="https://www.shu.edu.cn/">Shanghai University</a>.
+                  I am supervised by
+                  <a href="#"><strong>Xiaokang Yang</strong></a> and
+                  <a href="#"><strong>Yichao Yan</strong></a>.
                 </p>
 
-                <p align="justify">
-                  My research interests include Motion Generation, Personal Portrait Animation, and Computer Vision.
-                  I am also interested in History in my spare time.
+                <p>
+                  My research interests include Motion Generation, Portrait Animation, and Computer Vision.
                 </p>
 
-                <p style="text-align:center">
-                  <a href="mailto:fei_xu@sjtu.edu.cn">Email</a> &nbsp;/&nbsp
-                  <a href="#">Google Scholar</a> &nbsp;/&nbsp
-                  <a href="https://github.com/honeyxu1108">GitHub</a> &nbsp;/&nbsp
+                <p class="links">
+                  <a href="mailto:fei_xu@sjtu.edu.cn">Email</a>
+                  <a href="#">Google Scholar</a>
+                  <a href="https://github.com/honeyxu1108">GitHub</a>
                   <a href="https://x.com/honeyxu1108">Twitter</a>
                 </p>
-
               </td>
 
-              <td style="padding:2.5%;width:25%;">
-                <img src="images/xufei.jpg" style="width:100%;max-width:100%;" alt="profile photo">
+              <td class="right">
+                <img src="images/xufei.jpg" class="avatar">
               </td>
             </tr>
           </table>
@@ -62,113 +56,81 @@
 
       <!-- ===== News ===== -->
       <tr>
-        <td style="padding:20px;">
-          <h2>News</h2>
+        <td class="section">
+          <h2 class="section-title">News</h2>
           <ul>
-            <li>[2026.03] One paper: SingingBot is accepted by ICME 2026! 😀</li>
-            <li>[2025.06] One paper is accepted by ICCV 2025! 😀</li>
+            <li><span class="date">2026.03</span> SingingBot accepted by ICME 2026 🎉</li>
+            <li><span class="date">2025.06</span> Paper accepted by ICCV 2025 🎉</li>
           </ul>
         </td>
       </tr>
 
-      <!-- ===== Publications Title ===== -->
+      <!-- ===== Publications ===== -->
       <tr>
-        <td style="padding:20px;">
-          <h2>Publications</h2>
-        </td>
-      </tr>
+        <td class="section">
+          <h2 class="section-title">Publications</h2>
 
-      <!-- ===== Publication 1 ===== -->
-      <tr>
-        <td>
-          <table style="width:100%;">
+          <!-- Paper 1 -->
+          <table class="paper">
             <tr>
-              <td style="padding:25px;width:35%;">
-                <img src="images/intervla.jpg" width="300">
+              <td class="paper-img">
+                <img src="images/intervla.jpg">
               </td>
+              <td class="paper-text">
+                <div class="paper-title">
+                  Perceiving and Acting in First-Person: A Dataset and Benchmark for Egocentric Human-Object-Human Interactions
+                </div>
 
-              <td style="padding:25px;width:65%;vertical-align:middle;">
-                <a href="#">
-                  <strong>
-                    Perceiving and Acting in First-Person: A Dataset and Benchmark for Egocentric Human-Object-Human Interactions
-                  </strong>
-                </a>
+                <div class="paper-authors">
+                  <a href="https://liangxuy.github.io/">Liang Xu</a>,
+                  Chengqun Yang,
+                  <strong>Fei Xu</strong>, et al.
+                </div>
 
-                <br><br>
+                <div class="paper-venue highlight">
+                  ICCV 2025
+                </div>
 
-                <a href="https://liangxuy.github.io/">Liang Xu</a>,
-                Chengqun Yang,
-                Zili Lin,
-                <strong>Fei Xu</strong>,
-                Yifan Liu,
-                Congsheng Xu,
-                Yiyi Zhang,
-                Jie Qin,
-                Xingdong Sheng,
-                Yunhui Liu,
-                Xin Jin,
-                Yichao Yan,
-                Wenjun Zeng,
-                Xiaokang Yang
-
-                <br><br>
-                <strong>ICCV, 2025</strong>
-
-                <br>
-                <a href="https://arxiv.org/abs/2508.04681">Paper Link</a>
-
-                <p align="justify">
-                  In this paper, we embed the manual-assisted task into a vision-language-action framework...
-                </p>
+                <div class="paper-links">
+                  <a href="https://arxiv.org/abs/2508.04681">Paper</a>
+                </div>
               </td>
             </tr>
           </table>
-        </td>
-      </tr>
 
-      <!-- ===== Publication 2 ===== -->
-      <tr>
-        <td>
-          <table style="width:100%;">
+          <!-- Paper 2 -->
+          <table class="paper">
             <tr>
-              <td style="padding:25px;width:35%;">
-                <img src="images/SingingBot teaser.png" width="300">
+              <td class="paper-img">
+                <img src="images/SingingBot teaser.png">
               </td>
+              <td class="paper-text">
+                <div class="paper-title">
+                  SingingBot: An Avatar-Driven System for Robotic Face Singing Performance
+                </div>
 
-              <td style="padding:25px;width:65%;vertical-align:middle;">
-                <a href="#">
-                  <strong>
-                    SingingBot: An Avatar-Driven System for Robotic Face Singing Performance
-                  </strong>
-                </a>
+                <div class="paper-authors">
+                  Zhuoxiong Xu,
+                  <strong>Fei Xu</strong>, et al.
+                </div>
 
-                <br><br>
+                <div class="paper-venue highlight">
+                  ICME 2026
+                </div>
 
-                Zhuoxiong Xu,
-                Xuanchen Li,
-                Yuhao Cheng,
-                <strong>Fei Xu</strong>,
-                Yichao Yan,
-                Xiaokang Yang
-
-                <br><br>
-                <strong>ICME, 2026</strong>
-
-                <br>
-                <a href="https://arxiv.org/abs/2601.02125">Paper Link</a>
-
-                <p align="justify">
-                  Equipping robotic faces with singing capabilities is crucial for empathetic Human-Robot Interaction...
-                </p>
+                <div class="paper-links">
+                  <a href="https://arxiv.org/abs/2601.02125">Paper</a>
+                </div>
               </td>
             </tr>
           </table>
+
         </td>
       </tr>
 
       <!-- ===== Footer ===== -->
       <tr>
-        <td style="text-align:right;font-size:12px;padding:20px;">
+        <td class="footer">
           <a href="https://jonbarron.info/">Website Template</a>
         </td>
       </tr>
