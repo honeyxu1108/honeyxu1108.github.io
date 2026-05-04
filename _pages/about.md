@@ -207,9 +207,7 @@ redirect_from:
 </body>
 </html>
 
-I am an undergraduate (2022-2026) at Xidian University, focusing on Computer Vision and Robot Learning.
-
-I am also an Incoming Phd at [MMLab@HKU](https://mmlab.hk/) with [Prof. Xihui Liu](https://xh-liu.github.io/).
+I am an undergraduate (2022-2026) at Xidian University and incoming Phd at [MMLab@HKU](https://mmlab.hk/) with [Prof. Xihui Liu](https://xh-liu.github.io/).
 
 Previously I worked at [ByteDance Seed](https://seed.bytedance.com/en/). I was also an RA at [MVIG@SJTU](https://www.mvig.org/index.html) with [Prof. Lixin Yang](https://lixiny.github.io/) and [Prof. Cewu Lu](https://www.mvig.org/index.html).
 
