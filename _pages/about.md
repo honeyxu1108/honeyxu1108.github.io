@@ -216,7 +216,7 @@ Currently I conduct the VLA research at [ByteDance Seed](https://seed.bytedance.
 
 News
 ---------------
-- *In charge of [Microsoft Club](https://github.com/MSC-XDU). Feel free to reach out if you'd like to join.*
+- [2026/05] *Finished my internship at ByteDance Seed.*
 
 Experience
 --------------
@@ -264,6 +264,15 @@ Experience
           Sep 2022 - July 2026<br>
           Rank 4/174, <b>National Scholarship</b><br>
           B.E at <a href="https://sai.xidian.edu.cn"><em>SAI</em></a> & RA at <a href="https://web.xidian.edu.cn/mggong/"><em>OMEGA</em></a> Lab
+      </div>
+  </div>
+
+  <div class="experience-card">
+      <img src="images/ssy.png" alt="ssy logo" class="experience-logo">
+      <div class="experience-info">
+          <strong>Hubei Wuchang Experimental High School</strong><br>
+          Sep 2019 - June 2022<br>
+          那是一段小有遗憾的幸福时光.
       </div>
   </div>
 </div>
