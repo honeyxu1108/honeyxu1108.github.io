@@ -209,10 +209,9 @@ redirect_from:
 
 I am an undergraduate (2022-2026) at Xidian University, focusing on Computer Vision and Robot Learning.
 
-I work at [MMLab@HKU](https://mmlab.hk/) with [Prof. Xihui Liu](https://xh-liu.github.io/).
-Previously I worked at [MVIG@SJTU](https://www.mvig.org/index.html) with [Prof. Lixin Yang](https://lixiny.github.io/) and [Prof. Cewu Lu](https://www.mvig.org/index.html).
+I am also an Incoming Phd at [MMLab@HKU](https://mmlab.hk/) with [Prof. Xihui Liu](https://xh-liu.github.io/).
 
-Currently I conduct the VLA research at [ByteDance Seed](https://seed.bytedance.com/en/).
+Previously I worked at [ByteDance Seed](https://seed.bytedance.com/en/). I was also an RA at [MVIG@SJTU](https://www.mvig.org/index.html) with [Prof. Lixin Yang](https://lixiny.github.io/) and [Prof. Cewu Lu](https://www.mvig.org/index.html).
 
 News
 ---------------
@@ -220,22 +219,23 @@ News
 
 Experience
 --------------
-<div class="experience-container">
-  <div class="experience-card">
-      <img src="images/bytedance.png" alt="Seed logo" class="experience-logo">
-      <div class="experience-info">
-          <strong>ByteDance Seed</strong><br>
-          Oct 2025 - Now<br>
-          MLE Intern at <a href="https://seed.bytedance.com/en/"><em>Seed-Robotics</em></a> 
-      </div>
-  </div>
 
+<div class="experience-container">
   <div class="experience-card">
       <img src="images/HKU.png" alt="HKU logo" class="experience-logo">
       <div class="experience-info">
           <strong>The University of Hong Kong</strong><br>
-          June 2025 - Now<br>
-          Research Intern at <a href="https://mmlab.hk/"><em>MMLab@HKU</em></a> 
+          Sep 2026 - <br>
+          Phd at <a href="https://mmlab.hk/"><em>MMLab@HKU</em></a> 
+      </div>
+  </div>
+
+  <div class="experience-card">
+      <img src="images/bytedance.png" alt="Seed logo" class="experience-logo">
+      <div class="experience-info">
+          <strong>ByteDance Seed</strong><br>
+          Oct 2025 - May 2026<br>
+          MLE Intern at <a href="https://seed.bytedance.com/en/"><em>Seed-Robotics</em></a> 
       </div>
   </div>
 
@@ -253,7 +253,7 @@ Experience
       <div class="experience-info">
           <strong>Shanghai Jiao Tong University</strong><br>
           July 2024 - June 2025<br>
-          Research Intern at <a href="https://www.mvig.org/index.html"><em>MVIG</em></a> Lab
+          Research Assistant at <a href="https://www.mvig.org/index.html"><em>MVIG</em></a> Lab
       </div>
   </div>
 
