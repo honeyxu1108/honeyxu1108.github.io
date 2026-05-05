@@ -407,7 +407,7 @@ Publications
             <a href="https://lixiny.github.io" target="_blank">Lixin Yang</a>&dagger;
         </i><br>
         Propose MBA, a novel plug-and-play module leveraging cascaded diffusion processes to generate actions guided by object motion, enabling seamless integration with manipulation policies.<br>
-      <b><i style="color:#83a1c7;">RA-L 2025, ICRA 2026</i></b><span class="pub-badge pub-badge--oral">Oral</span>&nbsp;
+      <b><i style="color:#83a1c7;">RA-L 2025, ICRA 2026</i></b>&nbsp;
         <a href="https://ieeexplore.ieee.org/abstract/document/11027642"><em>[paper]</em></a>
         <a href="https://arxiv.org/abs/2411.09658"><em>[arxiv]</em></a> 
         <a href="https://selen-suyue.github.io/MBApage"><em>[website]</em></a>
