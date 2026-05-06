@@ -229,7 +229,7 @@ Experience
 <div class="experience-container">
 
   <div class="experience-card">
-      <img src="images/Alibaba.png" alt="astri logo" class="experience-logo">
+      <img src="images/Alibaba.png" alt="Alibaba logo" class="experience-logo">
       <div class="experience-info">
           <strong>Alibaba Group</strong><br>
           May 2026 - present<br>
@@ -240,9 +240,9 @@ Experience
 
   
   <div class="experience-card">
-      <img src="images/TeleAI.png" alt="astri logo" class="experience-logo">
+      <img src="images/TeleAI.png" alt="TeleAI logo" class="experience-logo">
       <div class="experience-info">
-          <strong>Institute of Artificial Intelligence of China Telecom</strong><br>
+          <strong>Institute of Artificial Intelligence of China Telecom (TeleAI)</strong><br>
           Jan 2026 - Mar 2026<br>
           Start My Journey in LLM
       </div>
@@ -260,7 +260,7 @@ Experience
   </div>
 
   <div class="experience-card">
-      <img src="images/NUS.png" alt="SJTU logo" class="experience-logo">
+      <img src="images/NUS.png" alt="NUS logo" class="experience-logo">
       <div class="experience-info">
           <strong>National University of Singapore</strong><br>
           Oct 2024 - Oct 2025<br>
