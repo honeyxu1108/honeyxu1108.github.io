@@ -312,7 +312,7 @@ Publications
 
 <div class="publication-card" data-category="mllm benchmark"> 
   <div style="display: flex; align-items: center;"> 
-    <div class="pub-media-rotator" data-interval="4000" style="position: relative; width: 240px; height: 140px; margin-right: 20px; border-radius: 8px; overflow: hidden; flex: 0 0 auto;"> 
+    <div class="pub-media-rotator" data-interval="4000" style="position: relative; width: 320px; height: 180px; margin-right: 20px; border-radius: 8px; overflow: hidden; flex: 0 0 auto;"> 
       <img src="images/GroupToM.png" alt="wog" style="width: 240px; height: 140px; object-fit: contain; display: block;"> 
     </div>
     <div> 
@@ -327,7 +327,7 @@ Publications
         Can Zhang, 
         Xinyan Wan, 
         <a href="https://jerryliang24.github.io/" target="_blank">Zhiyuan Liang</a>, 
-        <a href="https://lancezpf.github.io/" target="_blank">Pengfei Zhou</a>&dagger; 
+        <a href="https://lancezpf.github.io/" target="_blank">Pengfei Zhou</a>&dagger;,
         <a href="https://www.comp.nus.edu.sg/~youy/" target="_blank">Yang You</a>, 
         <a href="https://wangbo-zhao.github.io/" target="_blank">Wangbo Zhao</a>&dagger;
       </i><br> 
