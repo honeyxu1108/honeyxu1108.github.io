@@ -116,9 +116,9 @@ redirect_from:
         box-shadow: 0 8px 16px rgba(242, 166, 120, 0.4); 
     }
     
-    .publication-card.non-featured {
-        display: flex; /* 默认隐藏非精选出版物 */
-    }
+    /*.publication-card.non-featured {*/
+        /*display: flex;  默认隐藏非精选出版物 */
+    /*}*/
     
     .pub-button-container {
         display: flex;
@@ -278,32 +278,47 @@ Publications
 </div>
 
 <div class="publication-card" data-category="mllm benchmark">
-  <div style="display: flex; align-items: center;">
-    <div class="pub-media-rotator" data-interval="4000" style="position: relative; width: 200px; height: 120px; margin-right: 20px; border-radius: 8px; overflow: hidden; flex: 0 0 auto;">
-      <img src="images/GroupToM.png" alt="wog" style="width: 200px; height: 120px; object-fit: cover; display: block;">
+  <div style="display: flex; align-items: center; gap: 20px;">
+    
+    <!-- 图片容器 -->
+    <div style="
+      width: 200px;
+      aspect-ratio: 5 / 3;
+      overflow: hidden;
+      border-radius: 8px;
+      flex-shrink: 0;
+    ">
+      <img src="images/GroupToM.png" alt="GroupToM"
+           style="
+             width: 100%;
+             height: 100%;
+             object-fit: cover;
+             display: block;
+           ">
     </div>
+
+    <!-- 文本 -->
     <div>
-        <strong>GroupToM-Bench: Benchmarking Group Theory of Mind and Nonlinear Social Emergence in MLLMs</strong><br>
-        <i style="font-size: 13px;">
-            <a href="https://wd7ang.github.io" target="_blank"><strong>Weidong Tang</strong></a>, 
-            Jierui Li,
-            Yueling Hou,
-            Zihan Mei,
-            Zhigang Tian,
-            Weicheng Jiao,
-            Can Zhang,
-            Xinyan Wan,
-            <a href="https://jerryliang24.github.io/" target="_blank">Zhiyuan Liang</a>,
-            <a href="https://lancezpf.github.io/" target="_blank">Pengfei Zhou</a>&dagger,
-            <a href="https://www.comp.nus.edu.sg/~youy/" target="_blank">Yang You</a>,
-            <a href="https://wangbo-zhao.github.io/" target="_blank">Wangbo Zhao</a>&dagger;
-        </i><br>
-        We propose GroupToM-Bench and show that current models fail at nonlinear group reasoning despite strong individual-level ToM, exposing a clear group cognitive gap.
-        <br>
-        <b><i style="color:#83a1c7;">ACL 2026 Oral &nbsp;</i></b>
-        <a href=""><em>[arXiv]</em></a>
-        <a href=""><em>[code]</em></a>
+      <strong>GroupToM-Bench: Benchmarking Group Theory of Mind and Nonlinear Social Emergence in MLLMs</strong><br>
+
+      <i style="font-size: 13px;">
+        <a href="https://wd7ang.github.io" target="_blank"><strong>Weidong Tang</strong></a>, 
+        Jierui Li, Yueling Hou, Zihan Mei, Zhigang Tian, Weicheng Jiao,
+        Can Zhang, Xinyan Wan,
+        <a href="https://jerryliang24.github.io/" target="_blank">Zhiyuan Liang</a>,
+        <a href="https://lancezpf.github.io/" target="_blank">Pengfei Zhou</a>&dagger,
+        <a href="https://www.comp.nus.edu.sg/~youy/" target="_blank">Yang You</a>,
+        <a href="https://wangbo-zhao.github.io/" target="_blank">Wangbo Zhao</a>&dagger;
+      </i><br>
+
+      We propose GroupToM-Bench and show that current models fail at nonlinear group reasoning despite strong individual-level ToM, exposing a clear group cognitive gap.
+      <br>
+
+      <b><i style="color:#83a1c7;">ACL 2026 Oral &nbsp;</i></b>
+      <a href=""><em>[arXiv]</em></a>
+      <a href=""><em>[code]</em></a>
     </div>
+
   </div>
 </div>
 
