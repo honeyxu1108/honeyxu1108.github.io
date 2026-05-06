@@ -428,8 +428,8 @@ Publications
       <a href=""><em>[code]</em></a> 
     </div>
   </div> 
-
-
+</div> 
+<div> 
 
 <script src="assets/js/show_publications.js"></script>
 <script src="assets/js/pub_media_rotator.js"></script>
