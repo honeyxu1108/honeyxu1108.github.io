@@ -310,12 +310,12 @@ Publications
 <button class="pub-button" onclick="filterPublications(event, 'mllm')">MLLM</button>
 <button class="pub-button" onclick="filterPublications(event, 'benchmark')">BenchMark</button>
 
-<div class="publication-card" data-category="mllm benchmark">
-  <div style="display: flex; align-items: center; justify-content: center; max-width: 900px; margin: 0 auto;"> 
-  <div class="pub-media-rotator" data-interval="4000" style="position: relative; width: 320px; height: 180px; margin-right: 20px; border-radius: 8px; overflow: hidden; flex: 0 0 auto;"> 
-    <img src="images/GroupToM.png" alt="wog" style="width: 320px; height: 180px; object-fit: contain; display: block">
-    </div>
-    <div> 
+<div class="publication-card" data-category="mllm benchmark"> 
+  <div style="display: flex; align-items: center;">
+    <div class="pub-media-rotator" data-interval="4000" style="position: relative; width: 320px; height: 180px; margin-right: 20px; border-radius: 8px; overflow: hidden; flex: 0 0 auto;"> 
+      <img src="images/GroupToM.png" alt="wog" style="width: 320px; height: 180px; object-fit: contain; display: block; margin: 0 auto;"> 
+    </div> 
+    <div>
       <strong>GroupToM-Bench: Benchmarking Group Theory of Mind and Nonlinear Social Emergence in MLLMs</strong><br>
       <i style="font-size: 13px;">
         <a href="https://wd7ang.github.io" target="_blank"><strong>Weidong Tang</strong></a>, 
