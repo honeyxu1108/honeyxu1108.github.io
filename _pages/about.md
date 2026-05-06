@@ -207,7 +207,11 @@ redirect_from:
 </body>
 </html>
 
-I am an undergraduate (2022-2026) at Xidian University and incoming Phd at [MMLab@HKU](https://mmlab.hk/) with [Prof. Xihui Liu](https://xh-liu.github.io/). Previously I worked at [ByteDance Seed](https://seed.bytedance.com/en/). I was also an RA at [MVIG@SJTU](https://www.mvig.org/index.html) with [Prof. Lixin Yang](https://lixiny.github.io/) and [Prof. Cewu Lu](https://www.mvig.org/index.html).
+Hi! I am a junior (3rd-year) undergraduate student at Xidian University. 
+I am currently a Research Intern at the HPC-AI Lab, National University of Singapore, working under the supervision of [Prof. Yang You](https://www.comp.nus.edu.sg/~youy/). I am also fortunately mentored by [Dr. Wangbo Zhao](https://wangbo-zhao.github.io/) and [Dr. Pengfei Zhou](https://lancezpf.github.io/).
+
+My research interests include **MLLM**, **RL**, **Efficient AI** and other emerging areas in AI. I enjoy exploring diverse research directions and collaborating with researchers across different fields.
+Feel free to reach out if you are interested in collaboration or potential opportunities.
 
 News
 ---------------
