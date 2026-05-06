@@ -211,47 +211,6 @@ redirect_from:
         box-shadow: 0 8px 16px rgba(0,0,0,0.1);
     }
 
-    @media screen and (max-width: 768px) {
-        .experience-card {
-            align-items: flex-start;
-            padding: 12px;
-        }
-
-        .experience-logo {
-            width: 48px;
-            height: 48px;
-            margin-right: 14px;
-        }
-
-        .publication-card,
-        .project-card {
-            padding: 10px;
-        }
-
-        .publication-card > div,
-        .project-card > div {
-            flex-direction: column;
-            align-items: flex-start !important;
-        }
-
-        .publication-card .pub-media-rotator,
-        .project-card .pub-media-rotator {
-            width: 100% !important;
-            max-width: 320px;
-            height: auto !important;
-            aspect-ratio: 16 / 9;
-            margin-right: 0 !important;
-            margin-bottom: 14px;
-        }
-
-        .publication-card img,
-        .project-card img {
-            width: 100% !important;
-            height: 100% !important;
-            object-fit: contain;
-        }
-    }
-
 </style>
 <html> 
 <head>
