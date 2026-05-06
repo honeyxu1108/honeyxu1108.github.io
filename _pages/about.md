@@ -6,6 +6,35 @@ redirect_from:
   - /about.html
 ---
 <style>
+
+      /* ===== News Scroll Box ===== */
+    .news-box {
+      max-height: 220px;
+      overflow-y: auto;
+      padding: 10px 14px;
+      background: #f7f7f7;
+      border-radius: 10px;
+      margin-bottom: 20px;
+    }
+    
+    .news-list {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+    }
+    
+    .news-list li {
+      margin-bottom: 10px;
+      line-height: 1.5;
+    }
+    
+    .news-date {
+      display: inline-block;
+      min-width: 70px;
+      font-weight: 400;        /* 不加粗 */
+      color: #ca6f6f;          /* 浅粉色 */
+    }
+  
     .experience-card {
         display: flex;
         align-items: center;
@@ -38,9 +67,9 @@ redirect_from:
         color: #ca6f6f;
     }
     .experience-container {
-        display: grid;
-        grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-        gap: 20px;
+        display: flex;
+        flex-direction: column; /* 让子元素垂直排列，一行一个 */
+        gap: 20px; /* 保持每个卡片之间的间距 */
     }
     .experience-card {
         box-sizing: border-box;
@@ -174,33 +203,6 @@ redirect_from:
         box-shadow: 0 8px 16px rgba(0,0,0,0.1);
     }
 
-    /* ===== News Scroll Box ===== */
-    .news-box {
-      max-height: 220px;
-      overflow-y: auto;
-      padding: 10px 14px;
-      background: #f7f7f7;
-      border-radius: 10px;
-      margin-bottom: 20px;
-    }
-    
-    .news-list {
-      list-style: none;
-      padding: 0;
-      margin: 0;
-    }
-    
-    .news-list li {
-      margin-bottom: 10px;
-      line-height: 1.5;
-    }
-    
-    .news-date {
-      display: inline-block;
-      min-width: 70px;
-      font-weight: 400;        /* 不加粗 */
-      color: #ca6f6f;          /* 浅粉色 */
-    }
 
 </style>
 <html> 
