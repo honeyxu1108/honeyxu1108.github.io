@@ -265,7 +265,7 @@ Experience
       <img src="images/Alibaba.png" alt="Alibaba logo" class="experience-logo">
       <div class="experience-info">
           <strong>Alibaba Group</strong><br>
-          May 2026 - present<br>
+          2026.05 - Present<br>
           MLLM Engineer Intern advised by <a href="https://liamding.cc/"><em>Liang Ding</em></a> and <a href="https://ethanscuter.github.io/"><em>Xintong Wang</em></a>
       </div>
   </div>
@@ -276,7 +276,7 @@ Experience
       <img src="images/TeleAI.png" alt="TeleAI logo" class="experience-logo">
       <div class="experience-info">
           <strong>Institute of Artificial Intelligence of China Telecom</strong><br>
-          Jan 2026 - Mar 2026<br>
+          2026.01 - 2026.03<br>
           Start My Journey in LLM
       </div>
   </div>
@@ -285,7 +285,7 @@ Experience
       <img src="images/NUS.png" alt="NUS logo" class="experience-logo">
       <div class="experience-info">
           <strong>National University of Singapore</strong><br>
-          Oct 2024 - Oct 2025<br>
+          2024.10 - 2025.10<br>
           Research Assistant at <a href="https://ai.comp.nus.edu.sg/"><em>HPC-AI Lab</em></a> advised by <a href="https://www.comp.nus.edu.sg/~youy/"><em>Yang You</em></a>, <a href="https://wangbo-zhao.github.io/"><em>Wangbo Zhao</em></a> and <a href="https://lancezpf.github.io/"><em>Pengfei Zhou</em></a>
       </div>
   </div>
@@ -295,7 +295,7 @@ Experience
       <img src="images/XDU.png" alt="Xi'dian logo" class="experience-logo">
       <div class="experience-info">
           <strong>Xidian University</strong><br>
-          Sep 2023 - present<br>
+          2023.09 - Present<br>
           Rank 5/99
           B.E at <a href="https://ste.xidian.edu.cn/"><em>School of Telecommunication Engineering</em></a> & RA advised by <a href="https://scholar.google.com/citations?user=k33uf2RE8nsC&hl=zh-CN&oi=ao"><em>Xiumei Wang</em></a>
       </div>
