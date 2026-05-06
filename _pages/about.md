@@ -199,7 +199,7 @@ redirect_from:
       display: inline-block;
       min-width: 70px;
       font-weight: 400;        /* 不加粗 */
-      color: #f4b6c2;          /* 浅粉色 */
+      color: #202124;          /* 浅粉色 */
     }
 
 </style>
