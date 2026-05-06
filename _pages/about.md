@@ -317,7 +317,6 @@ Publications
   <img src="images/GroupToM.png" alt="wog"
        style="max-width: 100%; max-height: 100%; object-fit: contain;">
 </div>
-    <div> 
       <strong>GroupToM-Bench: Benchmarking Group Theory of Mind and Nonlinear Social Emergence in MLLMs</strong><br> <i style="font-size: 13px;"> 
         <a href="https://wd7ang.github.io" target="_blank"><strong>Weidong Tang</strong></a>, 
         Jierui Li, 
