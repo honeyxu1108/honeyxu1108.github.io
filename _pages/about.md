@@ -357,15 +357,12 @@ Publications
       <strong>Efficient Video Object Segmentation and Tracking with Recurrent Dynamic Submodel</strong><br>
       <i style="font-size: 13px;">
         <a href="https://wd7ang.github.io" target="_blank"><strong>Weidong Tang</strong></a>, 
-        Jierui Li,
-        Yueling Hou, 
-        Zihan Mei, 
-        Zhigang Tian, 
-        Weicheng Jiao, 
-        Can Zhang, 
-        Xinyan Wan, 
         <a href="https://jerryliang24.github.io/" target="_blank">Zhiyuan Liang</a>, 
+        Xinyan Wan, 
+        <a href="https://scholar.google.com.hk/citations?user=W9HbDoYAAAAJ&hl=en" target="_blank">Chen Zhu</a>, 
+        <a href="https://scholar.google.com.hk/citations?user=qNWDwOcAAAAJ&hl=en" target="_blank">Zhaopan Xu</a>, 
         <a href="https://lancezpf.github.io/" target="_blank">Pengfei Zhou</a>&dagger;,
+        Yan Song,
         <a href="https://www.comp.nus.edu.sg/~youy/" target="_blank">Yang You</a>, 
         <a href="https://wangbo-zhao.github.io/" target="_blank">Wangbo Zhao</a>&dagger;
       </i><br> 
@@ -389,17 +386,8 @@ Publications
       <strong>Inference-Time Scaling for Visual AutoRegressive modeling by Searching Representative Samples</strong><br>
       <i style="font-size: 13px;">
         <a href="https://wd7ang.github.io" target="_blank"><strong>Weidong Tang</strong></a>, 
-        Jierui Li,
-        Yueling Hou, 
-        Zihan Mei, 
-        Zhigang Tian, 
-        Weicheng Jiao, 
-        Can Zhang, 
-        Xinyan Wan, 
-        <a href="https://jerryliang24.github.io/" target="_blank">Zhiyuan Liang</a>, 
-        <a href="https://lancezpf.github.io/" target="_blank">Pengfei Zhou</a>&dagger;,
-        <a href="https://www.comp.nus.edu.sg/~youy/" target="_blank">Yang You</a>, 
-        <a href="https://wangbo-zhao.github.io/" target="_blank">Wangbo Zhao</a>&dagger;
+        Xinyan Wan,
+        <a href="https://scholar.google.com/citations?user=k33uf2RE8nsC&hl=zh-CN&oi=ao" target="_blank">Xiumei Wang</a>&dagger;
       </i><br> 
       Explored inference-time scaling in discrete spaces by mapping them to continuous spaces to obtain density distributions, thereby optimizing the sampling of early coarse-scale features.
       <br> 
@@ -419,18 +407,18 @@ Publications
     <div>
       <strong>EA-ViT: Efficient Adaptation for Elastic Vision Transformer</strong><br>
       <i style="font-size: 13px;">
-        <a href="https://wd7ang.github.io" target="_blank"><strong>Weidong Tang</strong></a>, 
-        Jierui Li,
-        Yueling Hou, 
-        Zihan Mei, 
-        Zhigang Tian, 
-        Weicheng Jiao, 
-        Can Zhang, 
-        Xinyan Wan, 
-        <a href="https://jerryliang24.github.io/" target="_blank">Zhiyuan Liang</a>, 
-        <a href="https://lancezpf.github.io/" target="_blank">Pengfei Zhou</a>&dagger;,
-        <a href="https://www.comp.nus.edu.sg/~youy/" target="_blank">Yang You</a>, 
+        <a href="https://scholar.google.com.hk/citations?user=W9HbDoYAAAAJ&hl=en" target="_blank"><strong>Chen Zhu</a>, 
         <a href="https://wangbo-zhao.github.io/" target="_blank">Wangbo Zhao</a>&dagger;
+        Huiwen Zhang,
+        <a href="https://scholar.google.com.hk/citations?hl=en&user=XUyUZY4AAAAJ&view_op=list_works&sortby=pubdate" target="_blank"><strong>Samir Khaki</a>, 
+        <a href="https://scholar.google.com.hk/citations?hl=en&user=bGKF2tUAAAAJ&view_op=list_works&sortby=pubdate" target="_blank"><strong>Yuhao Zhou</a>, 
+        <a href="https://wd7ang.github.io" target="_blank"><strong>Weidong Tang</strong></a>, 
+        Shuo Wang,
+        Zhihang Yuan,
+        Yuzhang Shang,
+        <a href="https://scholar.google.com.hk/citations?hl=en&user=7oRD67kAAAAJ&view_op=list_works&sortby=pubdate" target="_blank">Xiaojiang Peng</a>
+        <a href="https://scholar.google.com.hk/citations?hl=en&user=i2II0XIAAAAJ" target="_blank">Kai Wang</a>
+        <a href="https://scholar.google.com.hk/citations?hl=en&user=j2ANma0AAAAJ&view_op=list_works&sortby=pubdate" target="_blank">Dawei Yang</a>&dagger;
       </i><br> 
       EA-ViT is an efficient adaptation framework for Vision Transformers, enabling a single process to generate flexible models of varying sizes for diverse resource constraints, using a nested elastic architecture and a lightweight router optimized with Pareto-optimal configurations.
       <br> 
