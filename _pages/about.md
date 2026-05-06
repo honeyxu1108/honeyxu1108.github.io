@@ -231,7 +231,7 @@ Experience
   <div class="experience-card">
       <img src="images/Alibaba.png" alt="astri logo" class="experience-logo">
       <div class="experience-info">
-          <strong>Astribot Inc.</strong><br>
+          <strong>Alibaba Group</strong><br>
           May 2026 - present<br>
           MLLM Engineer Intern advised by <a href="\https://scholar.google.com.hk/citations?hl=en&user=lFCLvOAAAAAJ"><em>Liang Ding</em></a> and <a href="https://scholar.google.com.hk/citations?hl=en&user=xYfO9VEAAAAJ"><em>Xintong Wang</em></a>
       </div>
@@ -243,7 +243,7 @@ Experience
       <img src="images/TeleAI.png" alt="astri logo" class="experience-logo">
       <div class="experience-info">
           <strong>Astribot Inc.</strong><br>
-          June 2025 - Sep 2025<br>
+          Jan 2026 - Mar 2026<br>
           Start My Journey in LLM
       </div>
   </div>
