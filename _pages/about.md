@@ -434,7 +434,7 @@ Publications
 <script src="assets/js/show_publications.js"></script>
 <script src="assets/js/pub_media_rotator.js"></script>
 
-
+<br><br>
 
 Projects
 --------
@@ -461,7 +461,7 @@ Projects
 </div>
 
 
-
+<br><br>
 
 Awards
 --------
@@ -469,7 +469,7 @@ Awards
 - National Scholarship 2025
 - Outstanding Student, Xidian University, 2025
 
-
+<br><br>
 
 Talks
 --------
