@@ -347,29 +347,28 @@ Publications
 
 Projects
 --------
-<div class="project-card">
- <div style="display: flex; align-items: center;">
-    <img src="images/GroupToM.png" alt="Maniunicon" width="200" height="100" style="margin-right: 20px;">
-    <div>
-        <strong>ManiUniCon: A Unified Control Interface for Robotic Manipulation</strong><br>
-ManiUniCon is a comprehensive, multi-process robotics control framework designed for robotic manipulation tasks. It provides a unified interface for controlling various robot arms, integrating sensors, and executing policies in real-time. <br>
-      <b><i style="color:#83a1c7;">Universal-Control Team &nbsp;</i></b>
-      <a href="https://github.com/Universal-Control/ManiUniCon"><em>[code]</em></a>
+<div class="project-card" data-category="project"> 
+  <div style="display: flex; align-items: center;"> 
+    <div class="pub-media-rotator"
+         style="position: relative; width: 240px; height: 140px; 
+                margin-right: 20px; border-radius: 8px; overflow: hidden; 
+                flex: 0 0 auto; display: flex; justify-content: center; align-items: center;">
+      <img src="images/GroupToM.png" alt="ManiUniCon"
+           style="max-width: 100%; max-height: 100%; object-fit: contain;">
     </div>
-</div>
-</div>
-<div class="project-card">
- <div style="display: flex; align-items: center;">
-    <img src="images/GroupToM.png" alt="MetaPalace" width="200" height="100" style="margin-right: 20px;">
-    <div>
-        <strong>MetaPalace: Let you in a meta world of The Palace Museum</strong><br>
-We've done what the Old Palace official website couldn't: offering 3D artifact views with single-view reconstruction and an interactive LLM-powered tour guider using RAG technology. <br>
-      <a href="https://metapalace.xj63.fun/"><em>[website]</em></a> 
-      <a href="https://github.com/xj63/MetaPalaceSite"><em>[front-end code]</em></a>
-      <a href="https://github.com/Selen-Suyue/MetaPalace"><em>[back-end code]</em></a>
+    <div> 
+      <strong>ManiUniCon: A Unified Control Interface for Robotic Manipulation</strong><br>
+      <i style="font-size: 13px;">
+        Universal-Control Team
+      </i><br>
+      ManiUniCon is a comprehensive, multi-process robotics control framework designed for robotic manipulation tasks. It provides a unified interface for controlling various robot arms, integrating sensors, and executing policies in real-time. 
+      <br> 
+      <b><i style="color:#83a1c7;">Project &nbsp;</i></b> 
+      <a href="https://github.com/Universal-Control/ManiUniCon"><em>[code]</em></a> 
     </div>
+  </div> 
 </div>
-</div>
+
 
 
 Awards
