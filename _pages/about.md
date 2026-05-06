@@ -364,7 +364,7 @@ Publications
       </i><br> 
       The authors introduce MagicBench, a video dataset of magic tricks, to test if Multimodal LLMs actually rely on visual physics or if they are overly dependent on language narratives (which, in magic tricks, are deliberately deceptive).
       <br> 
-      <b><i style="color:#83a1c7;">ACL 2026 Oral &nbsp;
+      <b><i style="color:#83a1c7;">ACL 2026 &nbsp;
       </i></b> 
       <a href=""><em>[arXiv]</em></a> 
       <a href=""><em>[code]</em></a> 
