@@ -277,10 +277,10 @@ Publications
   <button class="pub-button" onclick="filterPublications(event, 'benchmark')">BenchMark</button>
 </div>
 
-<div class="publication-card featured">
+<div class="publication-card" data-category="mllm benchmark">
   <div style="display: flex; align-items: center;">
     <div class="pub-media-rotator" data-interval="4000" style="position: relative; width: 200px; height: 120px; margin-right: 20px; border-radius: 8px; overflow: hidden; flex: 0 0 auto;">
-      <img src="images/WoG.png" alt="wog" style="width: 200px; height: 120px; object-fit: cover; display: block;">
+      <img src="images/GroupToM.png" alt="wog" style="width: 200px; height: 120px; object-fit: cover; display: block;">
       <video style="width: 200px; height: 120px; object-fit: cover; display: none;" autoplay muted playsinline>
         <source src="images/WoG.mp4" type="video/mp4">
       </video>
@@ -288,7 +288,7 @@ Publications
     <div>
         <strong>World Guidance: World Modeling in Condition Space for Action Generation</strong><br>
         <i style="font-size: 13px;">
-            <a href="https://selen-suyue.github.io" target="_blank"><strong>Yue Su</strong></a>, 
+            <a href="https://selen-suyue.github.io" target="_blank"><strong>Weidong Tang</strong></a>, wdaw,adawd
             <a href="https://ch3cook-fdu.github.io/" target="_blank">Sijin Chen</a>,
             <a href="https://scholar.google.com/citations?user=sACkOGEAAAAJ&hl=en" target="_blank">Haixin Shi</a>, 
             <a href="https://mingyulau.github.io/" target="_blank">Mingyu Liu</a>,
@@ -299,17 +299,16 @@ Publications
             <a href="https://scholar.google.com/citations?user=i8wNtSgAAAAJ&hl=en" target="_blank">Yuxiao Liu</a>&dagger;,
             <a href="https://xh-liu.github.io/" target="_blank">Xihui Liu</a>&dagger;
         </i><br>
-        We propose WoG (World Guidance), a world modeling paradigm  in condition space for action generation: less is more.
+        We propose GroupToM-Bench and show that current models fail at nonlinear group reasoning despite strong individual-level ToM, exposing a clear group cognitive gap.
         <br>
-        <b><i style="color:#83a1c7;">ICML 2026 &nbsp;</i></b>
-        <a href="https://arxiv.org/abs/2602.22010"><em>[arXiv]</em></a>
-        <a href="https://github.com/Selen-Suyue/WoG"><em>[code]</em></a>
-        <a href="https://selen-suyue.github.io/WoGNet/"><em>[website]</em></a>
+        <b><i style="color:#83a1c7;">ACL 2026 Oral &nbsp;</i></b>
+        <a href=""><em>[arXiv]</em></a>
+        <a href=""><em>[code]</em></a>
     </div>
   </div>
 </div>
 
-<div class="publication-card">
+<div class="publication-card" data-category="mllm">
   <div style="display: flex; align-items: center;">
     <video width="200" height="120" style="margin-right: 20px; border-radius: 8px;" autoplay loop muted playsinline>
       <source src="images/clap.mp4" type="video/mp4">
