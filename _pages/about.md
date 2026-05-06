@@ -198,8 +198,8 @@ redirect_from:
     .news-date {
       display: inline-block;
       min-width: 70px;
-      font-weight: 600;
-      color: #4a90e2;
+      font-weight: 400;        /* 不加粗 */
+      color: #f2a7b8;          /* 浅粉色 */
     }
 
 </style>
