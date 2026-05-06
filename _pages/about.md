@@ -335,9 +335,9 @@ Publications
         Can Zhang, 
         Xinyan Wan, 
         <a href="https://jerryliang24.github.io/" target="_blank">Zhiyuan Liang</a>, 
-        <a href="https://lancezpf.github.io/" target="_blank">Pengfei Zhou</a>&dagger;,
+        <a href="https://lancezpf.github.io/" target="_blank">Pengfei Zhou&dagger;</a>,
         <a href="https://www.comp.nus.edu.sg/~youy/" target="_blank">Yang You</a>, 
-        <a href="https://wangbo-zhao.github.io/" target="_blank">Wangbo Zhao</a>&dagger;
+        <a href="https://wangbo-zhao.github.io/" target="_blank">Wangbo Zhao&dagger;</a>
       </i><br> 
       We propose GroupToM-Bench and show that current models fail at nonlinear group reasoning despite strong individual-level ToM, exposing a clear group cognitive gap. 
       <br> 
@@ -359,7 +359,7 @@ Publications
       <strong>GroupToM-Bench: Benchmarking Group Theory of Mind and Nonlinear Social Emergence in MLLMs</strong><br>
       <i style="font-size: 13px;">
         Tang Da Huang,
-        <a href="https://wd7ang.github.io" target="_blank"><strong>Weidong Tang</strong></a>&Dagger;, 
+        <a href="https://wd7ang.github.io" target="_blank"><strong>Weidong Tang&Dagger;</strong></a>, 
         Wen Qi Xu,
         Xianpeng Guo&dagger;
       </i><br> 
@@ -390,7 +390,7 @@ Publications
         <a href="https://lancezpf.github.io/" target="_blank">Pengfei Zhou</a>&dagger;,
         Yan Song,
         <a href="https://www.comp.nus.edu.sg/~youy/" target="_blank">Yang You</a>, 
-        <a href="https://wangbo-zhao.github.io/" target="_blank">Wangbo Zhao</a>&dagger;
+        <a href="https://wangbo-zhao.github.io/" target="_blank">Wangbo Zhao&dagger;</a>
       </i><br> 
       Proposed a Recurrent Dynamic Submodel for efficient Video Object Segmentation and Tracking. By integrating temporal-prior-guided global dynamic routing and Importance-aware LoRA, it achieves an optimal trade-off between performance and speed using minimal trainable parameters and training data.
       <br> 
@@ -413,7 +413,7 @@ Publications
       <i style="font-size: 13px;">
         <a href="https://wd7ang.github.io" target="_blank"><strong>Weidong Tang</strong></a>, 
         Xinyan Wan,
-        <a href="https://scholar.google.com/citations?user=k33uf2RE8nsC&hl=zh-CN&oi=ao" target="_blank">Xiumei Wang</a>&dagger;
+        <a href="https://scholar.google.com/citations?user=k33uf2RE8nsC&hl=zh-CN&oi=ao" target="_blank">Xiumei Wang&dagger;</a>
       </i><br> 
       Explored inference-time scaling in discrete spaces by mapping them to continuous spaces to obtain density distributions, thereby optimizing the sampling of early coarse-scale features.
       <br> 
