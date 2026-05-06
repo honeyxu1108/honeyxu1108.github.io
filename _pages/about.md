@@ -316,7 +316,7 @@ Publications
 <button class="pub-button" onclick="filterPublications(event, 'mllm')">MLLM</button>
 <button class="pub-button" onclick="filterPublications(event, 'benchmark')">BenchMark</button>
 
-(&ast; equal contribution · &dagger; corresponding author · &Dagger; project leader)
+(* equal contribution · &dagger; corresponding author · &Dagger; project leader)
 
 <div class="publication-card" data-category="mllm benchmark"> 
   <div style="display: flex; align-items: center;">
