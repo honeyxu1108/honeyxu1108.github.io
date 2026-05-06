@@ -174,6 +174,34 @@ redirect_from:
         box-shadow: 0 8px 16px rgba(0,0,0,0.1);
     }
 
+    /* ===== News Scroll Box ===== */
+    .news-box {
+      max-height: 220px;
+      overflow-y: auto;
+      padding: 10px 14px;
+      background: #f7f7f7;
+      border-radius: 10px;
+      margin-bottom: 20px;
+    }
+    
+    .news-list {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+    }
+    
+    .news-list li {
+      margin-bottom: 10px;
+      line-height: 1.5;
+    }
+    
+    .news-date {
+      display: inline-block;
+      min-width: 70px;
+      font-weight: 600;
+      color: #4a90e2;
+    }
+
 </style>
 <html> 
 <head>
