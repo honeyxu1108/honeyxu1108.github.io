@@ -225,9 +225,6 @@ News
 
 Experience
 --------------
-<button class="pub-button active" onclick="filterPublications(event, 'all')">All Publications</button>
-<button class="pub-button" onclick="filterPublications(event, 'mllm')">MLLM</button>
-<button class="pub-button" onclick="filterPublications(event, 'benchmark')">BenchMark</button>
 
 <div class="experience-container">
   <div class="experience-card">
@@ -273,6 +270,10 @@ Experience
 
 Publications
 --------------
+<button class="pub-button active" onclick="filterPublications(event, 'all')">All Publications</button>
+<button class="pub-button" onclick="filterPublications(event, 'mllm')">MLLM</button>
+<button class="pub-button" onclick="filterPublications(event, 'benchmark')">BenchMark</button>
+
 <div class="publication-card" data-category="mllm benchmark"> 
   <div style="display: flex; align-items: center;"> 
     <div class="pub-media-rotator" data-interval="4000" style="position: relative; width: 240px; height: 140px; margin-right: 20px; border-radius: 8px; overflow: hidden; flex: 0 0 auto;"> 
