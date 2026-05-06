@@ -211,6 +211,46 @@ redirect_from:
         box-shadow: 0 8px 16px rgba(0,0,0,0.1);
     }
 
+    @media screen and (max-width: 768px) {
+        .experience-card {
+            align-items: flex-start;
+            padding: 12px;
+        }
+
+        .experience-logo {
+            width: 48px;
+            height: 48px;
+            margin-right: 14px;
+        }
+
+        .publication-card,
+        .project-card {
+            padding: 10px;
+        }
+
+        .publication-card > div,
+        .project-card > div {
+            flex-direction: column;
+            align-items: flex-start !important;
+        }
+
+        .publication-card .pub-media-rotator,
+        .project-card .pub-media-rotator {
+            width: 100% !important;
+            max-width: 320px;
+            height: auto !important;
+            aspect-ratio: 16 / 9;
+            margin-right: 0 !important;
+            margin-bottom: 14px;
+        }
+
+        .publication-card img,
+        .project-card img {
+            width: 100% !important;
+            height: 100% !important;
+            object-fit: contain;
+        }
+    }
 
 </style>
 <html> 
@@ -304,7 +344,7 @@ Experience
       <div class="experience-info">
           <strong>Xidian University</strong><br>
           2023.09 - Present<br>
-          Rank 5/99
+          Rank 5/99<br>
           B.E at <a href="https://ste.xidian.edu.cn/"><em>School of Telecommunication Engineering</em></a> & Research Assistant advised by <a href="https://scholar.google.com/citations?user=k33uf2RE8nsC&hl=zh-CN&oi=ao"><em>Xiumei Wang</em></a>
       </div>
   </div>
