@@ -273,6 +273,35 @@ Publications
 --------------
 <div class="publication-card" data-category="mllm benchmark"> 
   <div style="display: flex; align-items: center;"> 
+    <div class="pub-media-rotator" data-interval="4000" style="position: relative; width: 240px; height: 140px; margin-right: 20px; border-radius: 8px; overflow: hidden; flex: 0 0 auto;"> 
+      <img src="images/GroupToM.png" alt="wog" style="width: 200px; height: 120px; object-fit: cover; display: block;"> 
+    </div> 
+    <div> 
+      <strong>GroupToM-Bench: Benchmarking Group Theory of Mind and Nonlinear Social Emergence in MLLMs</strong><br> <i style="font-size: 13px;"> 
+        <a href="https://wd7ang.github.io" target="_blank"><strong>Weidong Tang</strong></a>, 
+        Jierui Li, 
+        Yueling Hou, 
+        Zihan Mei, 
+        Zhigang Tian, 
+        Weicheng Jiao, 
+        Can Zhang, 
+        Xinyan Wan, 
+        <a href="https://jerryliang24.github.io/" target="_blank">Zhiyuan Liang</a>, 
+        <a href="https://lancezpf.github.io/" target="_blank">Pengfei Zhou</a>&dagger, 
+        <a href="https://www.comp.nus.edu.sg/~youy/" target="_blank">Yang You</a>, 
+        <a href="https://wangbo-zhao.github.io/" target="_blank">Wangbo Zhao</a>&dagger; 
+      </i><br> 
+      We propose GroupToM-Bench and show that current models fail at nonlinear group reasoning despite strong individual-level ToM, exposing a clear group cognitive gap. 
+      <br> 
+      <b><i style="color:#83a1c7;">ACL 2026 Oral &nbsp;</i></b> 
+      <a href=""><em>[arXiv]</em></a> 
+      <a href=""><em>[code]</em></a> 
+    </div> 
+  </div> 
+</div>
+
+<div class="publication-card" data-category="mllm benchmark"> 
+  <div style="display: flex; align-items: center;"> 
     <div class="pub-media-rotator" data-interval="4000" style="position: relative; width: 200px; height: 120px; margin-right: 20px; border-radius: 8px; overflow: hidden; flex: 0 0 auto;"> 
       <img src="images/GroupToM.png" alt="wog" style="width: 200px; height: 120px; object-fit: cover; display: block;"> 
     </div> 
@@ -291,144 +320,45 @@ Publications
         <a href="https://www.comp.nus.edu.sg/~youy/" target="_blank">Yang You</a>, 
         <a href="https://wangbo-zhao.github.io/" target="_blank">Wangbo Zhao</a>&dagger; 
       </i><br> 
-      We propose GroupToM-Bench and show that current models fail at nonlinear group reasoning despite strong individual-level ToM, exposing a clear group cognitive gap. <br> <b><i style="color:#83a1c7;">ACL 2026 Oral &nbsp;</i></b> <a href=""><em>[arXiv]</em></a> <a href=""><em>[code]</em></a> </div> </div> </div>
-
-
-<div class="publication-card" data-category="mllm benchmark">
-  <div style="display: flex; align-items: center;">
-      <img src="images/GroupToM.png" alt="wog" style="width: 200px; height: 120px; object-fit: cover; display: block;">
-    <div>
-        <strong>CLAP: Contrastive Latent Action Pretraining for Learning Vision-Language-Action Models from Human Videos</strong><br>
-        <i style="font-size: 13px;">
-            <a href="https://lin-shan.com/" target="_blank">Chubin Zhang</a>*,
-            <a href="https://scholar.google.com/citations?user=mt5mvZ8AAAAJ&hl=en" target="_blank">Jianan Wang</a>*, 
-            <a href="" target="_blank">Zifeng Gao</a>, 
-            <a href="https://selen-suyue.github.io" target="_blank"><strong>Yue Su</strong></a>, 
-            <a href="" target="_blank">Tiranru Dai</a>,
-            <a href="https://homepage.zhouc.ai/" target="_blank">Cai Zhou</a>, <br>
-            <a href="https://ivg.au.tsinghua.edu.cn/Jiwen_Lu/" target="_blank">Jiwen Lu</a>,
-            <a href="https://andytang15.github.io/" target="_blank">Yansong Tang</a>&dagger;
-        </i><br>
-        Learning Vision-Language-Action Models from Human Videos.
-        <br>
-        <b><i style="color:#83a1c7;">ArXiv Preprint &nbsp;</i></b>
-        <a href="https://arxiv.org/abs/2601.04061"><em>[arXiv]</em></a>
-        <a href=""><em>[code]</em></a>
-        <a href="https://lin-shan.com/CLAP/#"><em>[website]</em></a>
-    </div>
-  </div>
+      We propose GroupToM-Bench and show that current models fail at nonlinear group reasoning despite strong individual-level ToM, exposing a clear group cognitive gap. 
+      <br> 
+      <b><i style="color:#83a1c7;">ACL 2026 Oral &nbsp;</i></b> 
+      <a href=""><em>[arXiv]</em></a> 
+      <a href=""><em>[code]</em></a> 
+    </div> 
+  </div> 
 </div>
 
-<div class="publication-card featured">
-  <div style="display: flex; align-items: center;">
-    <video width="200" height="120" style="margin-right: 20px; border-radius: 8px;" autoplay loop muted playsinline>
-      <source src="images/dspv2.mp4" type="video/mp4">
-    </video>
-    <div>
-        <strong>DSPv2: Improved Dense Policy for Effective and Generalizable Whole-body Mobile Manipulation</strong><br>
-        <i style="font-size: 13px;">
-            <a href="https://selen-suyue.github.io" target="_blank"><strong>Yue Su</strong></a>, 
-            <a href="https://lin-shan.com/" target="_blank">Chubin Zhang</a>, 
-            <a href="https://ch3cook-fdu.github.io/" target="_blank">Sijin Chen</a>,
-            <a href="" target="_blank">Liufan Tan</a>, <br>
-            <a href="https://andytang15.github.io/" target="_blank">Yansong Tang</a>,
-            <a href="https://scholar.google.com/citations?user=mt5mvZ8AAAAJ&hl=en" target="_blank">Jianan Wang</a>,
-            <a href="https://xh-liu.github.io/" target="_blank">Xihui Liu</a>&dagger;
-        </i><br>
-        Improved Dense Policy for Whole-body Mobile Manipulation, with effective perception, generalizable manipulation and coherent actions.
-        <br>
-        <b><i style="color:#83a1c7;">ICRA 2026 &nbsp;</i></b>
-        <a href="https://arxiv.org/abs/2509.16063"><em>[arXiv]</em></a>
-        <a href="https://github.com/Selen-Suyue/DSPv2"><em>[code]</em></a>
-        <a href="https://selen-suyue.github.io/DSPv2Net/"><em>[website]</em></a>
-    </div>
-  </div>
+
+<div class="publication-card" data-category="mllm benchmark"> 
+  <div style="display: flex; align-items: center;"> 
+    <div class="pub-media-rotator" data-interval="4000" style="position: relative; width: 200px; height: 120px; margin-right: 20px; border-radius: 8px; overflow: hidden; flex: 0 0 auto;"> 
+      <img src="images/GroupToM.png" alt="wog" style="width: 200px; height: 120px; object-fit: cover; display: block;"> 
+    </div> 
+    <div> 
+      <strong>GroupToM-Bench: Benchmarking Group Theory of Mind and Nonlinear Social Emergence in MLLMs</strong><br> <i style="font-size: 13px;"> 
+        <a href="https://wd7ang.github.io" target="_blank"><strong>Weidong Tang</strong></a>, 
+        Jierui Li, 
+        Yueling Hou, 
+        Zihan Mei, 
+        Zhigang Tian, 
+        Weicheng Jiao, 
+        Can Zhang, 
+        Xinyan Wan, 
+        <a href="https://jerryliang24.github.io/" target="_blank">Zhiyuan Liang</a>, 
+        <a href="https://lancezpf.github.io/" target="_blank">Pengfei Zhou</a>&dagger, 
+        <a href="https://www.comp.nus.edu.sg/~youy/" target="_blank">Yang You</a>, 
+        <a href="https://wangbo-zhao.github.io/" target="_blank">Wangbo Zhao</a>&dagger; 
+      </i><br> 
+      We propose GroupToM-Bench and show that current models fail at nonlinear group reasoning despite strong individual-level ToM, exposing a clear group cognitive gap. 
+      <br> 
+      <b><i style="color:#83a1c7;">ACL 2026 Oral &nbsp;</i></b> 
+      <a href=""><em>[arXiv]</em></a> 
+      <a href=""><em>[code]</em></a> 
+    </div> 
+  </div> 
 </div>
 
-<div class="publication-card featured">
- <div style="display: flex; align-items: center;">
-    <video width="200" height="120" style="margin-right: 20px; border-radius: 8px;" autoplay loop muted playsinline>
-      <source src="images/flower_dsp.mp4" type="video/mp4">
-    </video>
-    <div>
-        <strong>Dense Policy: Bidirectional Autoregressive Learning of Actions</strong><br>
-        <i style="font-size: 13px;">
-            <a href="https://selen-suyue.github.io" target="_blank"><strong>Yue Su</strong></a>*, 
-            <a href="https://scholar.google.com/citations?user=WurpqEMAAAAJ&hl=en" target="_blank">Xinyu Zhan</a>*, 
-            <a href="https://tonyfang.net/" target="_blank">Hongjie Fang</a>, 
-            <a href="https://hanxue.me/" target="_blank">Han Xue</a>, <br>
-            <a href="https://fang-haoshu.github.io/" target="_blank">Haoshu Fang</a>, 
-            <a href="https://dirtyharrylyl.github.io/" target="_blank">Yong-Lu Li</a>, 
-            <a href="http://mvig.org" target="_blank">Cewu Lu</a>, 
-            <a href="https://lixiny.github.io" target="_blank">Lixin Yang</a>&dagger;
-        </i><br>
-        Propose Dense Policy, A bidirectional robotic autoregressive policy, which infers trajectories by gradually expanding actions from sparse keyframes, demonstrated exceeding diffusion policies.<br>
-        <b><i style="color:#83a1c7;">ICCV 2025 &nbsp;</i></b>
-        <a href="https://openaccess.thecvf.com/content/ICCV2025/html/Su_Dense_Policy_Bidirectional_Autoregressive_Learning_of_Actions_ICCV_2025_paper.html"><em>[paper]</em></a>
-        <a href="https://arxiv.org/abs/2503.13217"><em>[arXiv]</em></a>
-        <a href="https://selen-suyue.github.io/DspNet/"><em>[website]</em></a>
-        <a href="https://github.com/Selen-Suyue/DensePolicy"><em>[3D-code]</em></a>
-        <a href="https://github.com/Selen-Suyue/DensePolicy2D"><em>[2D-code]</em></a>
-    </div>
-</div>
-</div>
-
-<div class="publication-card featured">
- <div style="display: flex; align-items: center;">
-    <img src="images/mba_animation.gif" alt="MBA" width="200" height="100" style="margin-right: 20px;">
-    <div>
-        <strong>Motion Before Action: Diffusing Object Motion as Manipulation Condition</strong><br>
-        <i style="font-size: 13px;">
-            <a href="https://selen-suyue.github.io" target="_blank"><strong>Yue Su</strong></a>*, 
-            <a href="https://scholar.google.com/citations?user=WurpqEMAAAAJ&hl=en" target="_blank">Xinyu Zhan</a>*, 
-            <a href="https://tonyfang.net/" target="_blank">Hongjie Fang</a>, 
-            <a href="https://dirtyharrylyl.github.io/" target="_blank">Yong-Lu Li</a>, 
-            <a href="http://mvig.org" target="_blank">Cewu Lu</a>, 
-            <a href="https://lixiny.github.io" target="_blank">Lixin Yang</a>&dagger;
-        </i><br>
-        Propose MBA, a novel plug-and-play module leveraging cascaded diffusion processes to generate actions guided by object motion, enabling seamless integration with manipulation policies.<br>
-      <b><i style="color:#83a1c7;">RA-L 2025, ICRA 2026</i></b>&nbsp;
-        <a href="https://ieeexplore.ieee.org/abstract/document/11027642"><em>[paper]</em></a>
-        <a href="https://arxiv.org/abs/2411.09658"><em>[arxiv]</em></a> 
-        <a href="https://selen-suyue.github.io/MBApage"><em>[website]</em></a>
-        <a href="https://github.com/Selen-Suyue/MBA"><em>[code]</em></a>
-    </div>
-</div>
-</div>
-
-<div class="publication-card non-featured">
-    <img src="images/GAP.png" alt="RIaa" width="200" height="100" style="margin-right: 20px;">
-    <div>
-        <strong>Generative Adversarial Patches for Physical Attacks on Cross-Modal Pedestrian Re-Identification</strong><br>
-       <i style="font-size: 13px;">
-    <a href="https://selen-suyue.github.io" target="_blank"><strong>Yue Su</strong></a>, 
-    <a href="https://scholar.google.com/citations?user=JkQmO-kAAAAJ&hl=en" target="_blank">Hao Li</a>&dagger;, 
-    <a href="https://web.xidian.edu.cn/mggong/" target="_blank">Maoguo Gong</a>&dagger;
-    </i><br>
-    A generative physical adversarial attack on VI-ReID models perturbs modality-invariant features. <br>
-    <b><i style="color:#83a1c7;">ArXiv Preprint &nbsp;</i></b>
-      <a href="https://arxiv.org/abs/2410.20097"><em>[arxiv]</em></a>
-    </div>
-</div>
-
-<div class="publication-card non-featured">
-    <img src="images/iraa.png" alt="Raa" width="200" height="100" style="margin-right: 20px;">
-    <div>
-        <strong>AdvDisplay: Adversarial Display Assembled by Thermoelectric Cooler for Fooling Thermal Infrared Detectors</strong><br>
-      <i style="font-size: 13px;">
-    <a href="https://scholar.google.com/citations?user=JkQmO-kAAAAJ&hl=en" target="_blank">Hao Li</a>&dagger;, 
-    <a href="https://scholar.google.com/citations?user=eX7Ra5UAAAAJ&hl=en" target="_blank">Fanggao Wan</a>, 
-    <a href="https://selen-suyue.github.io" target="_blank"><strong>Yue Su</strong></a>, 
-    <a href="https://ywuchina.github.io/" target="_blank">Yue Wu</a>, 
-    <a href="https://scholar.google.com/citations?user=h4PExPwAAAAJ&hl=en" target="_blank">Mingyang Zhang</a>, 
-    <a href="https://web.xidian.edu.cn/mggong/" target="_blank">Maoguo Gong</a>&dagger;
-    </i><br>
-      Historically, infrared adversarial attacks were single-use and tough to deploy. Using TEC, we implemented efficient attacks adaptable to hardware scenarios.
-      <br>
-      <b><i style="color:#83a1c7;">AAAI 2025 &nbsp;</i></b>
-      <a href="https://ojs.aaai.org/index.php/AAAI/article/view/34011"><em>[paper]</em></a>
-    </div>
-</div>
 
 <script src="assets/js/show_publications.js"></script>
 <script src="assets/js/pub_media_rotator.js"></script>
