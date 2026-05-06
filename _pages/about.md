@@ -272,8 +272,9 @@ Experience
 Publications
 --------------
 <div class="pub-button-container">
-  <button class="pub-button active" onclick="showPublications('all')">All Publications</button>
-  <button class="pub-button" onclick="showPublications('featured')">Selected Only</button>
+  <button class="pub-button active" onclick="filterPublications(event, 'all')">All Publications</button>
+  <button class="pub-button" onclick="filterPublications(event, 'mllm')">MLLM</button>
+  <button class="pub-button" onclick="filterPublications(event, 'benchmark')">BenchMark</button>
 </div>
 
 <div class="publication-card featured">
