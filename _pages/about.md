@@ -313,7 +313,7 @@ Publications
 <div class="publication-card" data-category="mllm benchmark"> 
   <div style="display: flex; align-items: center;"> 
     <div class="pub-media-rotator" data-interval="4000" style="position: relative; width: 320px; height: 180px; margin-right: 20px; border-radius: 8px; overflow: hidden; flex: 0 0 auto;"> 
-      <img src="images/GroupToM.png" alt="wog" style="width: 240px; height: 140px; object-fit: contain; display: block;"> 
+      <img src="images/GroupToM.png" alt="wog" style="width: 320px; height: 180px; object-fit: contain; display: block;"> 
     </div>
     <div> 
       <strong>GroupToM-Bench: Benchmarking Group Theory of Mind and Nonlinear Social Emergence in MLLMs</strong><br>
