@@ -49,3 +49,33 @@
     padding-right: 0 !important;
   }
 }
+
+/* ====================================================
+   手机端响应式：屏幕宽度小于 768px 时生效，不影响电脑端
+   ==================================================== */
+@media screen and (max-width: 768px) {
+  /* 1. 选中包含图片和文字的外层容器 (请替换为您实际的 class 名字) */
+  .pub-item, .archive__item { 
+    display: flex !important;
+    flex-direction: column !important; /* 强制改为纵向排列：图在上，字在下 */
+    align-items: center; 
+  }
+
+  /* 2. 调整图片容器的宽度和间距 */
+  .pub-image, .archive__item-teaser {
+    width: 100% !important;        /* 让图片容器占满宽度 */
+    max-width: 100% !important;
+    margin-bottom: 15px !important; /* 图片下方留出空隙，不与文字贴紧 */
+    display: flex;
+    justify-content: center;       
+    padding: 0 !important;
+  }
+
+  /* 3. 调整文字容器的宽度 */
+  .pub-text, .archive__item-body {
+    width: 100% !important;        /* 文字占满全宽，不再被挤压 */
+    max-width: 100% !important;
+    padding: 0 5px !important;     /* 左右留一点边距 */
+  }
+}
+
