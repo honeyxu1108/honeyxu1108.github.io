@@ -281,6 +281,15 @@ Experience
       </div>
   </div>
 
+  <div class="experience-card">
+      <img src="images/NUS.png" alt="NUS logo" class="experience-logo">
+      <div class="experience-info">
+          <strong>National University of Singapore</strong><br>
+          Oct 2024 - Oct 2025<br>
+          Research Assistant at <a href="https://ai.comp.nus.edu.sg/"><em>HPC-AI Lab</em></a>
+      </div>
+  </div>
+
 
   <div class="experience-card">
       <img src="images/XDU.png" alt="Xi'dian logo" class="experience-logo">
@@ -291,16 +300,9 @@ Experience
           B.E at <a href="https://ste.xidian.edu.cn/"><em>STE</em></a> 
       </div>
   </div>
-
-  <div class="experience-card">
-      <img src="images/NUS.png" alt="NUS logo" class="experience-logo">
-      <div class="experience-info">
-          <strong>National University of Singapore</strong><br>
-          Oct 2024 - Oct 2025<br>
-          Research Assistant at <a href="https://ai.comp.nus.edu.sg/"><em>HPC-AI Lab</em></a>
-      </div>
-  </div>
+  
 </div>
+
 
 Publications
 --------------
