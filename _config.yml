@@ -25,7 +25,7 @@ author:
   name             : "Weidong Tang 汤维栋"
   pronouns         : "He/Him"  
   bio              : "他日若得脱身法，生吃黄连苦也甜"
-  location         : 
+  location         : Hangzhou, Zhejiang
   employer         : 
   uri              : 
   email            : "wdtang0705@gmail.com" 
@@ -48,6 +48,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
+  WeChat           : d7ang0705
   linkedin         : # Username
   bilibili         : # Username
   twitter          : # Username
