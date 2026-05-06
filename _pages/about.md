@@ -288,16 +288,18 @@ Publications
     <div>
         <strong>World Guidance: World Modeling in Condition Space for Action Generation</strong><br>
         <i style="font-size: 13px;">
-            <a href="https://selen-suyue.github.io" target="_blank"><strong>Weidong Tang</strong></a>, wdaw,adawd
-            <a href="https://ch3cook-fdu.github.io/" target="_blank">Sijin Chen</a>,
-            <a href="https://scholar.google.com/citations?user=sACkOGEAAAAJ&hl=en" target="_blank">Haixin Shi</a>, 
-            <a href="https://mingyulau.github.io/" target="_blank">Mingyu Liu</a>,
-            <a href="https://scholar.google.com/citations?user=8nrJ1vsAAAAJ&hl=en" target="_blank">Zhengshen Zhang</a>,
-            <a href="" target="_blank">Ningyuan Huang</a>,
-            <a href="https://scholar.google.com/citations?user=3EXYkZcAAAAJ&hl=zh-CN" target="_blank">Weiheng Zhong</a>,
-            <a href="https://zbzhu99.github.io/" target="_blank">Zhengbang Zhu</a>,
-            <a href="https://scholar.google.com/citations?user=i8wNtSgAAAAJ&hl=en" target="_blank">Yuxiao Liu</a>&dagger;,
-            <a href="https://xh-liu.github.io/" target="_blank">Xihui Liu</a>&dagger;
+            <a href="https://wd7ang.github.io" target="_blank"><strong>Weidong Tang</strong></a>, 
+            Jierui Li,
+            Yueling Hou,
+            Zihan Mei,
+            Zhigang Tian,
+            Weicheng Jiao,
+            Can Zhang,
+            Xinyan Wan,
+            <a href="https://jerryliang24.github.io/" target="_blank">Zhiyuan Liang</a>,
+            <a href="https://lancezpf.github.io/" target="_blank">Pengfei Zhou</a>,
+            <a href="https://www.comp.nus.edu.sg/~youy/" target="_blank">Yang You</a>,
+            <a href="https://wangbo-zhao.github.io/" target="_blank">Wangbo Zhao</a>&dagger;
         </i><br>
         We propose GroupToM-Bench and show that current models fail at nonlinear group reasoning despite strong individual-level ToM, exposing a clear group cognitive gap.
         <br>
