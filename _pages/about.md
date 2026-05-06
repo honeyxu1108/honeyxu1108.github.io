@@ -238,9 +238,8 @@ redirect_from:
 </html>
 
 Hi! I am a junior (3rd-year) undergraduate student at Xidian University. 
-I am currently a Research Intern at the [HPC-AI Lab@NUS](https://ai.comp.nus.edu.sg/), National University of Singapore, working under the supervision of [Prof. Yang You](https://www.comp.nus.edu.sg/~youy/). I am also fortunately mentored by [Dr. Wangbo Zhao](https://wangbo-zhao.github.io/) and [Dr. Pengfei Zhou](https://lancezpf.github.io/).
-
 My research interests include **MLLM**, **RL**, **Efficient AI** and other emerging areas in AI. I enjoy exploring diverse research directions and collaborating with researchers across different fields.
+
 Feel free to reach out if you are interested in collaboration or potential opportunities.
 
 News
@@ -266,7 +265,7 @@ Experience
       <div class="experience-info">
           <strong>Alibaba Group</strong><br>
           May 2026 - present<br>
-          MLLM Engineer Intern advised by <a href="https://scholar.google.com.hk/citations?hl=en&user=lFCLvOAAAAAJ"><em>Liang Ding</em></a> and <a href="https://scholar.google.com.hk/citations?hl=en&user=xYfO9VEAAAAJ"><em>Xintong Wang</em></a>
+          MLLM Engineer Intern advised by <a href="https://liamding.cc/"><em>Liang Ding</em></a> and <a href="https://ethanscuter.github.io/"><em>Xintong Wang</em></a>
       </div>
   </div>
 
@@ -286,7 +285,7 @@ Experience
       <div class="experience-info">
           <strong>National University of Singapore</strong><br>
           Oct 2024 - Oct 2025<br>
-          Research Assistant at <a href="https://ai.comp.nus.edu.sg/"><em>HPC-AI Lab</em></a>
+          Research Assistant at <a href="https://ai.comp.nus.edu.sg/"><em>HPC-AI Lab</em></a> advised by <a href="https://www.comp.nus.edu.sg/~youy/"><em>Yang You</em></a>, <a href="https://wangbo-zhao.github.io/"><em>Wangbo Zhao</em></a> and <a href="https://lancezpf.github.io/"><em>Pengfei Zhou</em></a>
       </div>
   </div>
 
