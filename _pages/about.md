@@ -227,58 +227,44 @@ Experience
 --------------
 
 <div class="experience-container">
+
   <div class="experience-card">
-      <img src="images/HKU.png" alt="HKU logo" class="experience-logo">
+      <img src="images/Alibaba.png" alt="astri logo" class="experience-logo">
       <div class="experience-info">
-          <strong>The University of Hong Kong</strong><br>
-          Sep 2026 - <br>
-          Phd at <a href="https://mmlab.hk/"><em>MMLab@HKU</em></a> 
+          <strong>Astribot Inc.</strong><br>
+          May 2026 - present<br>
+          MLLM Engineer Intern advised by <a href="\https://scholar.google.com.hk/citations?hl=en&user=lFCLvOAAAAAJ"><em>Liang Ding</em></a> and <a href="https://scholar.google.com.hk/citations?hl=en&user=xYfO9VEAAAAJ"><em>Xintong Wang</em></a>
       </div>
   </div>
 
-  <div class="experience-card">
-      <img src="images/bytedance.png" alt="Seed logo" class="experience-logo">
-      <div class="experience-info">
-          <strong>ByteDance Seed</strong><br>
-          Oct 2025 - May 2026<br>
-          MLE Intern at <a href="https://seed.bytedance.com/en/"><em>Seed-Robotics</em></a> 
-      </div>
-  </div>
 
+  
   <div class="experience-card">
-      <img src="images/astri.png" alt="astri logo" class="experience-logo">
+      <img src="images/TeleAI.png" alt="astri logo" class="experience-logo">
       <div class="experience-info">
           <strong>Astribot Inc.</strong><br>
           June 2025 - Sep 2025<br>
-          MLE Intern advised by <a href="https://scholar.google.com/citations?user=mt5mvZ8AAAAJ&hl=en"><em>Jianan Wang</em></a>
+          Start My Journey in LLM
       </div>
   </div>
 
-  <div class="experience-card">
-      <img src="images/SJTU.png" alt="SJTU logo" class="experience-logo">
-      <div class="experience-info">
-          <strong>Shanghai Jiao Tong University</strong><br>
-          July 2024 - June 2025<br>
-          Research Assistant at <a href="https://www.mvig.org/index.html"><em>MVIG</em></a> Lab
-      </div>
-  </div>
 
   <div class="experience-card">
       <img src="images/XDU.png" alt="Xi'dian logo" class="experience-logo">
       <div class="experience-info">
           <strong>Xidian University</strong><br>
-          Sep 2022 - July 2026<br>
-          Rank 4/174, <b>National Scholarship</b><br>
-          B.E at <a href="https://sai.xidian.edu.cn"><em>SAI</em></a> & RA at <a href="https://web.xidian.edu.cn/mggong/"><em>OMEGA</em></a> Lab
+          Sep 2023 - July 2027<br>
+          Rank 5/99
+          B.E at <a href="https://ste.xidian.edu.cn/"><em>STE</em></a> 
       </div>
   </div>
 
   <div class="experience-card">
-      <img src="images/ssy.png" alt="ssy logo" class="experience-logo">
+      <img src="images/NUS.png" alt="SJTU logo" class="experience-logo">
       <div class="experience-info">
-          <strong>Hubei Wuchang Experimental High School</strong><br>
-          Sep 2019 - June 2022<br>
-          那是一段小有遗憾的幸福时光.
+          <strong>National University of Singapore</strong><br>
+          Oct 2024 - Oct 2025<br>
+          Research Assistant at <a href="https://ai.comp.nus.edu.sg/"><em>HPC-AI Lab</em></a>
       </div>
   </div>
 </div>
