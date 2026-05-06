@@ -215,13 +215,17 @@ Feel free to reach out if you are interested in collaboration or potential oppor
 
 News
 ---------------
-- *2026.05*: &nbsp;🎉🎉 I begin my intership at Alibaba Group.
-- *2026.04*: &nbsp;🎉🎉 Two paper accepted to ACL 2026. (Not publicly available on arXiv yet due to visa-related clearance).
-- *2026.02*: &nbsp;🎉🎉 One paper accepted to CVPR 2026. (Not publicly available on arXiv yet due to visa-related clearance).
-- *2026.01*: &nbsp;🎉🎉 I begin my internship at TeleAI.
-- *2025.08*: &nbsp;🎉🎉 One paper accepted to PRCV 2025.
-- *2025.07*: &nbsp;🎉🎉 One paper accepted to ICCV 2025.
-- *2024.10*: &nbsp;🎉🎉 I joined the HPC-AI Lab at NUS as a Research Intern.
+<div class="news-box">
+  <ul class="news-list">
+    <li><span class="news-date">2026.05</span> 🎉🎉 I begin my internship at Alibaba Group.</li>
+    <li><span class="news-date">2026.04</span> 🎉🎉 Two papers accepted to ACL 2026. (Not publicly available on arXiv yet due to visa-related clearance).</li>
+    <li><span class="news-date">2026.02</span> 🎉🎉 One paper accepted to CVPR 2026. (Not publicly available on arXiv yet due to visa-related clearance).</li>
+    <li><span class="news-date">2026.01</span> 🎉🎉 I begin my internship at TeleAI.</li>
+    <li><span class="news-date">2025.08</span> 🎉🎉 One paper accepted to PRCV 2025.</li>
+    <li><span class="news-date">2025.07</span> 🎉🎉 One paper accepted to ICCV 2025.</li>
+    <li><span class="news-date">2024.10</span> 🎉🎉 I joined the HPC-AI Lab at NUS as a Research Intern.</li>
+  </ul>
+</div>
 
 Experience
 --------------
