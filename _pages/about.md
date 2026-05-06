@@ -6,7 +6,15 @@ redirect_from:
   - /about.html
 ---
 <style>
-
+    #news,
+    #experience,
+    #publications,
+    #projects,
+    #awards,
+    #talks {
+        scroll-margin-top: 80px;
+    }
+  
       /* ===== News Scroll Box ===== */
     .news-box {
       max-height: 220px;
