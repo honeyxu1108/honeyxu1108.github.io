@@ -225,9 +225,11 @@ News
 
 Experience
 --------------
+<button class="pub-button active" onclick="filterPublications(event, 'all')">All Publications</button>
+<button class="pub-button" onclick="filterPublications(event, 'mllm')">MLLM</button>
+<button class="pub-button" onclick="filterPublications(event, 'benchmark')">BenchMark</button>
 
 <div class="experience-container">
-
   <div class="experience-card">
       <img src="images/Alibaba.png" alt="Alibaba logo" class="experience-logo">
       <div class="experience-info">
