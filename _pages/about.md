@@ -253,7 +253,7 @@ News
     <li><span class="news-date">2026.01</span> 🎉🎉 I begin my internship at TeleAI.</li>
     <li><span class="news-date">2025.08</span> 🎉🎉 One paper accepted to PRCV 2025.</li>
     <li><span class="news-date">2025.07</span> 🎉🎉 One paper accepted to ICCV 2025.</li>
-    <li><span class="news-date">2024.10</span> 🎉🎉 I joined the HPC-AI Lab at NUS as a Research Intern.</li>
+    <li><span class="news-date">2024.10</span> 🎉🎉 I joined the HPC-AI Lab at NUS as a Research Assistant.</li>
   </ul>
 </div>
 
@@ -297,7 +297,7 @@ Experience
           <strong>Xidian University</strong><br>
           2023.09 - Present<br>
           Rank 5/99
-          B.E at <a href="https://ste.xidian.edu.cn/"><em>School of Telecommunication Engineering</em></a> & RA advised by <a href="https://scholar.google.com/citations?user=k33uf2RE8nsC&hl=zh-CN&oi=ao"><em>Xiumei Wang</em></a>
+          B.E at <a href="https://ste.xidian.edu.cn/"><em>School of Telecommunication Engineering</em></a> & Research Assistant advised by <a href="https://scholar.google.com/citations?user=k33uf2RE8nsC&hl=zh-CN&oi=ao"><em>Xiumei Wang</em></a>
       </div>
   </div>
   
