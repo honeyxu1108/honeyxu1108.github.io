@@ -10,18 +10,17 @@ main:
   - title: "Pub"
     url: "/#publications"
 
-    - title: "Project"
+  - title: "Project"
     url: "/#projects"
 
-    - title: "Awards"
+  - title: "Awards"
     url: "/#awards"
 
-    - title: "Talks"
+  - title: "Talks"
     url: "/#talks"
     
-   - title: "CV-En"
-    url: /files/weidongtang_resume.pdf
-    
-  # - title: "CV-Cn"
-  #   url:   /files/chinese_resume.pdf  
+  - title: "CV-En"
+    url: "/files/weidongtang_resume.pdf"
 
+  # - title: "CV-Cn"
+  #   url: "/files/chinese_resume.pdf"
