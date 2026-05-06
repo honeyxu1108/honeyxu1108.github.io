@@ -315,6 +315,7 @@ Publications
 <button class="pub-button active" onclick="filterPublications(event, 'all')">All Publications</button>
 <button class="pub-button" onclick="filterPublications(event, 'mllm')">MLLM</button>
 <button class="pub-button" onclick="filterPublications(event, 'benchmark')">BenchMark</button>
+(&ast; equal contribution · &dagger; corresponding author · &Dagger; project leader)
 
 <div class="publication-card" data-category="mllm benchmark"> 
   <div style="display: flex; align-items: center;">
@@ -338,6 +339,30 @@ Publications
         <a href="https://wangbo-zhao.github.io/" target="_blank">Wangbo Zhao</a>&dagger;
       </i><br> 
       We propose GroupToM-Bench and show that current models fail at nonlinear group reasoning despite strong individual-level ToM, exposing a clear group cognitive gap. 
+      <br> 
+      <b><i style="color:#83a1c7;">ACL 2026 Oral &nbsp;
+      </i></b> 
+      <a href=""><em>[arXiv]</em></a> 
+      <a href=""><em>[code]</em></a> 
+    </div>
+  </div> 
+</div>
+
+
+<div class="publication-card" data-category="mllm benchmark"> 
+  <div style="display: flex; align-items: center;">
+    <div class="pub-media-rotator" data-interval="4000" style="position: relative; width: 320px; height: 180px; margin-right: 20px; border-radius: 8px; overflow: hidden; flex: 0 0 auto;"> 
+      <img src="images/MagicBench.png" alt="wog" style="width: 320px; height: 180px; object-fit: contain; display: block; margin: 0 auto;"> 
+    </div> 
+    <div>
+      <strong>GroupToM-Bench: Benchmarking Group Theory of Mind and Nonlinear Social Emergence in MLLMs</strong><br>
+      <i style="font-size: 13px;">
+        Tang Da Huang,
+        <a href="https://wd7ang.github.io" target="_blank"><strong>Weidong Tang</strong></a>&Dagger;, 
+        Wen Qi Xu,
+        Xianpeng Guo&dagger;
+      </i><br> 
+      The authors introduce MagicBench, a video dataset of magic tricks, to test if Multimodal LLMs actually rely on visual physics or if they are overly dependent on language narratives (which, in magic tricks, are deliberately deceptive).
       <br> 
       <b><i style="color:#83a1c7;">ACL 2026 Oral &nbsp;
       </i></b> 
@@ -399,36 +424,6 @@ Publications
   </div> 
 </div>
 
-<div class="publication-card" data-category="mllm benchmark"> 
-  <div style="display: flex; align-items: center;">
-    <div class="pub-media-rotator" data-interval="4000" style="position: relative; width: 320px; height: 180px; margin-right: 20px; border-radius: 8px; overflow: hidden; flex: 0 0 auto;"> 
-      <img src="images/EA-ViT.png" alt="wog" style="width: 320px; height: 180px; object-fit: contain; display: block; margin: 0 auto;"> 
-    </div> 
-    <div>
-      <strong>EA-ViT: Efficient Adaptation for Elastic Vision Transformer</strong><br>
-      <i style="font-size: 13px;">
-        <a href="https://scholar.google.com.hk/citations?user=W9HbDoYAAAAJ&hl=en" target="_blank">Chen Zhu</a>, 
-        <a href="https://wangbo-zhao.github.io/" target="_blank">Wangbo Zhao</a>&dagger;,
-        Huiwen Zhang,
-        <a href="https://scholar.google.com.hk/citations?hl=en&user=XUyUZY4AAAAJ&view_op=list_works&sortby=pubdate" target="_blank">Samir Khaki</a>, 
-        <a href="https://scholar.google.com.hk/citations?hl=en&user=bGKF2tUAAAAJ&view_op=list_works&sortby=pubdate" target="_blank">Yuhao Zhou</a>, 
-        <a href="https://wd7ang.github.io" target="_blank"><strong>Weidong Tang</strong></a>, 
-        Shuo Wang,
-        Zhihang Yuan,
-        Yuzhang Shang,
-        <a href="https://scholar.google.com.hk/citations?hl=en&user=7oRD67kAAAAJ&view_op=list_works&sortby=pubdate" target="_blank">Xiaojiang Peng</a>,
-        <a href="https://scholar.google.com.hk/citations?hl=en&user=i2II0XIAAAAJ" target="_blank">Kai Wang</a>,
-        <a href="https://scholar.google.com.hk/citations?hl=en&user=j2ANma0AAAAJ&view_op=list_works&sortby=pubdate" target="_blank">Dawei Yang</a>&dagger;
-      </i><br> 
-      EA-ViT is an efficient adaptation framework for Vision Transformers, enabling a single process to generate flexible models of varying sizes for diverse resource constraints, using a nested elastic architecture and a lightweight router optimized with Pareto-optimal configurations.
-      <br> 
-      <b><i style="color:#83a1c7;">PRCV 2025 &nbsp;
-      </i></b> 
-      <a href=""><em>[arXiv]</em></a> 
-      <a href=""><em>[code]</em></a> 
-    </div>
-  </div> 
-</div> 
 
 
 <script src="assets/js/show_publications.js"></script>
