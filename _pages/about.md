@@ -348,6 +348,101 @@ Publications
 </div>
 
 
+<div class="publication-card" data-category="mllm benchmark"> 
+  <div style="display: flex; align-items: center;">
+    <div class="pub-media-rotator" data-interval="4000" style="position: relative; width: 320px; height: 180px; margin-right: 20px; border-radius: 8px; overflow: hidden; flex: 0 0 auto;"> 
+      <img src="images/RDS.png" alt="wog" style="width: 320px; height: 180px; object-fit: contain; display: block; margin: 0 auto;"> 
+    </div> 
+    <div>
+      <strong>Efficient Video Object Segmentation and Tracking with Recurrent Dynamic Submodel</strong><br>
+      <i style="font-size: 13px;">
+        <a href="https://wd7ang.github.io" target="_blank"><strong>Weidong Tang</strong></a>, 
+        Jierui Li,
+        Yueling Hou, 
+        Zihan Mei, 
+        Zhigang Tian, 
+        Weicheng Jiao, 
+        Can Zhang, 
+        Xinyan Wan, 
+        <a href="https://jerryliang24.github.io/" target="_blank">Zhiyuan Liang</a>, 
+        <a href="https://lancezpf.github.io/" target="_blank">Pengfei Zhou</a>&dagger;,
+        <a href="https://www.comp.nus.edu.sg/~youy/" target="_blank">Yang You</a>, 
+        <a href="https://wangbo-zhao.github.io/" target="_blank">Wangbo Zhao</a>&dagger;
+      </i><br> 
+      Proposed a Recurrent Dynamic Submodel for efficient Video Object Segmentation and Tracking. By integrating temporal-prior-guided global dynamic routing and Importance-aware LoRA, it achieves an optimal trade-off between performance and speed using minimal trainable parameters and training data.
+      <br> 
+      <b><i style="color:#83a1c7;">CVPR 2026 &nbsp;
+      </i></b> 
+      <a href=""><em>[arXiv]</em></a> 
+      <a href=""><em>[code]</em></a> 
+    </div>
+  </div> 
+</div>
+
+
+<div class="publication-card" data-category="mllm benchmark"> 
+  <div style="display: flex; align-items: center;">
+    <div class="pub-media-rotator" data-interval="4000" style="position: relative; width: 320px; height: 180px; margin-right: 20px; border-radius: 8px; overflow: hidden; flex: 0 0 auto;"> 
+      <img src="images/var-scaling.png" alt="wog" style="width: 320px; height: 180px; object-fit: contain; display: block; margin: 0 auto;"> 
+    </div> 
+    <div>
+      <strong>Inference-Time Scaling for Visual AutoRegressive modeling by Searching Representative Samples</strong><br>
+      <i style="font-size: 13px;">
+        <a href="https://wd7ang.github.io" target="_blank"><strong>Weidong Tang</strong></a>, 
+        Jierui Li,
+        Yueling Hou, 
+        Zihan Mei, 
+        Zhigang Tian, 
+        Weicheng Jiao, 
+        Can Zhang, 
+        Xinyan Wan, 
+        <a href="https://jerryliang24.github.io/" target="_blank">Zhiyuan Liang</a>, 
+        <a href="https://lancezpf.github.io/" target="_blank">Pengfei Zhou</a>&dagger;,
+        <a href="https://www.comp.nus.edu.sg/~youy/" target="_blank">Yang You</a>, 
+        <a href="https://wangbo-zhao.github.io/" target="_blank">Wangbo Zhao</a>&dagger;
+      </i><br> 
+      Explored inference-time scaling in discrete spaces by mapping them to continuous spaces to obtain density distributions, thereby optimizing the sampling of early coarse-scale features.
+      <br> 
+      <b><i style="color:#83a1c7;">PRCV 2025 &nbsp;
+      </i></b> 
+      <a href=""><em>[arXiv]</em></a> 
+      <a href=""><em>[code]</em></a> 
+    </div>
+  </div> 
+</div>
+
+<div class="publication-card" data-category="mllm benchmark"> 
+  <div style="display: flex; align-items: center;">
+    <div class="pub-media-rotator" data-interval="4000" style="position: relative; width: 320px; height: 180px; margin-right: 20px; border-radius: 8px; overflow: hidden; flex: 0 0 auto;"> 
+      <img src="images/EA-ViT.png" alt="wog" style="width: 320px; height: 180px; object-fit: contain; display: block; margin: 0 auto;"> 
+    </div> 
+    <div>
+      <strong>EA-ViT: Efficient Adaptation for Elastic Vision Transformer</strong><br>
+      <i style="font-size: 13px;">
+        <a href="https://wd7ang.github.io" target="_blank"><strong>Weidong Tang</strong></a>, 
+        Jierui Li,
+        Yueling Hou, 
+        Zihan Mei, 
+        Zhigang Tian, 
+        Weicheng Jiao, 
+        Can Zhang, 
+        Xinyan Wan, 
+        <a href="https://jerryliang24.github.io/" target="_blank">Zhiyuan Liang</a>, 
+        <a href="https://lancezpf.github.io/" target="_blank">Pengfei Zhou</a>&dagger;,
+        <a href="https://www.comp.nus.edu.sg/~youy/" target="_blank">Yang You</a>, 
+        <a href="https://wangbo-zhao.github.io/" target="_blank">Wangbo Zhao</a>&dagger;
+      </i><br> 
+      EA-ViT is an efficient adaptation framework for Vision Transformers, enabling a single process to generate flexible models of varying sizes for diverse resource constraints, using a nested elastic architecture and a lightweight router optimized with Pareto-optimal configurations.
+      <br> 
+      <b><i style="color:#83a1c7;">PRCV 2025 &nbsp;
+      </i></b> 
+      <a href=""><em>[arXiv]</em></a> 
+      <a href=""><em>[code]</em></a> 
+    </div>
+  </div> 
+</div>
+
+
 <script src="assets/js/show_publications.js"></script>
 <script src="assets/js/pub_media_rotator.js"></script>
 
