@@ -233,7 +233,7 @@ Experience
       <div class="experience-info">
           <strong>Alibaba Group</strong><br>
           May 2026 - present<br>
-          MLLM Engineer Intern advised by <a href="\https://scholar.google.com.hk/citations?hl=en&user=lFCLvOAAAAAJ"><em>Liang Ding</em></a> and <a href="https://scholar.google.com.hk/citations?hl=en&user=xYfO9VEAAAAJ"><em>Xintong Wang</em></a>
+          MLLM Engineer Intern advised by <a href="https://scholar.google.com.hk/citations?hl=en&user=lFCLvOAAAAAJ"><em>Liang Ding</em></a> and <a href="https://scholar.google.com.hk/citations?hl=en&user=xYfO9VEAAAAJ"><em>Xintong Wang</em></a>
       </div>
   </div>
 
@@ -253,7 +253,7 @@ Experience
       <img src="images/XDU.png" alt="Xi'dian logo" class="experience-logo">
       <div class="experience-info">
           <strong>Xidian University</strong><br>
-          Sep 2023 - July 2027<br>
+          Sep 2023 - present<br>
           Rank 5/99
           B.E at <a href="https://ste.xidian.edu.cn/"><em>STE</em></a> 
       </div>
