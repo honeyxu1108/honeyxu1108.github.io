@@ -242,7 +242,7 @@ Experience
   <div class="experience-card">
       <img src="images/TeleAI.png" alt="astri logo" class="experience-logo">
       <div class="experience-info">
-          <strong>Astribot Inc.</strong><br>
+          <strong>Institute of Artificial Intelligence of China Telecom</strong><br>
           Jan 2026 - Mar 2026<br>
           Start My Journey in LLM
       </div>
