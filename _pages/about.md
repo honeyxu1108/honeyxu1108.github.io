@@ -407,7 +407,7 @@ Publications
     <div>
       <strong>EA-ViT: Efficient Adaptation for Elastic Vision Transformer</strong><br>
       <i style="font-size: 13px;">
-        <a href="https://scholar.google.com.hk/citations?user=W9HbDoYAAAAJ&hl=en" target="_blank"><strong>Chen Zhu</a>, 
+        <a href="https://scholar.google.com.hk/citations?user=W9HbDoYAAAAJ&hl=en" target="_blank">Chen Zhu</a>, 
         <a href="https://wangbo-zhao.github.io/" target="_blank">Wangbo Zhao</a>&dagger;,
         Huiwen Zhang,
         <a href="https://scholar.google.com.hk/citations?hl=en&user=XUyUZY4AAAAJ&view_op=list_works&sortby=pubdate" target="_blank"><strong>Samir Khaki</a>, 
