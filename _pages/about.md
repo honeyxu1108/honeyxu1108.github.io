@@ -281,12 +281,9 @@ Publications
   <div style="display: flex; align-items: center;">
     <div class="pub-media-rotator" data-interval="4000" style="position: relative; width: 200px; height: 120px; margin-right: 20px; border-radius: 8px; overflow: hidden; flex: 0 0 auto;">
       <img src="images/GroupToM.png" alt="wog" style="width: 200px; height: 120px; object-fit: cover; display: block;">
-      <video style="width: 200px; height: 120px; object-fit: cover; display: none;" autoplay muted playsinline>
-        <source src="images/WoG.mp4" type="video/mp4">
-      </video>
     </div>
     <div>
-        <strong>World Guidance: World Modeling in Condition Space for Action Generation</strong><br>
+        <strong>GroupToM-Bench: Benchmarking Group Theory of Mind and Nonlinear Social Emergence in MLLMs</strong><br>
         <i style="font-size: 13px;">
             <a href="https://wd7ang.github.io" target="_blank"><strong>Weidong Tang</strong></a>, 
             Jierui Li,
@@ -297,7 +294,7 @@ Publications
             Can Zhang,
             Xinyan Wan,
             <a href="https://jerryliang24.github.io/" target="_blank">Zhiyuan Liang</a>,
-            <a href="https://lancezpf.github.io/" target="_blank">Pengfei Zhou</a>,
+            <a href="https://lancezpf.github.io/" target="_blank">Pengfei Zhou</a>&dagger,
             <a href="https://www.comp.nus.edu.sg/~youy/" target="_blank">Yang You</a>,
             <a href="https://wangbo-zhao.github.io/" target="_blank">Wangbo Zhao</a>&dagger;
         </i><br>
@@ -310,11 +307,9 @@ Publications
   </div>
 </div>
 
-<div class="publication-card" data-category="mllm">
+<div class="publication-card" data-category="mllm benchmark">
   <div style="display: flex; align-items: center;">
-    <video width="200" height="120" style="margin-right: 20px; border-radius: 8px;" autoplay loop muted playsinline>
-      <source src="images/clap.mp4" type="video/mp4">
-    </video>
+      <img src="images/GroupToM.png" alt="wog" style="width: 200px; height: 120px; object-fit: cover; display: block;">
     <div>
         <strong>CLAP: Contrastive Latent Action Pretraining for Learning Vision-Language-Action Models from Human Videos</strong><br>
         <i style="font-size: 13px;">
