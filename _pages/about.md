@@ -297,7 +297,7 @@ Experience
           <strong>Xidian University</strong><br>
           Sep 2023 - present<br>
           Rank 5/99
-          B.E at <a href="https://ste.xidian.edu.cn/"><em>STE</em></a> 
+          B.E at <a href="https://ste.xidian.edu.cn/"><em>School of Telecommunication Engineering</em></a> 
       </div>
   </div>
   
