@@ -313,12 +313,11 @@ Experience
 Publications
 --------------
 <button class="pub-button active" onclick="filterPublications(event, 'all')">Core Publications</button>
-<button class="pub-button" onclick="filterPublications(event, 'mllm')">MLLM</button>
-<button class="pub-button" onclick="filterPublications(event, 'benchmark')">BenchMark</button>
+<button class="pub-button" onclick="filterPublications(event, 'list')">Full Publications List</button>
 
 (* equal contribution · &dagger; corresponding author · &Dagger; project leader)
 
-<div class="publication-card" data-category="mllm benchmark"> 
+<div class="publication-card" data-category="all"> 
   <div style="display: flex; align-items: center;">
     <div class="pub-media-rotator" data-interval="4000" style="position: relative; width: 320px; height: 180px; margin-right: 20px; border-radius: 8px; overflow: hidden; flex: 0 0 auto;"> 
       <img src="images/GroupToM.png" alt="wog" style="width: 320px; height: 180px; object-fit: contain; display: block; margin: 0 auto;"> 
@@ -350,7 +349,7 @@ Publications
 </div>
 
 
-<div class="publication-card" data-category="mllm benchmark"> 
+<div class="publication-card" data-category="all"> 
   <div style="display: flex; align-items: center;">
     <div class="pub-media-rotator" data-interval="4000" style="position: relative; width: 320px; height: 180px; margin-right: 20px; border-radius: 8px; overflow: hidden; flex: 0 0 auto;"> 
       <img src="images/MagicBench.png" alt="wog" style="width: 320px; height: 180px; object-fit: contain; display: block; margin: 0 auto;"> 
@@ -374,7 +373,7 @@ Publications
 </div>
 
 
-<div class="publication-card" data-category="mllm benchmark"> 
+<div class="publication-card" data-category="all"> 
   <div style="display: flex; align-items: center;">
     <div class="pub-media-rotator" data-interval="4000" style="position: relative; width: 320px; height: 180px; margin-right: 20px; border-radius: 8px; overflow: hidden; flex: 0 0 auto;"> 
       <img src="images/RDS.png" alt="wog" style="width: 320px; height: 180px; object-fit: contain; display: block; margin: 0 auto;"> 
@@ -403,7 +402,7 @@ Publications
 </div>
 
 
-<div class="publication-card" data-category="mllm benchmark"> 
+<div class="publication-card" data-category="all"> 
   <div style="display: flex; align-items: center;">
     <div class="pub-media-rotator" data-interval="4000" style="position: relative; width: 320px; height: 180px; margin-right: 20px; border-radius: 8px; overflow: hidden; flex: 0 0 auto;"> 
       <img src="images/var-scaling.png" alt="wog" style="width: 320px; height: 180px; object-fit: contain; display: block; margin: 0 auto;"> 
@@ -425,7 +424,6 @@ Publications
   </div> 
 </div>
 
-<button class="pub-button active" onclick="filterPublications(event, 'all')">All Publications</button>
 
 <script src="assets/js/show_publications.js"></script>
 <script src="assets/js/pub_media_rotator.js"></script>
