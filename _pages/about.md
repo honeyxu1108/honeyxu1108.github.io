@@ -600,17 +600,34 @@ Publications
       <span class="pub-list-badge">ICCV 2025</span>
       <span class="pub-list-title">EA-ViT: Efficient Adaptation for Elastic Vision Transformer</span><br>
       <span class="pub-list-authors">
-        <a href="https://wd7ang.github.io" target="_blank"><strong>Weidong Tang</strong></a>, Xinyan Wan, Siyu Li,
-        <a href="https://scholar.google.com/citations?user=k33uf2RE8nsC&hl=zh-CN&oi=ao" target="_blank">Xiumei Wang&dagger;</a>.
+        <a href="https://scholar.google.com.hk/citations?user=W9HbDoYAAAAJ&hl=en" target="_blank">Chen Zhu</a>,
+        <a href="https://wangbo-zhao.github.io/" target="_blank">Wangbo Zhao&dagger;</a>,
+        Huiwen Zhang,
+        <a href="https://scholar.google.com/citations?hl=zh-CN&user=bGKF2tUAAAAJ" target="_blank">Yuhao Zhou</a>,
+        <a href="https://wd7ang.github.io" target="_blank"><strong>Weidong Tang</strong></a>, 
+        Shuo Wang,
+        Zhihang Yuan,
+        Yuzhang Shang,
+        <a href="https://scholar.google.com/citations?hl=zh-CN&user=7oRD67kAAAAJ" target="_blank">Xiaojiang Peng</a>,
+        <a href="https://scholar.google.com/citations?hl=zh-CN&user=i2II0XIAAAAJ" target="_blank">Kai Wang</a>,
+        <a href="https://scholar.google.com/citations?hl=zh-CN&user=j2ANma0AAAAJ&view_op=list_works&sortby=pubdate" target="_blank">Dawei Yang&dagger;</a>.
       </span>
       <span class="pub-list-links"><a href="">[arXiv]</a><a href="">[code]</a></span>
     </li>
         <li>
-      <span class="pub-list-badge">PRCV 2025</span>
+      <span class="pub-list-badge">Preprint 2025</span>
       <span class="pub-list-title">Pebench: A fictitious dataset to benchmark machine unlearning for multimodal large language models</span><br>
       <span class="pub-list-authors">
-        <a href="https://wd7ang.github.io" target="_blank"><strong>Weidong Tang</strong></a>, Xinyan Wan, Siyu Li,
-        <a href="https://scholar.google.com/citations?user=k33uf2RE8nsC&hl=zh-CN&oi=ao" target="_blank">Xiumei Wang&dagger;</a>.
+        <a href="https://scholar.google.com.hk/citations?user=qNWDwOcAAAAJ&hl=en" target="_blank">Zhaopan Xu</a>,
+        <a href="https://lancezpf.github.io/" target="_blank">Pengfei Zhou</a>,
+        <a href="https://wd7ang.github.io" target="_blank"><strong>Weidong Tang</strong></a>, 
+        Jiaxin Ai,
+        <a href="https://wangbo-zhao.github.io/" target="_blank">Wangbo Zhao</a>,
+        <a href="https://scholar.google.com/citations?hl=zh-CN&user=i2II0XIAAAAJ" target="_blank">Kai Wang</a>,
+        <a href="https://scholar.google.com/citations?hl=zh-CN&user=7oRD67kAAAAJ" target="_blank">Xiaojiang Peng</a>,
+        Wenqi Shao,
+        Hongxun Yao,
+        <a href="https://scholar.google.com/citations?hl=zh-CN&user=4OqZBmYAAAAJ&view_op=list_works&sortby=pubdate" target="_blank">Kaipeng Zhang&dagger;</a>.
       </span>
       <span class="pub-list-links"><a href="">[arXiv]</a><a href="">[code]</a></span>
     </li>
