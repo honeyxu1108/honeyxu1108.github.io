@@ -355,13 +355,13 @@ News
 ---------------
 <div class="news-box">
   <ul class="news-list">
-    <li><span class="news-date"><em>2026.05<\em></span> 🎉🎉 I begin my internship at Alibaba Group.</li>
-    <li><span class="news-date"><em>2026.04<\em></span> 🎉🎉 Two papers accepted to ACL 2026. (Not publicly available on arXiv yet due to visa-related clearance).</li>
-    <li><span class="news-date"><em>2026.02<\em></span> 🎉🎉 One paper accepted to CVPR 2026. (Not publicly available on arXiv yet due to visa-related clearance).</li>
-    <li><span class="news-date"><em>2026.01<\em></span> 🎉🎉 I begin my internship at TeleAI.</li>
-    <li><span class="news-date"><em>2025.08<\em></span> 🎉🎉 One paper accepted to PRCV 2025.</li>
-    <li><span class="news-date"><em>2025.07<\em></span> 🎉🎉 One paper accepted to ICCV 2025.</li>
-    <li><span class="news-date"><em>2024.10<\em></span> 🎉🎉 I joined the HPC-AI Lab at NUS as a Research Assistant.</li>
+    <li><span class="news-date"><em>2026.05</em></span> 🎉🎉 I begin my internship at Alibaba Group.</li>
+    <li><span class="news-date"><em>2026.04</em></span> 🎉🎉 Two papers accepted to ACL 2026. (Not publicly available on arXiv yet due to visa-related clearance).</li>
+    <li><span class="news-date"><em>2026.02</em></span> 🎉🎉 One paper accepted to CVPR 2026. (Not publicly available on arXiv yet due to visa-related clearance).</li>
+    <li><span class="news-date"><em>2026.01</em></span> 🎉🎉 I begin my internship at TeleAI.</li>
+    <li><span class="news-date"><em>2025.08</em></span> 🎉🎉 One paper accepted to PRCV 2025.</li>
+    <li><span class="news-date"><em>2025.07</em></span> 🎉🎉 One paper accepted to ICCV 2025.</li>
+    <li><span class="news-date"><em>2024.10</em></span> 🎉🎉 I joined the HPC-AI Lab at NUS as a Research Assistant.</li>
   </ul>
 </div>
 
@@ -373,7 +373,7 @@ Experience
       <img src="images/Alibaba.png" alt="Alibaba logo" class="experience-logo">
       <div class="experience-info">
           <strong>Alibaba Group</strong><br>
-          <em>2026.05 - Present<\em><br>
+          <em>2026.05 - Present</em><br>
           MLLM Engineer Intern advised by <a href="https://liamding.cc/"><em>Liang Ding</em></a> and <a href="https://ethanscuter.github.io/"><em>Xintong Wang</em></a>
       </div>
   </div>
@@ -384,7 +384,7 @@ Experience
       <img src="images/TeleAI.png" alt="TeleAI logo" class="experience-logo">
       <div class="experience-info">
           <strong>Institute of Artificial Intelligence of China Telecom</strong><br>
-          <em>2026.01 - 2026.03<\em><br>
+          <em>2026.01 - 2026.03</em><br>
           Start My Journey in LLM
       </div>
   </div>
@@ -393,7 +393,7 @@ Experience
       <img src="images/NUS.png" alt="NUS logo" class="experience-logo">
       <div class="experience-info">
           <strong>National University of Singapore</strong><br>
-          <em>2024.10 - 2025.10<\em><br>
+          <em>2024.10 - 2025.10</em><br>
           Research Assistant at <a href="https://ai.comp.nus.edu.sg/"><em>HPC-AI Lab</em></a> advised by <a href="https://www.comp.nus.edu.sg/~youy/"><em>Yang You</em></a>, <a href="https://wangbo-zhao.github.io/"><em>Wangbo Zhao</em></a> and <a href="https://lancezpf.github.io/"><em>Pengfei Zhou</em></a>
       </div>
   </div>
@@ -403,7 +403,7 @@ Experience
       <img src="images/XDU.png" alt="Xi'dian logo" class="experience-logo">
       <div class="experience-info">
           <strong>Xidian University</strong><br>
-          <em>2023.09 - Present<\em><br>
+          <em>2023.09 - Present</em><br>
           Rank 5/99, B.E at <a href="https://ste.xidian.edu.cn/"><em>School of Telecommunication Engineering</em></a> & Research Assistant advised by <a href="https://scholar.google.com/citations?user=k33uf2RE8nsC&hl=zh-CN&oi=ao"><em>Xiumei Wang</em></a>
       </div>
   </div>
