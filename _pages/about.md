@@ -228,8 +228,12 @@ redirect_from:
         font-style: italic;
     }
 
-    .pub-list-authors strong {
+    .pub-list-authors > strong {
         color: #202124;
+    }
+
+      .pub-list-authors a strong {
+        color: inherit;
     }
 
     .pub-list-note {
