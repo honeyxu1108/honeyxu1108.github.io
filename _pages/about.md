@@ -688,14 +688,15 @@ Projects
 <div class="project-card" data-category="project"> 
   <div style="display: flex; align-items: center;">
     <div class="pub-media-rotator" data-interval="4000" style="position: relative; width: 320px; height: 180px; margin-right: 20px; border-radius: 8px; overflow: hidden; flex: 0 0 auto;">
-      <img src="images/GroupToM.png" alt="ManiUniCon" style="width: 320px; height: 180px; object-fit: contain; display: block; margin: 0 auto;">
+      <img src="images/homepage.png" alt="ManiUniCon" style="width: 320px; height: 180px; object-fit: contain; display: block; margin: 0 auto;">
     </div>
     <div> 
-      <strong>ManiUniCon: A Unified Control Interface for Robotic Manipulation</strong><br>
+      <strong>academic-homepage</strong><br>
       <i style="font-size: 13px;">
-        Universal-Control Team
+        <a href="https://wd7ang.github.io" target="_blank"><strong>Weidong Tang</strong></a>,
+        <a href="https://selen-suyue.github.io/" target="_blank"><strong>Yue Su</strong></a>,
       </i><br>
-      ManiUniCon is a comprehensive, multi-process robotics control framework designed for robotic manipulation tasks. It provides a unified interface for controlling various robot arms, integrating sensors, and executing policies in real-time. 
+      In collaboration with Suyue, I refined and improved his original homepage template. A clean standalone template version is coming soon.
       <br> 
       <b><i style="color:#83a1c7;">Project &nbsp;</i></b> 
       <a href="https://github.com/Universal-Control/ManiUniCon"><em>[code]</em></a> 
