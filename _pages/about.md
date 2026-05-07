@@ -699,7 +699,7 @@ Projects
       In collaboration with Yue Su, I refined and improved his original homepage template. A clean standalone template version is coming soon.
       <br> 
       <b><i style="color:#83a1c7;">Project &nbsp;</i></b> 
-      <a href="https://github.com/Universal-Control/ManiUniCon"><em>[code]</em></a> 
+      <a href=""><em>[code]</em></a> 
     </div>
   </div> 
 </div>
