@@ -696,7 +696,7 @@ Projects
         <a href="https://wd7ang.github.io" target="_blank"><strong>Weidong Tang</strong></a>,
         <a href="https://selen-suyue.github.io/" target="_blank"><strong>Yue Su</strong></a>,
       </i><br>
-      In collaboration with Suyue, I refined and improved his original homepage template. A clean standalone template version is coming soon.
+      In collaboration with Yue Su, I refined and improved his original homepage template. A clean standalone template version is coming soon.
       <br> 
       <b><i style="color:#83a1c7;">Project &nbsp;</i></b> 
       <a href="https://github.com/Universal-Control/ManiUniCon"><em>[code]</em></a> 
