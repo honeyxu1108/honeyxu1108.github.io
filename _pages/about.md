@@ -187,8 +187,36 @@ redirect_from:
         display: none !important;
     }
 
+      #full-publications {
+        max-height: 380px;
+        overflow-y: auto;
+        padding-right: 8px;
+        margin-bottom: 24px;
+        scroll-behavior: smooth;
+        scrollbar-width: thin;
+        scrollbar-color: rgba(185, 95, 61, 0.45) rgba(254, 245, 241, 0.7);
+    }
+
+    #full-publications::-webkit-scrollbar {
+        width: 8px;
+    }
+
+    #full-publications::-webkit-scrollbar-track {
+        background: rgba(254, 245, 241, 0.7);
+        border-radius: 999px;
+    }
+
+    #full-publications::-webkit-scrollbar-thumb {
+        background: rgba(185, 95, 61, 0.45);
+        border-radius: 999px;
+    }
+
+    #full-publications::-webkit-scrollbar-thumb:hover {
+        background: rgba(185, 95, 61, 0.65);
+    }
+  
     .full-publication-list {
-        margin: 0 0 24px;
+        margin: 0;
         padding-left: 1.25rem;
         color: #5f6368;
         font-size: 15px;
