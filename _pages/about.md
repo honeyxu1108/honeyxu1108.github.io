@@ -517,7 +517,7 @@ Publications
     </li>
     <li>
       <span class="pub-list-badge">ACL 2026</span>
-      <span class="pub-list-title">MagicBench: Diagnosing Visual Agency Loss and Semantic Dependency in Multimodal LLMs</span>,
+      <span class="pub-list-title">MagicBench: Diagnosing Visual Agency Loss and Semantic Dependency in Multimodal LLMs<br>
       <span class="pub-list-authors">
         Tang Da Huang, 
         <a href="https://wd7ang.github.io" target="_blank"><strong>Weidong Tang&Dagger;</strong></a>,
@@ -528,7 +528,7 @@ Publications
     </li>
     <li>
       <span class="pub-list-badge">CVPR 2026</span>
-      <span class="pub-list-title">Efficient Video Object Segmentation and Tracking with Recurrent Dynamic Submodel</span>,
+      <span class="pub-list-title">Efficient Video Object Segmentation and Tracking with Recurrent Dynamic Submodel<br>
       <span class="pub-list-authors">
         <a href="https://wd7ang.github.io" target="_blank"><strong>Weidong Tang</strong></a>, 
         <a href="https://jerryliang24.github.io/" target="_blank">Zhiyuan Liang</a>, Xinyan Wan, 
@@ -543,7 +543,7 @@ Publications
     </li>
     <li>
       <span class="pub-list-badge">PRCV 2025</span>
-      <span class="pub-list-title">Inference-Time Scaling for Visual AutoRegressive modeling by Searching Representative Samples</span>,
+      <span class="pub-list-title">Inference-Time Scaling for Visual AutoRegressive modeling by Searching Representative Samples<br>
       <span class="pub-list-authors">
         <a href="https://wd7ang.github.io" target="_blank"><strong>Weidong Tang</strong></a>, 
         Xinyan Wan, 
