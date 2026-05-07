@@ -425,7 +425,7 @@ Publications
   </div> 
 </div>
 
-All publication
+<button class="pub-button active" onclick="filterPublications(event, 'all')">All Publications</button>
 
 <script src="assets/js/show_publications.js"></script>
 <script src="assets/js/pub_media_rotator.js"></script>
