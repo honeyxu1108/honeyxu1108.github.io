@@ -576,6 +576,33 @@ Publications
       </span>
       <span class="pub-list-links"><a href="">[arXiv]</a><a href="">[code]</a></span>
     </li>
+        <li>
+      <span class="pub-list-badge">PRCV 2025</span>
+      <span class="pub-list-title">Inference-Time Scaling for Visual AutoRegressive modeling by Searching Representative Samples</span><br>
+      <span class="pub-list-authors">
+        <a href="https://wd7ang.github.io" target="_blank"><strong>Weidong Tang</strong></a>, Xinyan Wan, Siyu Li,
+        <a href="https://scholar.google.com/citations?user=k33uf2RE8nsC&hl=zh-CN&oi=ao" target="_blank">Xiumei Wang&dagger;</a>.
+      </span>
+      <span class="pub-list-links"><a href="">[arXiv]</a><a href="">[code]</a></span>
+    </li>
+        <li>
+      <span class="pub-list-badge">PRCV 2025</span>
+      <span class="pub-list-title">Inference-Time Scaling for Visual AutoRegressive modeling by Searching Representative Samples</span><br>
+      <span class="pub-list-authors">
+        <a href="https://wd7ang.github.io" target="_blank"><strong>Weidong Tang</strong></a>, Xinyan Wan, Siyu Li,
+        <a href="https://scholar.google.com/citations?user=k33uf2RE8nsC&hl=zh-CN&oi=ao" target="_blank">Xiumei Wang&dagger;</a>.
+      </span>
+      <span class="pub-list-links"><a href="">[arXiv]</a><a href="">[code]</a></span>
+    </li>
+        <li>
+      <span class="pub-list-badge">PRCV 2025</span>
+      <span class="pub-list-title">Inference-Time Scaling for Visual AutoRegressive modeling by Searching Representative Samples</span><br>
+      <span class="pub-list-authors">
+        <a href="https://wd7ang.github.io" target="_blank"><strong>Weidong Tang</strong></a>, Xinyan Wan, Siyu Li,
+        <a href="https://scholar.google.com/citations?user=k33uf2RE8nsC&hl=zh-CN&oi=ao" target="_blank">Xiumei Wang&dagger;</a>.
+      </span>
+      <span class="pub-list-links"><a href="">[arXiv]</a><a href="">[code]</a></span>
+    </li>
   </ul>
 </div>
 
