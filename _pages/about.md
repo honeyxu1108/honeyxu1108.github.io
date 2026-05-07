@@ -312,6 +312,51 @@ redirect_from:
         box-shadow: 0 8px 16px rgba(0,0,0,0.1);
     }
 
+      @media (max-width: 720px) {
+        .publication-card,
+        .project-card {
+            align-items: stretch;
+            padding: 8px;
+        }
+
+        .publication-card > div,
+        .project-card > div {
+            flex-direction: column;
+            align-items: stretch !important;
+            width: 100%;
+        }
+
+        .publication-card .pub-media-rotator,
+        .project-card .pub-media-rotator {
+            width: 100% !important;
+            height: auto !important;
+            aspect-ratio: 16 / 9;
+            margin-right: 0 !important;
+            margin-bottom: 12px;
+        }
+
+        .publication-card .pub-media-rotator > img,
+        .project-card .pub-media-rotator > img {
+            width: 100% !important;
+            height: 100% !important;
+            object-fit: contain;
+        }
+
+        .publication-card strong,
+        .project-card strong {
+            line-height: 1.35;
+        }
+
+        .full-publication-list {
+            padding-left: 1rem;
+        }
+
+        .pub-list-badge {
+            margin-bottom: 4px;
+        }
+    }
+
+  
 </style>
 <html> 
 <head>
@@ -641,13 +686,9 @@ Publications
 Projects
 --------
 <div class="project-card" data-category="project"> 
-  <div style="display: flex; align-items: center;"> 
-    <div class="pub-media-rotator"
-         style="position: relative; width: 240px; height: 140px; 
-                margin-right: 20px; border-radius: 8px; overflow: hidden; 
-                flex: 0 0 auto; display: flex; justify-content: center; align-items: center;">
-      <img src="images/GroupToM.png" alt="ManiUniCon"
-           style="max-width: 100%; max-height: 100%; object-fit: contain;">
+  <div style="display: flex; align-items: center;">
+    <div class="pub-media-rotator" data-interval="4000" style="position: relative; width: 320px; height: 180px; margin-right: 20px; border-radius: 8px; overflow: hidden; flex: 0 0 auto;">
+      <img src="images/GroupToM.png" alt="ManiUniCon" style="width: 320px; height: 180px; object-fit: contain; display: block; margin: 0 auto;">
     </div>
     <div> 
       <strong>ManiUniCon: A Unified Control Interface for Robotic Manipulation</strong><br>
