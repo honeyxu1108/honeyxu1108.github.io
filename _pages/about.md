@@ -490,13 +490,14 @@ Publications
     </div>
   </div> 
 </div>
-</div>
 
+
+</div>
 <div id="full-publications" class="publication-view" data-publication-view="list" hidden>
   <ul class="full-publication-list">
     <li>
       <span class="pub-list-badge">ACL 2026</span>
-      <span class="pub-list-title">GroupToM-Bench: Benchmarking Group Theory of Mind and Nonlinear Social Emergence in MLLMs</span>,
+      <span class="pub-list-title">GroupToM-Bench: Benchmarking Group Theory of Mind and Nonlinear Social Emergence in MLLMs<br>
       <span class="pub-list-authors">
         <a href="https://wd7ang.github.io" target="_blank"><strong>Weidong Tang</strong></a>, 
         Jierui Li, 
