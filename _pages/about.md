@@ -312,7 +312,7 @@ Experience
 
 Publications
 --------------
-<button class="pub-button active" onclick="filterPublications(event, 'all')">All Publications</button>
+<button class="pub-button active" onclick="filterPublications(event, 'all')">Core Publications</button>
 <button class="pub-button" onclick="filterPublications(event, 'mllm')">MLLM</button>
 <button class="pub-button" onclick="filterPublications(event, 'benchmark')">BenchMark</button>
 
