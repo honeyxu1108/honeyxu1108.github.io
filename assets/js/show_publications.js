@@ -1,25 +1,31 @@
-function showPublications(type) {
-  // Update button states
-  const allButtons = document.querySelectorAll('.pub-button');
-  allButtons.forEach(button => button.classList.remove('active'));
-  
-  if (type === 'all') {
-    document.querySelector('.pub-button:first-child').classList.add('active');
-  } else {
-    document.querySelector('.pub-button:nth-child(2)').classList.add('active');
+function filterPublications(event, type) {
+  const normalizedType = type === 'list' ? 'list' : 'core';
+  const buttons = document.querySelectorAll('.pub-button');
+  const coreView = document.querySelector('[data-publication-view="core"]');
+  const listView = document.querySelector('[data-publication-view="list"]');
+
+  buttons.forEach((button) => button.classList.remove('active'));
+
+  if (event && event.currentTarget) {
+    event.currentTarget.classList.add('active');
+  } else if (buttons.length) {
+    const activeIndex = normalizedType === 'list' ? 1 : 0;
+    if (buttons[activeIndex]) buttons[activeIndex].classList.add('active');
   }
-  
-  // Show/hide publications based on type
-  const allPubs = document.querySelectorAll('.publication-card');
-  allPubs.forEach(pub => {
-    if (type === 'all') {
-      pub.style.display = 'flex';
-    } else if (type === 'featured') {
-      if (pub.classList.contains('featured')) {
-        pub.style.display = 'flex';
-      } else {
-        pub.style.display = 'none';
-      }
-    }
-  });
+
+  if (coreView) {
+    coreView.hidden = normalizedType === 'list';
+  }
+
+  if (listView) {
+    listView.hidden = normalizedType !== 'list';
+  }
 }
+
+function showPublications(type) {
+  filterPublications(null, type);
+}
+
+document.addEventListener('DOMContentLoaded', () => {
+  filterPublications(null, 'core');
+});
