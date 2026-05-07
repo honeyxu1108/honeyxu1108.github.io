@@ -191,6 +191,7 @@ redirect_from:
         margin: 0 0 24px;
         padding-left: 1.25rem;
         color: #5f6368;
+        font-size: 15px;
         line-height: 1.55;
     }
 
@@ -215,7 +216,9 @@ redirect_from:
 
     .full-publication-list .pub-list-title {
         color: #202124;
+        font-size: 15px;
         font-weight: 700;
+        line-height: 1.45;
         text-decoration: none !important;
     }
 
@@ -497,16 +500,9 @@ Publications
   <ul class="full-publication-list">
     <li>
       <span class="pub-list-badge">ACL 2026</span>
-      <span class="pub-list-title">GroupToM-Bench: Benchmarking Group Theory of Mind and Nonlinear Social Emergence in MLLMs<br>
+      <span class="pub-list-title">GroupToM-Bench: Benchmarking Group Theory of Mind and Nonlinear Social Emergence in MLLMs</span><br>
       <span class="pub-list-authors">
-        <a href="https://wd7ang.github.io" target="_blank"><strong>Weidong Tang</strong></a>, 
-        Jierui Li, 
-        Yueling Hou, 
-        Zihan Mei, 
-        Zhigang Tian,
-        Weicheng Jiao,
-        Can Zhang, 
-        Xinyan Wan,
+        <a href="https://wd7ang.github.io" target="_blank"><strong>Weidong Tang</strong></a>, Jierui Li, Yueling Hou, Zihan Mei, Zhigang Tian, Weicheng Jiao, Can Zhang, Xinyan Wan,
         <a href="https://jerryliang24.github.io/" target="_blank">Zhiyuan Liang</a>,
         <a href="https://lancezpf.github.io/" target="_blank">Pengfei Zhou&dagger;</a>,
         <a href="https://www.comp.nus.edu.sg/~youy/" target="_blank">Yang You</a>,
@@ -517,39 +513,35 @@ Publications
     </li>
     <li>
       <span class="pub-list-badge">ACL 2026</span>
-      <span class="pub-list-title">MagicBench: Diagnosing Visual Agency Loss and Semantic Dependency in Multimodal LLMs<br>
+      <span class="pub-list-title">MagicBench: Diagnosing Visual Agency Loss and Semantic Dependency in Multimodal LLMs</span><br>
       <span class="pub-list-authors">
-        Tang Da Huang, 
+        Tang Da Huang,
         <a href="https://wd7ang.github.io" target="_blank"><strong>Weidong Tang&Dagger;</strong></a>,
-        Wen Qi Xu, 
-        Xianpeng Guo&dagger;
-        .</span>
+        Wen Qi Xu, Xianpeng Guo&dagger;.
+      </span>
       <span class="pub-list-links"><a href="">[arXiv]</a><a href="">[code]</a></span>
     </li>
     <li>
       <span class="pub-list-badge">CVPR 2026</span>
-      <span class="pub-list-title">Efficient Video Object Segmentation and Tracking with Recurrent Dynamic Submodel<br>
+      <span class="pub-list-title">Efficient Video Object Segmentation and Tracking with Recurrent Dynamic Submodel</span><br>
       <span class="pub-list-authors">
-        <a href="https://wd7ang.github.io" target="_blank"><strong>Weidong Tang</strong></a>, 
-        <a href="https://jerryliang24.github.io/" target="_blank">Zhiyuan Liang</a>, Xinyan Wan, 
-        <a href="https://scholar.google.com.hk/citations?user=W9HbDoYAAAAJ&hl=en" target="_blank">Chen Zhu</a>, 
-        <a href="https://scholar.google.com.hk/citations?user=qNWDwOcAAAAJ&hl=en" target="_blank">Zhaopan Xu</a>, 
-        <a href="https://lancezpf.github.io/" target="_blank">Pengfei Zhou</a>&dagger;, 
-        Yan Song, 
-        <a href="https://www.comp.nus.edu.sg/~youy/" target="_blank">Yang You</a>, 
+        <a href="https://wd7ang.github.io" target="_blank"><strong>Weidong Tang</strong></a>,
+        <a href="https://jerryliang24.github.io/" target="_blank">Zhiyuan Liang</a>, Xinyan Wan,
+        <a href="https://scholar.google.com.hk/citations?user=W9HbDoYAAAAJ&hl=en" target="_blank">Chen Zhu</a>,
+        <a href="https://scholar.google.com.hk/citations?user=qNWDwOcAAAAJ&hl=en" target="_blank">Zhaopan Xu</a>,
+        <a href="https://lancezpf.github.io/" target="_blank">Pengfei Zhou</a>&dagger;, Yan Song,
+        <a href="https://www.comp.nus.edu.sg/~youy/" target="_blank">Yang You</a>,
         <a href="https://wangbo-zhao.github.io/" target="_blank">Wangbo Zhao&dagger;</a>.
       </span>
       <span class="pub-list-links"><a href="">[arXiv]</a><a href="">[code]</a></span>
     </li>
     <li>
       <span class="pub-list-badge">PRCV 2025</span>
-      <span class="pub-list-title">Inference-Time Scaling for Visual AutoRegressive modeling by Searching Representative Samples<br>
+      <span class="pub-list-title">Inference-Time Scaling for Visual AutoRegressive modeling by Searching Representative Samples</span><br>
       <span class="pub-list-authors">
-        <a href="https://wd7ang.github.io" target="_blank"><strong>Weidong Tang</strong></a>, 
-        Xinyan Wan, 
-        Siyu Li,
-        <a href="https://scholar.google.com/citations?user=k33uf2RE8nsC&hl=zh-CN&oi=ao" target="_blank">Xiumei Wang&dagger;
-        </a>.</span>
+        <a href="https://wd7ang.github.io" target="_blank"><strong>Weidong Tang</strong></a>, Xinyan Wan, Siyu Li,
+        <a href="https://scholar.google.com/citations?user=k33uf2RE8nsC&hl=zh-CN&oi=ao" target="_blank">Xiumei Wang&dagger;</a>.
+      </span>
       <span class="pub-list-links"><a href="">[arXiv]</a><a href="">[code]</a></span>
     </li>
   </ul>
