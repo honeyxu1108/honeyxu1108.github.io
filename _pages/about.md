@@ -425,7 +425,7 @@ Publications
   </div> 
 </div>
 
-
+All publication
 
 <script src="assets/js/show_publications.js"></script>
 <script src="assets/js/pub_media_rotator.js"></script>
