@@ -361,6 +361,7 @@ Publications
 
 (* equal contribution · &dagger; corresponding author · &Dagger; project leader)
 
+<div id="core-publications" class="publication-view" data-publication-view="core">
 <div class="publication-card" data-category="all"> 
   <div style="display: flex; align-items: center;">
     <div class="pub-media-rotator" data-interval="4000" style="position: relative; width: 320px; height: 180px; margin-right: 20px; border-radius: 8px; overflow: hidden; flex: 0 0 auto;"> 
@@ -467,7 +468,37 @@ Publications
     </div>
   </div> 
 </div>
+</div>
 
+<div id="full-publications" class="publication-view" data-publication-view="list" hidden>
+  <ul class="full-publication-list">
+    <li>
+      <span class="pub-list-badge">ACL 2026</span>
+      <span class="pub-list-title">GroupToM-Bench: Benchmarking Group Theory of Mind and Nonlinear Social Emergence in MLLMs</span>,
+      <strong>Weidong Tang</strong>, Jierui Li, Yueling Hou, Zihan Mei, Zhigang Tian, Weicheng Jiao, Can Zhang, Xinyan Wan, Zhiyuan Liang, Pengfei Zhou&dagger;, Yang You, Wangbo Zhao&dagger;.
+      <em>Oral.</em>
+      <span class="pub-list-links"><a href="">[arXiv]</a><a href="">[code]</a></span>
+    </li>
+    <li>
+      <span class="pub-list-badge">ACL 2026</span>
+      <span class="pub-list-title">MagicBench: Diagnosing Visual Agency Loss and Semantic Dependency in Multimodal LLMs</span>,
+      Tang Da Huang, <strong>Weidong Tang&Dagger;</strong>, Wen Qi Xu, Xianpeng Guo&dagger;.
+      <span class="pub-list-links"><a href="">[arXiv]</a><a href="">[code]</a></span>
+    </li>
+    <li>
+      <span class="pub-list-badge">CVPR 2026</span>
+      <span class="pub-list-title">Efficient Video Object Segmentation and Tracking with Recurrent Dynamic Submodel</span>,
+      <strong>Weidong Tang</strong>, Zhiyuan Liang, Xinyan Wan, Chen Zhu, Zhaopan Xu, Pengfei Zhou&dagger;, Yan Song, Yang You, Wangbo Zhao&dagger;.
+      <span class="pub-list-links"><a href="">[arXiv]</a><a href="">[code]</a></span>
+    </li>
+    <li>
+      <span class="pub-list-badge">PRCV 2025</span>
+      <span class="pub-list-title">Inference-Time Scaling for Visual AutoRegressive modeling by Searching Representative Samples</span>,
+      <strong>Weidong Tang</strong>, Xinyan Wan, Xiumei Wang&dagger;.
+      <span class="pub-list-links"><a href="">[arXiv]</a><a href="">[code]</a></span>
+    </li>
+  </ul>
+</div>
 
 <script src="assets/js/show_publications.js"></script>
 <script src="assets/js/pub_media_rotator.js"></script>
