@@ -571,16 +571,16 @@ Publications
       <span class="pub-list-badge">AAAI 2026</span>
       <span class="pub-list-title">MDK12-Bench: a multi-discipline benchmark for evaluating reasoning in multimodal large language models</span><br>
       <span class="pub-list-authors">
-        <a href="https://lancezpf.github.io/" target="_blank">Pengfei Zhou*,
+        <a href="https://lancezpf.github.io/" target="_blank">Pengfei Zhou*</a>,
           Xiaopeng Peng*,
            Fanrui Zhang*, 
           <a href="https://scholar.google.com.hk/citations?user=qNWDwOcAAAAJ&hl=en" target="_blank">Zhaopan Xu</a>,
           Jiaxin Ai, Yansheng Qiu,
-          <a href="https://wangbo-zhao.github.io/" target="_blank">Wangbo Zhao,
+          <a href="https://wangbo-zhao.github.io/" target="_blank">Wangbo Zhao</a>,
             Jiajun Song, Chuanhao Li, 
             <a href="https://wd7ang.github.io" target="_blank"><strong>Weidong Tang</strong></a>,
             Zhen Li, Haoquan Zhang, Zizhen Li, Xiaofeng Mao, Yukang Feng, Jianwen Sun, 
-          <a href="https://scholar.google.com/citations?hl=zh-CN&user=i2II0XIAAAAJ" target="_blank">Kai Wang,
+          <a href="https://scholar.google.com/citations?hl=zh-CN&user=i2II0XIAAAAJ" target="_blank">Kai Wang</a>,
           Xiaojun Chang, Wenqi Shao, 
           <a href="https://www.comp.nus.edu.sg/~youy/" target="_blank">Yang You</a>,
           <a href="https://scholar.google.com/citations?hl=zh-CN&user=4OqZBmYAAAAJ&view_op=list_works&sortby=pubdate" target="_blank">Kaipeng Zhang&dagger;</a>.
