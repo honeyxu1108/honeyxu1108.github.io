@@ -183,6 +183,50 @@ redirect_from:
         border-color: #ca6f6f;
     }
 
+      .publication-view[hidden] {
+        display: none !important;
+    }
+
+    .full-publication-list {
+        margin: 0 0 24px;
+        padding-left: 1.25rem;
+        color: #4f5358;
+        line-height: 1.55;
+    }
+
+    .full-publication-list li {
+        margin-bottom: 12px;
+    }
+
+    .pub-list-badge {
+        display: inline-block;
+        margin-right: 6px;
+        padding: 1px 6px;
+        border-radius: 2px;
+        background: #123a8c;
+        color: #fff;
+        font-size: 11px;
+        font-weight: 700;
+        line-height: 1.35;
+        vertical-align: 1px;
+        white-space: nowrap;
+    }
+
+    .full-publication-list .pub-list-title {
+        color: #1f4f95;
+        text-decoration: underline !important;
+        text-underline-offset: 2px;
+    }
+
+    .pub-list-links {
+        white-space: nowrap;
+    }
+
+    .pub-list-links a {
+        margin-left: 4px;
+        font-weight: 600;
+    }
+
     /* Projects cards: keep styles independent from publications */
     .project-card {
         display: flex;
