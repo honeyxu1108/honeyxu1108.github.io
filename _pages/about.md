@@ -694,7 +694,7 @@ Projects
       <strong>academic-homepage</strong><br>
       <i style="font-size: 13px;">
         <a href="https://wd7ang.github.io" target="_blank"><strong>Weidong Tang</strong></a>,
-        <a href="https://selen-suyue.github.io/" target="_blank"><strong>Yue Su</strong></a>,
+        <a href="https://selen-suyue.github.io/" target="_blank"><strong>Yue Su</strong></a>.
       </i><br>
       In collaboration with Yue Su, I refined and improved his original homepage template. A clean standalone template version is coming soon.
       <br> 
