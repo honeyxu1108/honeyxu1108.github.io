@@ -691,7 +691,7 @@ Projects
       <img src="images/homepage.png" alt="ManiUniCon" style="width: 320px; height: 180px; object-fit: contain; display: block; margin: 0 auto;">
     </div>
     <div> 
-      <strong>academic-homepage</strong><br>
+      <strong>WowPage</strong><br>
       <i style="font-size: 13px;">
         <a href="https://wd7ang.github.io" target="_blank"><strong>Weidong Tang</strong></a>,
         <a href="https://selen-suyue.github.io/" target="_blank"><strong>Yue Su</strong></a>.
