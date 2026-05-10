@@ -565,8 +565,8 @@ Publications
       <br> 
       <b><i style="color:#83a1c7;">PRCV 2025 &nbsp;
       </i></b> 
-      <a href=""><em>[arXiv]</em></a> 
-      <a href=""><em>[code]</em></a> 
+      <a href="https://link.springer.com/chapter/10.1007/978-981-95-5699-1_28"><em>[arXiv]</em></a> 
+      <a href="https://github.com/WD7ang/VAR-Scaling"><em>[code]</em></a> 
     </div>
   </div> 
 </div>
@@ -699,7 +699,7 @@ Projects
       In collaboration with Yue Su, I refined and improved his original homepage template. A clean standalone template version is coming soon.
       <br> 
       <b><i style="color:#83a1c7;">Project &nbsp;</i></b> 
-      <a href=""><em>[code]</em></a> 
+      <a href="https://github.com/WD7ang/WowPage"><em>[code]</em></a> 
     </div>
   </div> 
 </div>
