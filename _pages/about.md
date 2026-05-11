@@ -542,9 +542,9 @@ Publications
       <br> 
       <b><i style="color:#83a1c7;">CVPR 2026 &nbsp;
       </i></b> 
+      <a href="images/RDS_poster.png"><em>[Poster]</em></a>
       <a href=""><em>[arXiv]</em></a> 
       <a href=""><em>[code]</em></a> 
-      <a href="images/RDS_poster.png"><em>[Poster]</em></a>
     </div>
   </div> 
 </div>
@@ -566,9 +566,9 @@ Publications
       <br> 
       <b><i style="color:#83a1c7;">PRCV 2025 &nbsp;
       </i></b> 
+      <a href="images/var_poster.png"><em>[Poster]</em></a>
       <a href="https://link.springer.com/chapter/10.1007/978-981-95-5699-1_28"><em>[arXiv]</em></a> 
       <a href="https://github.com/WD7ang/VAR-Scaling"><em>[code]</em></a> 
-      <a href="images/var_poster.png"><em>[Poster]</em></a>
     </div>
   </div> 
 </div>
