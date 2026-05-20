@@ -487,7 +487,7 @@ Publications
       </i><br> 
       We propose GroupToM-Bench and show that current models fail at nonlinear group reasoning despite strong individual-level ToM, exposing a clear group cognitive gap. 
       <br> 
-      <b><i style="color:#83a1c7;">ACL 2026 Oral &nbsp;
+      <b><i style="color:#83a1c7;">ACL 2026 &nbsp;
       </i></b> 
       <a href=""><em>[arXiv]</em></a> 
       <a href=""><em>[code]</em></a> 
@@ -587,7 +587,6 @@ Publications
         <a href="https://www.comp.nus.edu.sg/~youy/" target="_blank">Yang You</a>,
         <a href="https://wangbo-zhao.github.io/" target="_blank">Wangbo Zhao&dagger;</a>.
       </span>
-      <span class="pub-list-note">Oral.</span>
       <span class="pub-list-links"><a href="">[arXiv]</a><a href="">[code]</a></span>
     </li>
     <li>
