@@ -401,8 +401,8 @@ News
 <div class="news-box">
   <ul class="news-list">
     <li><span class="news-date"><em>2026.05</em></span> 🎉🎉 I begin my internship at Alibaba Group.</li>
-    <li><span class="news-date"><em>2026.04</em></span> 🎉🎉 Two papers accepted to ACL 2026. (Not publicly available on arXiv yet due to visa-related clearance).</li>
-    <li><span class="news-date"><em>2026.02</em></span> 🎉🎉 One paper accepted to CVPR 2026. (Not publicly available on arXiv yet due to visa-related clearance).</li>
+    <li><span class="news-date"><em>2026.04</em></span> 🎉🎉 Two papers accepted to ACL 2026.</li>
+    <li><span class="news-date"><em>2026.02</em></span> 🎉🎉 One paper accepted to CVPR 2026.</li>
     <li><span class="news-date"><em>2026.01</em></span> 🎉🎉 I begin my internship at TeleAI.</li>
     <li><span class="news-date"><em>2025.08</em></span> 🎉🎉 One paper accepted to PRCV 2025.</li>
     <li><span class="news-date"><em>2025.07</em></span> 🎉🎉 One paper accepted to ICCV 2025.</li>
