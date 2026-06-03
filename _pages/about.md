@@ -543,7 +543,7 @@ Publications
       <b><i style="color:#83a1c7;">CVPR 2026 &nbsp;
       </i></b> 
       <a href="images/RDS_poster.png"><em>[Poster]</em></a>
-      <a href=""><em>[arXiv]</em></a> 
+      <a href="https://openaccess.thecvf.com/content/CVPR2026/html/Tang_Efficient_Video_Object_Segmentation_and_Tracking_with_Recurrent_Dynamic_Submodel_CVPR_2026_paper.html"><em>[arXiv]</em></a> 
       <a href=""><em>[code]</em></a> 
     </div>
   </div> 
@@ -611,7 +611,7 @@ Publications
         <a href="https://www.comp.nus.edu.sg/~youy/" target="_blank">Yang You</a>,
         <a href="https://wangbo-zhao.github.io/" target="_blank">Wangbo Zhao&dagger;</a>.
       </span>
-      <span class="pub-list-links"><a href="">[arXiv]</a><a href="">[code]</a></span>
+      <span class="pub-list-links"><a href="https://openaccess.thecvf.com/content/CVPR2026/html/Tang_Efficient_Video_Object_Segmentation_and_Tracking_with_Recurrent_Dynamic_Submodel_CVPR_2026_paper.html">[arXiv]</a><a href="">[code]</a></span>
     </li>
         <li>
       <span class="pub-list-badge">AAAI 2026</span>
