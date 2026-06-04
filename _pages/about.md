@@ -489,7 +489,8 @@ Publications
       <br> 
       <b><i style="color:#83a1c7;">ACL 2026 &nbsp;
       </i></b> 
-      <a href=""><em>[arXiv]</em></a> 
+      <a href="images/GroupToM_poster.pdf"><em>[Poster]</em></a>
+      <a href="https://arxiv.org/pdf/2606.04184"><em>[arXiv]</em></a> 
       <a href=""><em>[code]</em></a> 
     </div>
   </div> 
