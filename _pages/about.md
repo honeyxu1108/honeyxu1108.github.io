@@ -543,7 +543,7 @@ Publications
       <br> 
       <b><i style="color:#83a1c7;">CVPR 2026 &nbsp;
       </i></b> 
-      <a href="images/RDS_poster.png"><em>[Poster]</em></a>
+      <a href="images/cvpr_poster.pdf"><em>[Poster]</em></a>
       <a href="https://openaccess.thecvf.com/content/CVPR2026/html/Tang_Efficient_Video_Object_Segmentation_and_Tracking_with_Recurrent_Dynamic_Submodel_CVPR_2026_paper.html"><em>[arXiv]</em></a> 
       <a href=""><em>[code]</em></a> 
     </div>
