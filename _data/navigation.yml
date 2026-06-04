@@ -23,7 +23,7 @@ main:
     url: "/#talks"
     
   - title: "CV-En"
-    url: "/files/weidongtang_resume.pdf"
+    url: "/images/cv.pdf"
 
   # - title: "CV-Cn"
   #   url: "/files/chinese_resume.pdf"
