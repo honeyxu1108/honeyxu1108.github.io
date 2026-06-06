@@ -717,8 +717,7 @@ Awards
 Services
 --------
 - *2025.06 – Present*, AI Team Lead, 🌊Xidian–Inspur Club.
-- Reviewer for ICIC 2026.
-- Reviewer for PRCV 2025, 2026.
+- Reviewer for ICIC 2026, PRCV (2025,2026).
 
 Talks
 --------
