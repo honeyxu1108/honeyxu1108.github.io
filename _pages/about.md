@@ -493,7 +493,7 @@ Publications
       </i></b> 
       <a href="images/GroupToM_poster.pdf"><em>[Poster]</em></a>
       <a href="https://arxiv.org/pdf/2606.04184"><em>[arXiv]</em></a> 
-      <a href=""><em>[code]</em></a> 
+      <a href="https://huggingface.co/datasets/Twwwd/GroupToM-Bench"><em>[code]</em></a> 
     </div>
   </div> 
 </div>
@@ -590,7 +590,7 @@ Publications
         <a href="https://www.comp.nus.edu.sg/~youy/" target="_blank">Yang You</a>,
         <a href="https://wangbo-zhao.github.io/" target="_blank">Wangbo Zhao&dagger;</a>.
       </span>
-      <span class="pub-list-links"><a href="">[arXiv]</a><a href="">[code]</a></span>
+      <span class="pub-list-links"><a href="https://arxiv.org/pdf/2606.04184">[arXiv]</a><a href="https://huggingface.co/datasets/Twwwd/GroupToM-Bench">[code]</a></span>
     </li>
     <li>
       <span class="pub-list-badge">ACL 2026</span>
