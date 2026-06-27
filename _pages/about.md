@@ -390,11 +390,11 @@ redirect_from:
 </body>
 </html>
 
-Hi! I am a junior (3rd-year) undergraduate student at Xidian University. 
+Hi! I am a second-year master's student in the <a href="http://www.cs.sjtu.edu.cn"><em>School of Computer Science</em></a> at <a href="https://www.sjtu.edu.cn/"><em>Shanghai Jiao Tong University</em></a>.
 
-My research interests include **Multimodal learning**, **Efficient AI** and **Human-centric AI** and other emerging areas in AI. 
-My methodological preference is for approaches that are simple, clear, and extensible. I enjoy exploring diverse research directions and collaborating with researchers across different fields.
+Starting from 2024, I am supervised by Prof. <a href="https://scholar.google.com/citations?user=yDEavdMAAAAJ&hl=zh-CN"><em>Xiaokang Yang</em></a> and Associate Professor <a href="https://daodaofr.github.io/"><em>Yichao Yan</em></a> at the Institute of Artificial Intelligence. Prior to that, I received my bachelor's degree from <a href="https://www.shu.edu.cn/"><em>Shanghai University</em></a>.
 
+My research interests include **Motion Generation**, **Personal Portrait Animation** and **Computer Vision**. I am also interested in **History** in my spare time.
 
 Feel free to reach out if you are interested in collaboration or potential opportunities.
 
@@ -402,13 +402,8 @@ News
 ---------------
 <div class="news-box">
   <ul class="news-list">
-    <li><span class="news-date"><em>2026.05</em></span> 🎉🎉 I begin my internship at Alibaba Group.</li>
-    <li><span class="news-date"><em>2026.04</em></span> 🎉🎉 Two papers accepted to ACL 2026.</li>
-    <li><span class="news-date"><em>2026.02</em></span> 🎉🎉 One paper accepted to CVPR 2026.</li>
-    <li><span class="news-date"><em>2026.01</em></span> 🎉🎉 I begin my internship at TeleAI.</li>
-    <li><span class="news-date"><em>2025.08</em></span> 🎉🎉 One paper accepted to PRCV 2025.</li>
-    <li><span class="news-date"><em>2025.07</em></span> 🎉🎉 One paper accepted to ICCV 2025.</li>
-    <li><span class="news-date"><em>2024.10</em></span> 🎉🎉 I joined the HPC-AI Lab at NUS as a Research Assistant.</li>
+    <li><span class="news-date"><em>2026.03</em></span> 🎉🎉 One paper: SingingBot is accepted by ICME 2026!</li>
+    <li><span class="news-date"><em>2025.06</em></span> 🎉🎉 One paper is accepted by ICCV 2025!</li>
   </ul>
 </div>
 
@@ -417,44 +412,22 @@ Experience
 
 <div class="experience-container">
   <div class="experience-card">
-      <img src="images/Alibaba.png" alt="Alibaba logo" class="experience-logo">
+      <div class="experience-logo" style="background:#B31B1B;color:#fff;font-size:11px;font-weight:700;display:flex;align-items:center;justify-content:center;text-align:center;line-height:1.15;">SJTU</div>
       <div class="experience-info">
-          <strong>Alibaba Group</strong><br>
-          <em>2026.05 - Present</em><br>
-          MLLM Engineer Intern advised by <a href="https://liamding.cc/"><em>Liang Ding</em></a> and <a href="https://ethanscuter.github.io/"><em>Xintong Wang</em></a>
-      </div>
-  </div>
-
-
-  
-  <div class="experience-card">
-      <img src="images/TeleAI.png" alt="TeleAI logo" class="experience-logo">
-      <div class="experience-info">
-          <strong>Institute of Artificial Intelligence of China Telecom</strong><br>
-          <em>2026.01 - 2026.03</em><br>
-          Start My Journey in LLM
+          <strong>Shanghai Jiao Tong University</strong><br>
+          <em>2024.09 - Present</em><br>
+          M.S. student at <a href="http://www.cs.sjtu.edu.cn"><em>School of Computer Science</em></a>, advised by <a href="https://scholar.google.com/citations?user=yDEavdMAAAAJ&hl=zh-CN"><em>Xiaokang Yang</em></a> and <a href="https://daodaofr.github.io/"><em>Yichao Yan</em></a>
       </div>
   </div>
 
   <div class="experience-card">
-      <img src="images/NUS.png" alt="NUS logo" class="experience-logo">
+      <div class="experience-logo" style="background:#003087;color:#fff;font-size:11px;font-weight:700;display:flex;align-items:center;justify-content:center;text-align:center;line-height:1.15;">SHU</div>
       <div class="experience-info">
-          <strong>National University of Singapore</strong><br>
-          <em>2024.10 - 2025.10</em><br>
-          Research Assistant at <a href="https://ai.comp.nus.edu.sg/"><em>HPC-AI Lab</em></a> advised by <a href="https://www.comp.nus.edu.sg/~youy/"><em>Yang You</em></a>, <a href="https://wangbo-zhao.github.io/"><em>Wangbo Zhao</em></a> and <a href="https://lancezpf.github.io/"><em>Pengfei Zhou</em></a>
+          <strong>Shanghai University</strong><br>
+          <em>B.E.</em><br>
+          Received my bachelor's degree before joining SJTU
       </div>
   </div>
-
-
-  <div class="experience-card">
-      <img src="images/XDU.png" alt="Xi'dian logo" class="experience-logo">
-      <div class="experience-info">
-          <strong>Xidian University</strong><br>
-          <em>2023.09 - Present</em><br>
-          Rank 5/99, B.E at <a href="https://ste.xidian.edu.cn/"><em>School of Telecommunication Engineering</em></a> & Research Assistant advised by <a href="https://scholar.google.com/citations?user=k33uf2RE8nsC&hl=zh-CN&oi=ao"><em>Xiumei Wang</em></a>
-      </div>
-  </div>
-  
 </div>
 
 
@@ -466,260 +439,91 @@ Publications
 (* equal contribution · &dagger; corresponding author · &Dagger; project leader)
 
 <div id="core-publications" class="publication-view" data-publication-view="core">
-<div class="publication-card" data-category="all"> 
+<div class="publication-card" data-category="all">
   <div style="display: flex; align-items: center;">
-    <div class="pub-media-rotator" data-interval="4000" style="position: relative; width: 320px; height: 180px; margin-right: 20px; border-radius: 8px; overflow: hidden; flex: 0 0 auto;"> 
-      <img src="images/GroupToM.png" alt="wog" style="width: 320px; height: 180px; object-fit: contain; display: block; margin: 0 auto;"> 
-    </div> 
-    <div>
-      <strong>GroupToM-Bench: Benchmarking Group Theory of Mind and Nonlinear Social Emergence in MLLMs</strong><br>
-      <i style="font-size: 13px;">
-        <a href="https://wd7ang.github.io" target="_blank"><strong>Weidong Tang</strong></a>, 
-        Jierui Li,
-        Yueling Hou, 
-        Zihan Mei, 
-        Zhigang Tian, 
-        Weicheng Jiao, 
-        Can Zhang, 
-        Xinyan Wan, 
-        <a href="https://jerryliang24.github.io/" target="_blank">Zhiyuan Liang</a>, 
-        <a href="https://lancezpf.github.io/" target="_blank">Pengfei Zhou&dagger;</a>,
-        <a href="https://www.comp.nus.edu.sg/~youy/" target="_blank">Yang You</a>, 
-        <a href="https://wangbo-zhao.github.io/" target="_blank">Wangbo Zhao&dagger;</a>
-      </i><br> 
-      We propose GroupToM-Bench and show that current models fail at nonlinear group reasoning despite strong individual-level ToM, exposing a clear group cognitive gap. 
-      <br> 
-      <b><i style="color:#83a1c7;">ACL 2026 &nbsp;
-      </i></b> 
-      <a href="images/GroupToM_poster.pdf"><em>[Poster]</em></a>
-      <a href="https://arxiv.org/pdf/2606.04184"><em>[arXiv]</em></a> 
-      <a href="https://huggingface.co/datasets/Twwwd/GroupToM-Bench"><em>[code]</em></a> 
+    <div class="pub-media-rotator" data-interval="4000" style="position: relative; width: 320px; height: 180px; margin-right: 20px; border-radius: 8px; overflow: hidden; flex: 0 0 auto;">
+      <img src="images/intervla.jpg" alt="InterVLA" style="width: 320px; height: 180px; object-fit: contain; display: block; margin: 0 auto;">
     </div>
-  </div> 
+    <div>
+      <strong><a href="https://arxiv.org/abs/2508.04681" target="_blank">Perceiving and Acting in First-Person: A Dataset and Benchmark for Egocentric Human-Object-Human Interactions</a></strong><br>
+      <i style="font-size: 13px;">
+        <a href="https://liangxuy.github.io/" target="_blank">Liang Xu</a>,
+        Chengqun Yang,
+        Zili Lin,
+        <a href="https://honeyxu1108.github.io" target="_blank"><strong>Fei Xu</strong></a>,
+        Yifan Liu,
+        Congsheng Xu,
+        Yiyi Zhang,
+        Jie Qin,
+        Xingdong Sheng,
+        Yunhui Liu,
+        Xin Jin,
+        <a href="https://daodaofr.github.io/" target="_blank">Yichao Yan</a>,
+        Wenjun Zeng,
+        <a href="https://scholar.google.com/citations?user=yDEavdMAAAAJ&hl=zh-CN" target="_blank">Xiaokang Yang</a>
+      </i><br>
+      We embed the manual-assisted task into a vision-language-action framework and build InterVLA, the first large-scale human-object-human interaction dataset with 11.4 hours and 1.2M frames of multimodal data, along with benchmarks on egocentric human motion estimation, interaction synthesis, and interaction prediction.
+      <br>
+      <b><i style="color:#83a1c7;">ICCV 2025 &nbsp;
+      </i></b>
+      <a href="https://arxiv.org/abs/2508.04681"><em>[arXiv]</em></a>
+    </div>
+  </div>
 </div>
 
-
-<div class="publication-card" data-category="all"> 
+<div class="publication-card" data-category="all">
   <div style="display: flex; align-items: center;">
-    <div class="pub-media-rotator" data-interval="4000" style="position: relative; width: 320px; height: 180px; margin-right: 20px; border-radius: 8px; overflow: hidden; flex: 0 0 auto;"> 
-      <img src="images/MagicBench.png" alt="wog" style="width: 320px; height: 180px; object-fit: contain; display: block; margin: 0 auto;"> 
-    </div> 
-    <div>
-      <strong>MagicBench: Diagnosing Visual Agency Loss and Semantic Dependency in Multimodal LLMs</strong><br>
-      <i style="font-size: 13px;">
-        Tang Da Huang,
-        <a href="https://wd7ang.github.io" target="_blank"><strong>Weidong Tang&Dagger;</strong></a>, 
-        Wen Qi Xu,
-        Xianpeng Guo&dagger;
-      </i><br> 
-      The authors introduce MagicBench, a video dataset of magic tricks, to test if Multimodal LLMs actually rely on visual physics or if they are overly dependent on language narratives (which, in magic tricks, are deliberately deceptive).
-      <br> 
-      <b><i style="color:#83a1c7;">ACL 2026 &nbsp;
-      </i></b> 
-      <a href=""><em>[arXiv]</em></a> 
-      <a href=""><em>[code]</em></a> 
+    <div class="pub-media-rotator" data-interval="4000" style="position: relative; width: 320px; height: 180px; margin-right: 20px; border-radius: 8px; overflow: hidden; flex: 0 0 auto;">
+      <img src="images/SingingBot.png" alt="SingingBot" style="width: 320px; height: 180px; object-fit: contain; display: block; margin: 0 auto;">
     </div>
-  </div> 
-</div>
-
-
-<div class="publication-card" data-category="all"> 
-  <div style="display: flex; align-items: center;">
-    <div class="pub-media-rotator" data-interval="4000" style="position: relative; width: 320px; height: 180px; margin-right: 20px; border-radius: 8px; overflow: hidden; flex: 0 0 auto;"> 
-      <img src="images/RDS.png" alt="wog" style="width: 320px; height: 180px; object-fit: contain; display: block; margin: 0 auto;"> 
-    </div> 
     <div>
-      <strong>Efficient Video Object Segmentation and Tracking with Recurrent Dynamic Submodel</strong><br>
+      <strong><a href="https://arxiv.org/abs/2601.02125" target="_blank">SingingBot: An Avatar-Driven System for Robotic Face Singing Performance</a></strong><br>
       <i style="font-size: 13px;">
-        <a href="https://wd7ang.github.io" target="_blank"><strong>Weidong Tang</strong></a>, 
-        <a href="https://jerryliang24.github.io/" target="_blank">Zhiyuan Liang</a>, 
-        Xinyan Wan, 
-        <a href="https://scholar.google.com.hk/citations?user=W9HbDoYAAAAJ&hl=en" target="_blank">Chen Zhu</a>, 
-        <a href="https://scholar.google.com.hk/citations?user=qNWDwOcAAAAJ&hl=en" target="_blank">Zhaopan Xu</a>, 
-        <a href="https://lancezpf.github.io/" target="_blank">Pengfei Zhou</a>,
-        Yan Song,
-        <a href="https://www.comp.nus.edu.sg/~youy/" target="_blank">Yang You</a>, 
-        <a href="https://wangbo-zhao.github.io/" target="_blank">Wangbo Zhao&dagger;</a>
-      </i><br> 
-      Proposed a Recurrent Dynamic Submodel for efficient Video Object Segmentation and Tracking. By integrating temporal-prior-guided global dynamic routing and Importance-aware LoRA, it achieves an optimal trade-off between performance and speed using minimal trainable parameters and training data.
-      <br> 
-      <b><i style="color:#83a1c7;">CVPR 2026 &nbsp;
-      </i></b> 
-      <a href="images/cvpr_poster.pdf"><em>[Poster]</em></a>
-      <a href="https://openaccess.thecvf.com/content/CVPR2026/html/Tang_Efficient_Video_Object_Segmentation_and_Tracking_with_Recurrent_Dynamic_Submodel_CVPR_2026_paper.html"><em>[arXiv]</em></a> 
-      <a href=""><em>[code]</em></a> 
+        Zhuoxiong Xu,
+        Xuanchen Li,
+        Yuhao Cheng,
+        <a href="https://honeyxu1108.github.io" target="_blank"><strong>Fei Xu</strong></a>,
+        <a href="https://daodaofr.github.io/" target="_blank">Yichao Yan</a>,
+        <a href="https://scholar.google.com/citations?user=yDEavdMAAAAJ&hl=zh-CN" target="_blank">Xiaokang Yang</a>
+      </i><br>
+      We propose an avatar-driven framework for appealing robotic singing that synthesizes vivid singing avatars for expression guidance and transfers facial features to the robot via semantic-oriented mapping, achieving rich emotional expressions while maintaining lip-audio synchronization.
+      <br>
+      <b><i style="color:#83a1c7;">ICME 2026 &nbsp;
+      </i></b>
+      <a href="https://arxiv.org/abs/2601.02125"><em>[arXiv]</em></a>
     </div>
-  </div> 
+  </div>
 </div>
-
-
-<div class="publication-card" data-category="all"> 
-  <div style="display: flex; align-items: center;">
-    <div class="pub-media-rotator" data-interval="4000" style="position: relative; width: 320px; height: 180px; margin-right: 20px; border-radius: 8px; overflow: hidden; flex: 0 0 auto;"> 
-      <img src="images/var-scaling.png" alt="wog" style="width: 320px; height: 180px; object-fit: contain; display: block; margin: 0 auto;"> 
-    </div> 
-    <div>
-      <strong>Inference-Time Scaling for Visual AutoRegressive modeling by Searching Representative Samples</strong><br>
-      <i style="font-size: 13px;">
-        <a href="https://wd7ang.github.io" target="_blank"><strong>Weidong Tang</strong></a>, 
-        Xinyan Wan,
-        <a href="https://scholar.google.com/citations?user=k33uf2RE8nsC&hl=zh-CN&oi=ao" target="_blank">Xiumei Wang&dagger;</a>
-      </i><br> 
-      Explored inference-time scaling in discrete spaces by mapping them to continuous spaces to obtain density distributions, thereby optimizing the sampling of early coarse-scale features.
-      <br> 
-      <b><i style="color:#83a1c7;">PRCV 2025 &nbsp;
-      </i></b> 
-      <a href="images/var_poster.png"><em>[Poster]</em></a>
-      <a href="https://link.springer.com/chapter/10.1007/978-981-95-5699-1_28"><em>[arXiv]</em></a> 
-      <a href="https://github.com/WD7ang/VAR-Scaling"><em>[code]</em></a> 
-    </div>
-  </div> 
-</div>
-
 
 </div>
 <div id="full-publications" class="publication-view" data-publication-view="list" hidden>
   <ul class="full-publication-list">
     <li>
-      <span class="pub-list-badge">ACL 2026</span>
-      <span class="pub-list-title">GroupToM-Bench: Benchmarking Group Theory of Mind and Nonlinear Social Emergence in MLLMs</span><br>
-      <span class="pub-list-authors">
-        <a href="https://wd7ang.github.io" target="_blank"><strong>Weidong Tang</strong></a>, Jierui Li, Yueling Hou, Zihan Mei, Zhigang Tian, Weicheng Jiao, Can Zhang, Xinyan Wan,
-        <a href="https://jerryliang24.github.io/" target="_blank">Zhiyuan Liang</a>,
-        <a href="https://lancezpf.github.io/" target="_blank">Pengfei Zhou&dagger;</a>,
-        <a href="https://www.comp.nus.edu.sg/~youy/" target="_blank">Yang You</a>,
-        <a href="https://wangbo-zhao.github.io/" target="_blank">Wangbo Zhao&dagger;</a>.
-      </span>
-      <span class="pub-list-links"><a href="https://arxiv.org/pdf/2606.04184">[arXiv]</a><a href="https://huggingface.co/datasets/Twwwd/GroupToM-Bench">[code]</a></span>
-    </li>
-    <li>
-      <span class="pub-list-badge">ACL 2026</span>
-      <span class="pub-list-title">MagicBench: Diagnosing Visual Agency Loss and Semantic Dependency in Multimodal LLMs</span><br>
-      <span class="pub-list-authors">
-        Tang Da Huang,
-        <a href="https://wd7ang.github.io" target="_blank"><strong>Weidong Tang&Dagger;</strong></a>,
-        Wen Qi Xu, Xianpeng Guo&dagger;.
-      </span>
-      <span class="pub-list-links"><a href="">[arXiv]</a><a href="">[code]</a></span>
-    </li>
-    <li>
-      <span class="pub-list-badge">CVPR 2026</span>
-      <span class="pub-list-title">Efficient Video Object Segmentation and Tracking with Recurrent Dynamic Submodel</span><br>
-      <span class="pub-list-authors">
-        <a href="https://wd7ang.github.io" target="_blank"><strong>Weidong Tang</strong></a>,
-        <a href="https://jerryliang24.github.io/" target="_blank">Zhiyuan Liang</a>, Xinyan Wan,
-        <a href="https://scholar.google.com.hk/citations?user=W9HbDoYAAAAJ&hl=en" target="_blank">Chen Zhu</a>,
-        <a href="https://scholar.google.com.hk/citations?user=qNWDwOcAAAAJ&hl=en" target="_blank">Zhaopan Xu</a>,
-        <a href="https://lancezpf.github.io/" target="_blank">Pengfei Zhou</a>&dagger;, Yan Song,
-        <a href="https://www.comp.nus.edu.sg/~youy/" target="_blank">Yang You</a>,
-        <a href="https://wangbo-zhao.github.io/" target="_blank">Wangbo Zhao&dagger;</a>.
-      </span>
-      <span class="pub-list-links"><a href="https://openaccess.thecvf.com/content/CVPR2026/html/Tang_Efficient_Video_Object_Segmentation_and_Tracking_with_Recurrent_Dynamic_Submodel_CVPR_2026_paper.html">[arXiv]</a><a href="">[code]</a></span>
-    </li>
-        <li>
-      <span class="pub-list-badge">AAAI 2026</span>
-      <span class="pub-list-title">MDK12-Bench: a multi-discipline benchmark for evaluating reasoning in multimodal large language models</span><br>
-      <span class="pub-list-authors">
-        <a href="https://lancezpf.github.io/" target="_blank">Pengfei Zhou*</a>,
-          Xiaopeng Peng*,
-           Fanrui Zhang*, 
-          <a href="https://scholar.google.com.hk/citations?user=qNWDwOcAAAAJ&hl=en" target="_blank">Zhaopan Xu</a>,
-          Jiaxin Ai, Yansheng Qiu,
-          <a href="https://wangbo-zhao.github.io/" target="_blank">Wangbo Zhao</a>,
-            Jiajun Song, Chuanhao Li, 
-            <a href="https://wd7ang.github.io" target="_blank"><strong>Weidong Tang</strong></a>,
-            Zhen Li, Haoquan Zhang, Zizhen Li, Xiaofeng Mao, Yukang Feng, Jianwen Sun, 
-          <a href="https://scholar.google.com/citations?hl=zh-CN&user=i2II0XIAAAAJ" target="_blank">Kai Wang</a>,
-          Xiaojun Chang, Wenqi Shao, 
-          <a href="https://www.comp.nus.edu.sg/~youy/" target="_blank">Yang You</a>,
-          <a href="https://scholar.google.com/citations?hl=zh-CN&user=4OqZBmYAAAAJ&view_op=list_works&sortby=pubdate" target="_blank">Kaipeng Zhang&dagger;</a>.
-      </span>
-      <span class="pub-list-links"><a href="">[arXiv]</a><a href="">[code]</a></span>
-    </li>
-    <li>
-      <span class="pub-list-badge">PRCV 2025</span>
-      <span class="pub-list-title">Inference-Time Scaling for Visual AutoRegressive modeling by Searching Representative Samples</span><br>
-      <span class="pub-list-authors">
-        <a href="https://wd7ang.github.io" target="_blank"><strong>Weidong Tang</strong></a>, Xinyan Wan, Siyu Li,
-        <a href="https://scholar.google.com/citations?user=k33uf2RE8nsC&hl=zh-CN&oi=ao" target="_blank">Xiumei Wang&dagger;</a>.
-      </span>
-      <span class="pub-list-links"><a href="">[arXiv]</a><a href="">[code]</a></span>
-    </li>
-        <li>
       <span class="pub-list-badge">ICCV 2025</span>
-      <span class="pub-list-title">EA-ViT: Efficient Adaptation for Elastic Vision Transformer</span><br>
+      <a class="pub-list-title" href="https://arxiv.org/abs/2508.04681" target="_blank">Perceiving and Acting in First-Person: A Dataset and Benchmark for Egocentric Human-Object-Human Interactions</a><br>
       <span class="pub-list-authors">
-        <a href="https://scholar.google.com.hk/citations?user=W9HbDoYAAAAJ&hl=en" target="_blank">Chen Zhu</a>,
-        <a href="https://wangbo-zhao.github.io/" target="_blank">Wangbo Zhao&dagger;</a>,
-        Huiwen Zhang,
-        <a href="https://scholar.google.com/citations?hl=zh-CN&user=bGKF2tUAAAAJ" target="_blank">Yuhao Zhou</a>,
-        <a href="https://wd7ang.github.io" target="_blank"><strong>Weidong Tang</strong></a>, 
-        Shuo Wang,
-        Zhihang Yuan,
-        Yuzhang Shang,
-        <a href="https://scholar.google.com/citations?hl=zh-CN&user=7oRD67kAAAAJ" target="_blank">Xiaojiang Peng</a>,
-        <a href="https://scholar.google.com/citations?hl=zh-CN&user=i2II0XIAAAAJ" target="_blank">Kai Wang</a>,
-        <a href="https://scholar.google.com/citations?hl=zh-CN&user=j2ANma0AAAAJ&view_op=list_works&sortby=pubdate" target="_blank">Dawei Yang&dagger;</a>.
+        <a href="https://liangxuy.github.io/" target="_blank">Liang Xu</a>, Chengqun Yang, Zili Lin,
+        <a href="https://honeyxu1108.github.io" target="_blank"><strong>Fei Xu</strong></a>,
+        Yifan Liu, Congsheng Xu, Yiyi Zhang, Jie Qin, Xingdong Sheng, Yunhui Liu, Xin Jin,
+        <a href="https://daodaofr.github.io/" target="_blank">Yichao Yan</a>, Wenjun Zeng,
+        <a href="https://scholar.google.com/citations?user=yDEavdMAAAAJ&hl=zh-CN" target="_blank">Xiaokang Yang</a>.
       </span>
-      <span class="pub-list-links"><a href="">[arXiv]</a><a href="">[code]</a></span>
+      <span class="pub-list-links"><a href="https://arxiv.org/abs/2508.04681">[arXiv]</a></span>
     </li>
-        <li>
-      <span class="pub-list-badge">Preprint 2025</span>
-      <span class="pub-list-title">Pebench: A fictitious dataset to benchmark machine unlearning for multimodal large language models</span><br>
+    <li>
+      <span class="pub-list-badge">ICME 2026</span>
+      <a class="pub-list-title" href="https://arxiv.org/abs/2601.02125" target="_blank">SingingBot: An Avatar-Driven System for Robotic Face Singing Performance</a><br>
       <span class="pub-list-authors">
-        <a href="https://scholar.google.com.hk/citations?user=qNWDwOcAAAAJ&hl=en" target="_blank">Zhaopan Xu</a>,
-        <a href="https://lancezpf.github.io/" target="_blank">Pengfei Zhou</a>,
-        <a href="https://wd7ang.github.io" target="_blank"><strong>Weidong Tang</strong></a>, 
-        Jiaxin Ai,
-        <a href="https://wangbo-zhao.github.io/" target="_blank">Wangbo Zhao</a>,
-        <a href="https://scholar.google.com/citations?hl=zh-CN&user=i2II0XIAAAAJ" target="_blank">Kai Wang</a>,
-        <a href="https://scholar.google.com/citations?hl=zh-CN&user=7oRD67kAAAAJ" target="_blank">Xiaojiang Peng</a>,
-        Wenqi Shao,
-        Hongxun Yao,
-        <a href="https://scholar.google.com/citations?hl=zh-CN&user=4OqZBmYAAAAJ&view_op=list_works&sortby=pubdate" target="_blank">Kaipeng Zhang&dagger;</a>.
+        Zhuoxiong Xu, Xuanchen Li, Yuhao Cheng,
+        <a href="https://honeyxu1108.github.io" target="_blank"><strong>Fei Xu</strong></a>,
+        <a href="https://daodaofr.github.io/" target="_blank">Yichao Yan</a>,
+        <a href="https://scholar.google.com/citations?user=yDEavdMAAAAJ&hl=zh-CN" target="_blank">Xiaokang Yang</a>.
       </span>
-      <span class="pub-list-links"><a href="">[arXiv]</a><a href="">[code]</a></span>
+      <span class="pub-list-links"><a href="https://arxiv.org/abs/2601.02125">[arXiv]</a></span>
     </li>
   </ul>
 </div>
 
 <script src="assets/js/show_publications.js"></script>
 <script src="assets/js/pub_media_rotator.js"></script>
-
-
-Projects
---------
-<div class="project-card" data-category="project"> 
-  <div style="display: flex; align-items: center;">
-    <div class="pub-media-rotator" data-interval="4000" style="position: relative; width: 320px; height: 180px; margin-right: 20px; border-radius: 8px; overflow: hidden; flex: 0 0 auto;">
-      <img src="images/homepage.png" alt="ManiUniCon" style="width: 320px; height: 180px; object-fit: contain; display: block; margin: 0 auto;">
-    </div>
-    <div> 
-      <strong>WowPage</strong><br>
-      <i style="font-size: 13px;">
-        <a href="https://wd7ang.github.io" target="_blank"><strong>Weidong Tang</strong></a>,
-        <a href="https://selen-suyue.github.io/" target="_blank"><strong>Yue Su</strong></a>.
-      </i><br>
-      In collaboration with Yue Su, I refined and improved his original homepage template. A clean standalone template version is coming soon.
-      <br> 
-      <b><i style="color:#83a1c7;">Project &nbsp;</i></b> 
-      <a href="https://github.com/WD7ang/WowPage"><em>[code]</em></a> 
-    </div>
-  </div> 
-</div>
-
-
-Awards
---------
-- *2025.09*, Second-Class Academic Scholarship, Xidian University (Ranked 5/99)
-
-
-
-Services
---------
-- *2025.06 – Present*, AI Team Lead, 🌊Xidian–Inspur Club.
-- Reviewer for ICIC 2026, PRCV (2025,2026).
-
-Talks
---------
 
