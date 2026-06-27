@@ -413,22 +413,20 @@ redirect_from:
 About Me
 ---------------
 
-Hi! I am a second-year M.S. student in <a href="http://www.cs.sjtu.edu.cn"><em>Computer Science and Technology</em></a> at the <a href="https://www.sjtu.edu.cn/"><em>School of Computer Science</em></a>, <a href="https://www.sjtu.edu.cn/"><em>Shanghai Jiao Tong University</em></a> (GPA: 3.94/4.00, Rank: 3/156).
+Hi! I am a second-year master's student in the <a href="http://www.cs.sjtu.edu.cn"><em>School of Computer Science</em></a> at <a href="https://www.sjtu.edu.cn/"><em>Shanghai Jiao Tong University</em></a>.
 
-I am advised by Prof. <a href="https://scholar.google.com/citations?user=yDEavdMAAAAJ&hl=zh-CN"><em>Xiaokang Yang</em></a> and Assoc. Prof. <a href="https://daodaofr.github.io/"><em>Yichao Yan</em></a> at the Institute of Artificial Intelligence. I received my B.E. in <em>Intelligent Manufacturing Engineering</em> from <a href="https://www.shu.edu.cn/"><em>Shanghai University</em></a> (GPA: 3.67/4.00, Top 3%).
+Starting from 2024, I am supervised by Prof. <a href="https://scholar.google.com/citations?user=yDEavdMAAAAJ&hl=zh-CN"><em>Xiaokang Yang</em></a> and Associate Professor <a href="https://daodaofr.github.io/"><em>Yichao Yan</em></a> at the Institute of Artificial Intelligence. Prior to that, I received my bachelor's degree from <a href="https://www.shu.edu.cn/"><em>Shanghai University</em></a>.
 
-My research focuses on **computer vision**, **text- and audio-driven human motion generation**, and **2D personalized portrait digital human video generation**. I have led projects on controllable whole-body motion generation (PaCoMo), audio-driven digital humans, and contributed to the InterVLA egocentric interaction dataset. I previously interned at Shanghai Xueshen Intelligent Technology, working on stylized 2D digital human generation.
+My research interests include **Motion Generation**, **Personal Portrait Animation** and **Computer Vision**. I am also interested in **History** in my spare time.
 
-Feel free to reach out if you are interested in collaboration or opportunities.
+Feel free to reach out if you are interested in collaboration or potential opportunities.
 
 News
 ---------------
 <div class="news-box">
   <ul class="news-list">
-    <li><span class="news-date"><em>2026.03</em></span> 🎉 SingingBot accepted by <strong>ICME 2026</strong>!</li>
-    <li><span class="news-date"><em>2025.09</em></span> 📝 PaCoMo and MS-UniMT submitted to <strong>ACM MM 2026</strong> and <strong>WAICA 2026</strong>.</li>
-    <li><span class="news-date"><em>2025.06</em></span> 🎉 InterVLA accepted by <strong>ICCV 2025</strong>!</li>
-    <li><span class="news-date"><em>2024.09</em></span> 🎓 Started my M.S. program at Shanghai Jiao Tong University.</li>
+    <li><span class="news-date"><em>2026.03</em></span> 🎉🎉 One paper: SingingBot is accepted by ICME 2026!</li>
+    <li><span class="news-date"><em>2025.06</em></span> 🎉🎉 One paper is accepted by ICCV 2025!</li>
   </ul>
 </div>
 
@@ -522,22 +520,6 @@ Publications
       </span>
       <span class="pub-list-links"><a href="https://arxiv.org/abs/2601.02125">[arXiv]</a></span>
     </li>
-    <li>
-      <span class="pub-list-badge">ACM MM 2026</span>
-      <span class="pub-list-title">PaCoMo: Part-aware Controllable Whole-body Human Motion Generation via Hierarchical Semantic Modeling</span><br>
-      <span class="pub-list-authors">
-        <a href="https://honeyxu1108.github.io" target="_blank"><strong>Fei Xu</strong></a> et al.
-      </span>
-      <span class="pub-list-links"><em>[Under Review]</em></span>
-    </li>
-    <li>
-      <span class="pub-list-badge">WAICA 2026</span>
-      <span class="pub-list-title">MS-UniMT: Multi-Scale Unified Masked Transformer for Whole-body Motion Generation</span><br>
-      <span class="pub-list-authors">
-        <a href="https://honeyxu1108.github.io" target="_blank"><strong>Fei Xu</strong></a> et al.
-      </span>
-      <span class="pub-list-links"><em>[Under Review]</em></span>
-    </li>
   </ul>
 </div>
 
@@ -546,12 +528,7 @@ Publications
 
 Honors and Awards
 --------------
-- *2021.07*, Second Prize (Individual All-round), 14th National "Gaojiao Cup" Advanced Graphics Technology and Product Information Modeling Innovation Competition
-- *2020.11*, National Third Prize, 3rd Intelligent Manufacturing Track, China University Mechanical Engineering Innovation and Creativity Competition
-- *2020.11*, First Prize (Team), 10th Shanghai "Shangtu Cup" Advanced Graphics Technology and Innovative Design Competition
-- *2020.11*, Shanghai Bronze Award, 12th "Challenge Cup" China College Students Entrepreneurship Plan Competition
-- *SJTU*, Merit Student, Outstanding League Member, First-Class Academic Scholarship, Graduate Excellence Scholarship
-- *SHU*, Outstanding Graduate, CPC Member Pioneer, Outstanding Student (×3), Academic Excellence Scholarship, ZEISS Special Scholarship
+- *Coming soon.*
 
 Educations
 --------------
@@ -561,10 +538,8 @@ Educations
       <div class="experience-logo" style="background:#B31B1B;color:#fff;font-size:11px;font-weight:700;display:flex;align-items:center;justify-content:center;text-align:center;line-height:1.15;">SJTU</div>
       <div class="experience-info">
           <strong>Shanghai Jiao Tong University</strong><br>
-          <em>Sep. 2024 – Mar. 2027</em><br>
-          M.S. in Computer Science and Technology, <a href="http://www.cs.sjtu.edu.cn"><em>School of Computer Science</em></a><br>
-          GPA: 3.94/4.00 · Rank: 3/156<br>
-          Advisors: <a href="https://scholar.google.com/citations?user=yDEavdMAAAAJ&hl=zh-CN"><em>Xiaokang Yang</em></a>, <a href="https://daodaofr.github.io/"><em>Yichao Yan</em></a>
+          <em>2024.09 - Present</em><br>
+          M.S. student at <a href="http://www.cs.sjtu.edu.cn"><em>School of Computer Science</em></a>, advised by <a href="https://scholar.google.com/citations?user=yDEavdMAAAAJ&hl=zh-CN"><em>Xiaokang Yang</em></a> and <a href="https://daodaofr.github.io/"><em>Yichao Yan</em></a>
       </div>
   </div>
 
@@ -572,11 +547,8 @@ Educations
       <div class="experience-logo" style="background:#003087;color:#fff;font-size:11px;font-weight:700;display:flex;align-items:center;justify-content:center;text-align:center;line-height:1.15;">SHU</div>
       <div class="experience-info">
           <strong>Shanghai University</strong><br>
-          <em>Sep. 2018 – Jun. 2022</em><br>
-          B.E. in Intelligent Manufacturing Engineering, School of Mechatronic Engineering and Automation<br>
-          GPA: 3.67/4.00 · Top 3% in the school<br>
-          Advisor: Qijie Zhao<br>
-          Outstanding Undergraduate Thesis on foreign object detection in civil aircraft assembly
+          <em>B.E.</em><br>
+          Received my bachelor's degree before joining SJTU
       </div>
   </div>
 </div>
