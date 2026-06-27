@@ -372,7 +372,7 @@ redirect_from:
         .main-heading {
             font-family: 'Permanent Marker', cursive;
             text-align: center;
-            color: #ca6f6f;
+            color: #6CB4E8;
         }
         div.markdown-body a,a {
             text-decoration: none !important;
@@ -386,7 +386,7 @@ redirect_from:
     </style>
 </head>
 <body>
-<h1 id="homepage" class="main-heading">Hi there <img src="images/Hi.gif" width="40px"> Welcome to my Homepage!</h1>
+<h1 id="homepage" class="main-heading">Welcome to my Homepage!</h1>
 </body>
 </html>
 
