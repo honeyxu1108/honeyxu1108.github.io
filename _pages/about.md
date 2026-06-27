@@ -6,12 +6,12 @@ redirect_from:
   - /about.html
 ---
 <style>
+    #homepage,
+    #about-me,
     #news,
-    #experience,
     #publications,
-    #projects,
-    #awards,
-    #talks {
+    #honors-and-awards,
+    #educations {
         scroll-margin-top: 80px;
     }
   
@@ -386,9 +386,12 @@ redirect_from:
     </style>
 </head>
 <body>
-<h1 class="main-heading">Hi there <img src="images/Hi.gif" width="40px"> Welcome to my Homepage!</h1>
+<h1 id="homepage" class="main-heading">Hi there <img src="images/Hi.gif" width="40px"> Welcome to my Homepage!</h1>
 </body>
 </html>
+
+About Me
+---------------
 
 Hi! I am a second-year master's student in the <a href="http://www.cs.sjtu.edu.cn"><em>School of Computer Science</em></a> at <a href="https://www.sjtu.edu.cn/"><em>Shanghai Jiao Tong University</em></a>.
 
@@ -406,30 +409,6 @@ News
     <li><span class="news-date"><em>2025.06</em></span> 🎉🎉 One paper is accepted by ICCV 2025!</li>
   </ul>
 </div>
-
-Experience
---------------
-
-<div class="experience-container">
-  <div class="experience-card">
-      <div class="experience-logo" style="background:#B31B1B;color:#fff;font-size:11px;font-weight:700;display:flex;align-items:center;justify-content:center;text-align:center;line-height:1.15;">SJTU</div>
-      <div class="experience-info">
-          <strong>Shanghai Jiao Tong University</strong><br>
-          <em>2024.09 - Present</em><br>
-          M.S. student at <a href="http://www.cs.sjtu.edu.cn"><em>School of Computer Science</em></a>, advised by <a href="https://scholar.google.com/citations?user=yDEavdMAAAAJ&hl=zh-CN"><em>Xiaokang Yang</em></a> and <a href="https://daodaofr.github.io/"><em>Yichao Yan</em></a>
-      </div>
-  </div>
-
-  <div class="experience-card">
-      <div class="experience-logo" style="background:#003087;color:#fff;font-size:11px;font-weight:700;display:flex;align-items:center;justify-content:center;text-align:center;line-height:1.15;">SHU</div>
-      <div class="experience-info">
-          <strong>Shanghai University</strong><br>
-          <em>B.E.</em><br>
-          Received my bachelor's degree before joining SJTU
-      </div>
-  </div>
-</div>
-
 
 Publications
 --------------
@@ -527,3 +506,29 @@ Publications
 <script src="assets/js/show_publications.js"></script>
 <script src="assets/js/pub_media_rotator.js"></script>
 
+Honors and Awards
+--------------
+- *Coming soon.*
+
+Educations
+--------------
+
+<div class="experience-container">
+  <div class="experience-card">
+      <div class="experience-logo" style="background:#B31B1B;color:#fff;font-size:11px;font-weight:700;display:flex;align-items:center;justify-content:center;text-align:center;line-height:1.15;">SJTU</div>
+      <div class="experience-info">
+          <strong>Shanghai Jiao Tong University</strong><br>
+          <em>2024.09 - Present</em><br>
+          M.S. student at <a href="http://www.cs.sjtu.edu.cn"><em>School of Computer Science</em></a>, advised by <a href="https://scholar.google.com/citations?user=yDEavdMAAAAJ&hl=zh-CN"><em>Xiaokang Yang</em></a> and <a href="https://daodaofr.github.io/"><em>Yichao Yan</em></a>
+      </div>
+  </div>
+
+  <div class="experience-card">
+      <div class="experience-logo" style="background:#003087;color:#fff;font-size:11px;font-weight:700;display:flex;align-items:center;justify-content:center;text-align:center;line-height:1.15;">SHU</div>
+      <div class="experience-info">
+          <strong>Shanghai University</strong><br>
+          <em>B.E.</em><br>
+          Received my bachelor's degree before joining SJTU
+      </div>
+  </div>
+</div>
