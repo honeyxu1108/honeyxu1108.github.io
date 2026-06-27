@@ -80,24 +80,49 @@
   display: table-cell;
   vertical-align: top;
   width: 36px;
-  // set width only, for non-square avatars
-  // height: 36px;
 
   @include breakpoint($large) {
     display: block;
-    width: auto;
-    height: auto;
+    width: 100%;
+    padding: 10px 12px 4px;
+    overflow: visible;
+    text-align: center;
   }
 
-  img {
+  img,
+  .author__avatar-image {
     max-width: 175px;
     border-radius: 50%;
+  }
+}
 
-    @include breakpoint($large) {
-      padding: 4px;
-      border: 2px solid rgba(108, 180, 232, 0.28);
-      box-shadow: 0 6px 24px rgba(74, 148, 207, 0.14);
-    }
+.author__avatar-ring {
+  display: inline-block;
+  padding: 4px;
+  border-radius: 50%;
+  background: linear-gradient(145deg, rgba(140, 196, 232, 0.55), rgba(224, 241, 252, 0.95));
+  box-shadow: 0 10px 28px rgba(74, 148, 207, 0.18);
+
+  @include breakpoint($large) {
+    padding: 5px;
+  }
+}
+
+.author__avatar-image {
+  width: 132px;
+  height: 132px;
+  max-width: 132px;
+  object-fit: cover;
+  object-position: center 18%;
+  display: block;
+  border-radius: 50%;
+  border: 3px solid #fff;
+  background: #f7fbfe;
+
+  @include breakpoint($large) {
+    width: 150px;
+    height: 150px;
+    max-width: 150px;
   }
 }
 
@@ -113,6 +138,7 @@
     width: 100%;
     padding-left: 0;
     padding-right: 0;
+    text-align: center;
   }
 }
 
