@@ -170,6 +170,38 @@ redirect_from:
         background: rgba(108, 180, 232, 0.14);
         border-color: rgba(108, 180, 232, 0.35);
     }
+
+    .pub-media-rotator {
+        position: relative;
+        background: linear-gradient(160deg, #f7fbfe 0%, #eef6fc 100%);
+    }
+
+    .pub-venue-badge {
+        position: absolute;
+        top: 0;
+        left: 0;
+        z-index: 3;
+        padding: 6px 12px;
+        background: linear-gradient(135deg, #4A94CF 0%, #3578AD 100%);
+        color: #fff;
+        font-family: "Source Sans 3", "Segoe UI", sans-serif;
+        font-size: 11.5px;
+        font-weight: 700;
+        letter-spacing: 0.04em;
+        line-height: 1.15;
+        border-radius: 8px 0 8px 0;
+        box-shadow: 0 2px 10px rgba(53, 120, 173, 0.35);
+        pointer-events: none;
+    }
+
+    .pub-venue-badge::after {
+        content: "";
+        position: absolute;
+        inset: 0;
+        border-radius: inherit;
+        border: 1px solid rgba(255, 255, 255, 0.22);
+        pointer-events: none;
+    }
     .publication-card:hover {
        
         box-shadow: 0 8px 16px rgba(0,0,0,0.1);
@@ -388,6 +420,11 @@ redirect_from:
         .pub-list-badge {
             margin-bottom: 4px;
         }
+
+        .pub-venue-badge {
+            font-size: 10px;
+            padding: 5px 10px;
+        }
     }
 
   
@@ -455,6 +492,7 @@ Publications
 <div class="publication-card" data-category="all">
   <div style="display: flex; align-items: center;">
     <div class="pub-media-rotator" data-interval="4000" style="position: relative; width: 320px; height: 180px; margin-right: 20px; border-radius: 8px; overflow: hidden; flex: 0 0 auto;">
+      <span class="pub-venue-badge">ICCV 2025</span>
       <img src="images/intervla.jpg" alt="InterVLA" style="width: 320px; height: 180px; object-fit: contain; display: block; margin: 0 auto;">
     </div>
     <div>
@@ -487,6 +525,7 @@ Publications
 <div class="publication-card" data-category="all">
   <div style="display: flex; align-items: center;">
     <div class="pub-media-rotator" data-interval="4000" style="position: relative; width: 320px; height: 180px; margin-right: 20px; border-radius: 8px; overflow: hidden; flex: 0 0 auto;">
+      <span class="pub-venue-badge">ICME 2026</span>
       <img src="images/SingingBot.png" alt="SingingBot" style="width: 320px; height: 180px; object-fit: contain; display: block; margin: 0 auto;">
     </div>
     <div>
