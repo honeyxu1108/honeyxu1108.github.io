@@ -91,7 +91,7 @@
 
   img,
   .author__avatar-image {
-    max-width: 175px;
+    max-width: 190px;
     border-radius: 50%;
   }
 }
@@ -109,9 +109,9 @@
 }
 
 .author__avatar-image {
-  width: 132px;
-  height: 132px;
-  max-width: 132px;
+  width: 148px;
+  height: 148px;
+  max-width: 148px;
   object-fit: cover;
   object-position: center 18%;
   display: block;
@@ -120,9 +120,9 @@
   background: #f7fbfe;
 
   @include breakpoint($large) {
-    width: 150px;
-    height: 150px;
-    max-width: 150px;
+    width: 168px;
+    height: 168px;
+    max-width: 168px;
   }
 }
 
@@ -183,7 +183,10 @@
 .author__research {
   margin-top: 0.85rem;
   margin-bottom: 0.25rem;
-  padding: 0.75rem 0.65rem 0.75rem 0.8rem;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 200px;
+  padding: 0.65rem 0.55rem 0.65rem 0.7rem;
   border-left: 2px solid rgba(108, 180, 232, 0.42);
   background: linear-gradient(90deg, rgba(240, 248, 253, 0.85) 0%, rgba(255, 255, 255, 0) 100%);
   border-radius: 0 10px 10px 0;
@@ -191,6 +194,7 @@
   @include breakpoint($large) {
     margin-top: 1rem;
     margin-bottom: 1.1rem;
+    max-width: 188px;
   }
 }
 
@@ -213,7 +217,7 @@
     position: relative;
     padding: 0.3rem 0 0.3rem 0.95rem;
     font-family: "Cormorant Garamond", "Noto Serif SC", Georgia, serif;
-    font-size: 1.02rem;
+    font-size: 0.96rem;
     font-weight: 500;
     line-height: 1.35;
     color: #4b5563;
