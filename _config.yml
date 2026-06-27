@@ -24,7 +24,11 @@ author:
   avatar           : "xufei.jpg"
   name             : "Fei Xu 许飞"
   pronouns         : "He/Him"
-  bio              : "Motion Generation · Portrait Animation · Computer Vision"
+  bio              :
+  research_interests:
+    - Motion Generation
+    - Portrait Animation
+    - Computer Vision
   location         : "Shanghai, China"
   employer         : "Shanghai Jiao Tong University"
   uri              : 
