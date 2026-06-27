@@ -91,7 +91,7 @@
 
   img,
   .author__avatar-image {
-    max-width: 190px;
+    max-width: 210px;
     border-radius: 50%;
   }
 }
@@ -109,9 +109,9 @@
 }
 
 .author__avatar-image {
-  width: 148px;
-  height: 148px;
-  max-width: 148px;
+  width: 165px;
+  height: 165px;
+  max-width: 165px;
   object-fit: cover;
   object-position: center 18%;
   display: block;
@@ -120,9 +120,9 @@
   background: #f7fbfe;
 
   @include breakpoint($large) {
-    width: 168px;
-    height: 168px;
-    max-width: 168px;
+    width: 188px;
+    height: 188px;
+    max-width: 188px;
   }
 }
 
@@ -187,6 +187,7 @@
   margin-right: auto;
   max-width: 200px;
   padding: 0.65rem 0.55rem 0.65rem 0.7rem;
+  text-align: left;
   border-left: 2px solid rgba(108, 180, 232, 0.42);
   background: linear-gradient(90deg, rgba(240, 248, 253, 0.85) 0%, rgba(255, 255, 255, 0) 100%);
   border-radius: 0 10px 10px 0;
@@ -194,12 +195,15 @@
   @include breakpoint($large) {
     margin-top: 1rem;
     margin-bottom: 1.1rem;
+    margin-left: 0;
+    margin-right: auto;
     max-width: 188px;
   }
 }
 
 .author__research-label {
   margin: 0 0 0.45rem 0;
+  text-align: left;
   font-family: $sans-serif;
   font-size: 0.62rem;
   font-weight: 600;
@@ -212,6 +216,7 @@
   margin: 0;
   padding: 0;
   list-style: none;
+  text-align: left;
 
   li {
     position: relative;
