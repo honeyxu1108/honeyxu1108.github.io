@@ -549,7 +549,7 @@ Educations
 
 <div class="experience-container">
   <div class="experience-card">
-      <div class="experience-logo" style="background:#B31B1B;color:#fff;font-size:11px;font-weight:700;display:flex;align-items:center;justify-content:center;text-align:center;line-height:1.15;">SJTU</div>
+      <img src="images/SJTU_logo.png" alt="SJTU logo" class="experience-logo">
       <div class="experience-info">
           <strong>Shanghai Jiao Tong University</strong><br>
           <em>2024.09 - Present</em><br>
@@ -558,7 +558,7 @@ Educations
   </div>
 
   <div class="experience-card">
-      <div class="experience-logo" style="background:#003087;color:#fff;font-size:11px;font-weight:700;display:flex;align-items:center;justify-content:center;text-align:center;line-height:1.15;">SHU</div>
+      <img src="images/SHU_logo.svg" alt="SHU logo" class="experience-logo">
       <div class="experience-info">
           <strong>Shanghai University</strong><br>
           <em>B.E.</em><br>
