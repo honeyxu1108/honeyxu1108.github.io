@@ -50,8 +50,22 @@ redirect_from:
     }
     
     .news-list li {
+      position: relative;
+      padding-left: 1rem;
       margin-bottom: 10px;
       line-height: 1.5;
+    }
+
+    .news-list li::before {
+      content: "";
+      position: absolute;
+      left: 0;
+      top: 0.55em;
+      width: 5px;
+      height: 5px;
+      border-radius: 50%;
+      background: var(--theme-accent);
+      opacity: 0.85;
     }
     
     .news-date {
@@ -425,8 +439,8 @@ News
 ---------------
 <div class="news-box">
   <ul class="news-list">
-    <li><span class="news-date"><em>2026.03</em></span> 🎉🎉 One paper: SingingBot is accepted by ICME 2026!</li>
-    <li><span class="news-date"><em>2025.06</em></span> 🎉🎉 One paper is accepted by ICCV 2025!</li>
+    <li><span class="news-date"><em>2026.03</em> 🎉🎉 One paper: SingingBot is accepted by ICME 2026!</li>
+    <li><span class="news-date"><em>2025.06</em> 🎉🎉 One paper is accepted by ICCV 2025!</li>
   </ul>
 </div>
 
