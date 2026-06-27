@@ -6,6 +6,18 @@ redirect_from:
   - /about.html
 ---
 <style>
+    :root {
+      --theme-primary: #6CB4E8;
+      --theme-accent: #4A94CF;
+      --theme-accent-hover: #3A7FB8;
+      --theme-muted: #5A8FB8;
+      --theme-bg: #F0F8FD;
+      --theme-bg-soft: #E8F4FC;
+      --theme-border: rgba(108, 180, 232, 0.32);
+      --theme-shadow: rgba(74, 148, 207, 0.16);
+      --theme-shadow-strong: rgba(74, 148, 207, 0.28);
+    }
+
     #homepage,
     #about-me,
     #news,
@@ -14,13 +26,19 @@ redirect_from:
     #educations {
         scroll-margin-top: 80px;
     }
+
+    .page__content h2 {
+      color: #334155;
+      border-bottom-color: rgba(108, 180, 232, 0.38);
+    }
   
       /* ===== News Scroll Box ===== */
     .news-box {
       max-height: 220px;
       overflow-y: auto;
       padding: 10px 14px;
-      background: #f7f7f7;
+      background: var(--theme-bg);
+      border: 1px solid var(--theme-border);
       border-radius: 10px;
       margin-bottom: 20px;
     }
@@ -40,13 +58,14 @@ redirect_from:
       display: inline-block;
       min-width: 70px;
       font-weight: 400;        /* 不加粗 */
-      color: #ca6f6f;          /* 浅粉色 */
+      color: var(--theme-accent);
     }
   
     .experience-card {
         display: flex;
         align-items: center;
-        background: #f9f9f9;
+        background: #F7FBFE;
+        border: 1px solid rgba(108, 180, 232, 0.14);
         border-radius: 12px;
         padding: 16px;
         margin-bottom: 0px;
@@ -72,7 +91,7 @@ redirect_from:
     }
     .experience-info a {
         text-decoration: none;
-        color: #ca6f6f;
+        color: var(--theme-accent);
     }
     .experience-container {
         display: flex;
@@ -133,9 +152,9 @@ redirect_from:
     .pub-badge--oral {
         margin-left: 4px;
         vertical-align: 2px;
-        color: #4c6a94;
-        background: rgba(131, 161, 199, 0.14);
-        border-color: rgba(131, 161, 199, 0.35);
+        color: #4A94CF;
+        background: rgba(108, 180, 232, 0.14);
+        border-color: rgba(108, 180, 232, 0.35);
     }
     .publication-card:hover {
        
@@ -143,14 +162,14 @@ redirect_from:
     }
 
     .publication-card.featured {
-        border-color: #f5bba7;       /* 更浅的哈密瓜色边框 */
-        background: #fef5f1;         /* 非常浅的哈密瓜色背景 */
-        box-shadow: 0 4px 8px rgba(242, 166, 120, 0.2); /* 更柔和的初始阴影 */
+        border-color: rgba(108, 180, 232, 0.45);
+        background: var(--theme-bg);
+        box-shadow: 0 4px 8px var(--theme-shadow);
         z-index: 10;
     }
 
     .publication-card.featured:hover {
-        box-shadow: 0 8px 16px rgba(242, 166, 120, 0.4); 
+        box-shadow: 0 8px 16px var(--theme-shadow-strong);
     }
     
     /*.publication-card.non-featured {*/
@@ -165,22 +184,23 @@ redirect_from:
     }
     
     .pub-button {
-        background-color: #f0f0f0;
-        border: 1px solid #ccc;
+        background-color: var(--theme-bg-soft);
+        border: 1px solid var(--theme-border);
         border-radius: 20px;
         padding: 8px 16px;
         cursor: pointer;
         transition: all 0.3s ease;
+        color: #5f6368;
     }
     
     .pub-button:hover {
-        background-color: #e0e0e0;
+        background-color: #DCEEF9;
     }
     
     .pub-button.active {
-        background-color: #ca6f6f;
+        background-color: var(--theme-primary);
         color: white;
-        border-color: #ca6f6f;
+        border-color: var(--theme-accent);
     }
 
       .publication-view[hidden] {
@@ -194,7 +214,7 @@ redirect_from:
         margin-bottom: 24px;
         scroll-behavior: smooth;
         scrollbar-width: thin;
-        scrollbar-color: rgba(185, 95, 61, 0.45) rgba(254, 245, 241, 0.7);
+        scrollbar-color: rgba(74, 148, 207, 0.45) rgba(240, 248, 253, 0.9);
     }
 
     #full-publications::-webkit-scrollbar {
@@ -202,17 +222,17 @@ redirect_from:
     }
 
     #full-publications::-webkit-scrollbar-track {
-        background: rgba(254, 245, 241, 0.7);
+        background: rgba(240, 248, 253, 0.9);
         border-radius: 999px;
     }
 
     #full-publications::-webkit-scrollbar-thumb {
-        background: rgba(185, 95, 61, 0.45);
+        background: rgba(74, 148, 207, 0.45);
         border-radius: 999px;
     }
 
     #full-publications::-webkit-scrollbar-thumb:hover {
-        background: rgba(185, 95, 61, 0.65);
+        background: rgba(74, 148, 207, 0.65);
     }
   
     .full-publication-list {
@@ -232,9 +252,9 @@ redirect_from:
         margin-right: 6px;
         padding: 2px 8px;
         border-radius: 999px;
-        border: 1px solid rgba(245, 187, 167, 0.75);
-        background: #fef5f1;
-        color: #b95f3d;
+        border: 1px solid rgba(108, 180, 232, 0.42);
+        background: var(--theme-bg);
+        color: var(--theme-muted);
         font-size: 11px;
         font-weight: 650;
         line-height: 1.35;
@@ -265,7 +285,7 @@ redirect_from:
     }
 
     .pub-list-note {
-        color: #c7774c;
+        color: var(--theme-accent);
         font-style: italic;
         font-weight: 650;
     }
@@ -276,12 +296,12 @@ redirect_from:
 
     .pub-list-links a {
         margin-left: 4px;
-        color: #c7774c !important;
+        color: var(--theme-accent) !important;
         font-weight: 600;
     }
 
       .pub-list-links a:hover {
-        color: #b65f36 !important;
+        color: var(--theme-accent-hover) !important;
     }
 
     /* Projects cards: keep styles independent from publications */
@@ -372,16 +392,16 @@ redirect_from:
         .main-heading {
             font-family: 'Permanent Marker', cursive;
             text-align: center;
-            color: #6CB4E8;
+            color: var(--theme-primary);
         }
         div.markdown-body a,a {
             text-decoration: none !important;
-            color: #ca6f6f;
-            transition: all 0.3s ease; /* 平滑过渡效果 */
+            color: var(--theme-accent);
+            transition: all 0.3s ease;
         }
         div.markdown-body a:hover, a:hover {
-            color: #c71585;            /* 悬浮时变深一点的颜色 */
-            text-decoration: underline; /* 加上悬浮时的下划线 */
+            color: var(--theme-accent-hover);
+            text-decoration: underline;
         }
     </style>
 </head>
@@ -443,7 +463,7 @@ Publications
       </i><br>
       We embed the manual-assisted task into a vision-language-action framework and build InterVLA, the first large-scale human-object-human interaction dataset with 11.4 hours and 1.2M frames of multimodal data, along with benchmarks on egocentric human motion estimation, interaction synthesis, and interaction prediction.
       <br>
-      <b><i style="color:#83a1c7;">ICCV 2025 &nbsp;
+      <b><i style="color:#4A94CF;">ICCV 2025 &nbsp;
       </i></b>
       <a href="https://arxiv.org/abs/2508.04681"><em>[arXiv]</em></a>
     </div>
@@ -467,7 +487,7 @@ Publications
       </i><br>
       We propose an avatar-driven framework for appealing robotic singing that synthesizes vivid singing avatars for expression guidance and transfers facial features to the robot via semantic-oriented mapping, achieving rich emotional expressions while maintaining lip-audio synchronization.
       <br>
-      <b><i style="color:#83a1c7;">ICME 2026 &nbsp;
+      <b><i style="color:#4A94CF;">ICME 2026 &nbsp;
       </i></b>
       <a href="https://arxiv.org/abs/2601.02125"><em>[arXiv]</em></a>
     </div>
